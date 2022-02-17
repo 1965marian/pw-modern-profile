@@ -1,4 +1,4 @@
-MULTI-LANGUAGE DEFAULT PROFILE
+MULTI-LANGUAGE MODERN PROFILE
 
 Please see this HTML document for an introduction to how this 
 site profile works: 
