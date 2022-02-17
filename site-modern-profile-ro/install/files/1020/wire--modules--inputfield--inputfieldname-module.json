@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldname-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nume"
+        },
+        "05241f55e363027bb20f4669d784c28e": {
+            "text": "Orice combina\u021bie de litere (a-z), numere (0-9) \u0219i litere de subliniere (f\u0103r\u0103 spa\u021bii)."
+        },
+        "e5e43bcb90e7ae502c28ecb1089b3aa7": {
+            "text": "Introducerea textului a fost validat\u0103 ca c\u00e2mp de nume ProcessWire"
+        }
+    }
+}

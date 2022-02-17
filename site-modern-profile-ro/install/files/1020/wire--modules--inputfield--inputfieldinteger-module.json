@@ -1,0 +1,57 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldInteger.module",
+    "textdomain": "wire--modules--inputfield--inputfieldinteger-module",
+    "translations": {
+        "100b8cad7cf2a56f6df78f171f97a1ec": {
+            "text": "orice"
+        },
+        "004d36e4fa95eec8357b066aa20e9d8d": {
+            "text": "Valoarea specificat\u0103 %3$s a fost eliminat\u0103 deoarece este \u00een afara limitelor (min=%1$s, max=%2$s)"
+        },
+        "ddf1608e4f7def4fd584f806267255d4": {
+            "text": "Tip de intrare numeric\u0103"
+        },
+        "edb082a8145b0705db7f2b843ed57471": {
+            "text": "numar (HTML5)"
+        },
+        "339f8a8a3ec4255e3982690df6c764fc": {
+            "text": "Alegerea tipului \"Number\" permite unele valid\u0103ri suplimentare pe partea clientului \u00een browserele care le accept\u0103."
+        },
+        "702a538a7348a9e52b08913558867f70": {
+            "text": "Valore minima"
+        },
+        "e9aac774de6f4b2d481938ff2403e5a8": {
+            "text": "Valoarea minim\u0103 permis\u0103 pentru acest c\u00e2mp. L\u0103sa\u021bi necompletat pentru a ignora."
+        },
+        "48b0ece3cdd23c3605c8d7ee617c43ca": {
+            "text": "Valoare maxima"
+        },
+        "41f052267baa5d7342df9bad1b957733": {
+            "text": "Valoarea maxim\u0103 pentru acest c\u00e2mp. L\u0103sa\u021bi necompletat pentru a ignora."
+        },
+        "3a5dcb943d6bc607c6b2658350526bc5": {
+            "text": "Valoare initiala"
+        },
+        "6b2dbf9c383cf3fcf4cc27147020c3b5": {
+            "text": "Valoarea ini\u021bial\u0103 atribuit\u0103."
+        },
+        "a0faef0851b4294c06f2b94bb1cb2044": {
+            "text": "Intreg"
+        },
+        "15b920388c8c88882ae50ac7e68a52ad": {
+            "text": "\u00centregul (positiv sau negativ)"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Text"
+        },
+        "bf23ca4feca536a9667209e45869c2f1": {
+            "text": "Marimea Introdusa"
+        },
+        "320e94493eb997536f4ec1eb75a61c38": {
+            "text": "Specifica\u021bi atributul de dimensiune pentru intrare sau specifica\u021bi 0 pentru l\u0103\u021bime complet\u0103."
+        },
+        "08adfc4e3f75347c88b665609425d43a": {
+            "text": "Valoarea implicit\u0103 este %d."
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/ProcessLanguage.module",
+    "textdomain": "wire--modules--languagesupport--processlanguage-module",
+    "translations": {
+        "8327b21ed9628232c90353c7c08ad16f": {
+            "text": "%d abandonat"
+        },
+        "c4337ed7fd3fa9186398110fdd126ba0": {
+            "text": "%d gol"
+        },
+        "9b73fd4d710e72a212bfc7dbe5692405": {
+            "text": "Descarca ZIP"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "Limbi"
+        },
+        "8ff1c082c6dbbbb942d86d0620b18aca": {
+            "text": "Gestiona\u021bi limbile de sistem"
+        },
+        "1514a1c310fe6db41aeda8f1b1006713": {
+            "text": "Modifica"
+        },
+        "897d3357128f316af8d6a605c545a702": {
+            "text": "%d fraza"
+        },
+        "f38977b9226f40d3b86bae7d9611a880": {
+            "text": "%d fraze"
+        },
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "Import CSV:"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "Cautare in timp real"
+        },
+        "585cff0204f1e344b4ea709b6e2928b4": {
+            "text": "Text de c\u0103utat"
+        },
+        "eb1aa189659918acda10866815cacccd": {
+            "text": "Actualiza\u021bi indexul expresiilor de c\u0103utare"
+        },
+        "59b2ae438ca9f446f5cd4d79d3395446": {
+            "text": "Face\u021bi clic aici pentru a crea indexul expresiilor de c\u0103utare"
+        },
+        "038126bcfc832f08d96c331d0316f5da": {
+            "text": "C\u0103uta\u021bi \u00een toate fi\u0219ierele care pot fi traduse un anumit text\/expresie."
+        },
+        "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
+            "text": "Face\u021bi clic pe potriviri g\u0103site pentru a edita traducerea sau pentru a ad\u0103uga fi\u0219ier (dac\u0103 nu este deja prezent)."
+        },
+        "3f045b24a15220ad5572f3ad51dd80e0": {
+            "text": "Fi\u0219ierul de traducere CSV care urmeaz\u0103 s\u0103 fie importat dup\u0103 salvare"
+        },
+        "ed2a971bca5defe00f300999d777b058": {
+            "text": "%d alternativ\u0103"
+        },
+        "7ccfd146fb192231dafacaa68c6fad13": {
+            "text": "G\u0103si\u021bi fi\u0219iere de tradus"
+        },
+        "54df9536f2bc89e18bec27b0d34ab42e": {
+            "text": "Descacare CSV"
+        },
+        "b012fb6e4f8ea5ec13a5797b60145bb3": {
+            "text": "Domeniu text nerecunoscut pentru fi\u0219ier: %s"
+        },
+        "8d8b8c1b707b1cc979c41ca7cb2a2020": {
+            "text": "%d traduceri \u00een total, %d modific\u0103ri totale"
+        },
+        "610d28b5e07bce623b5dcbcefc043344": {
+            "text": "Au fost salvate %d modific\u0103ri pentru fi\u0219ierul: %s"
+        }
+    }
+}

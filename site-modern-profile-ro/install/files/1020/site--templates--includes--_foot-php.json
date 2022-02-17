@@ -1,0 +1,15 @@
+{
+    "file": "site\/templates\/includes\/_foot.php",
+    "textdomain": "site--templates--includes--_foot-php",
+    "translations": {
+        "91e2c8e591043b9d9c7611a185358068": {
+            "text": "Foloseste ProcessWire CMS"
+        },
+        "3ee693d376f73e2bfa34e985c30bec66": {
+            "text": "Iesire(%)"
+        },
+        "b6e31daf2404aab3d78c7e972dfe3f8d": {
+            "text": "Logare Administrator"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "Deschide \u00eentr-o fereastr\u0103 modal\u0103?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Bifa\u021bi caseta pentru a deschide aceast\u0103 fil\u0103 \u00eentr-o fereastr\u0103 modal\u0103. Acest lucru poate \u00eembun\u0103t\u0103\u021bi performan\u021ba cu forme foarte mari."
+        },
+        "e9f1e9337e418af0267d9475c5b46940": {
+            "text": "Pentru a rezolva nevoi similare, lua\u021bi \u00een considerare op\u021biunea AJAX, disponibil\u0103 \u00een meniu: Input (fil\u0103)> Vizibilitate> Prezentare."
+        }
+    }
+}

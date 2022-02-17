@@ -1,0 +1,216 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--config-php",
+    "translations": {
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Fisier"
+        },
+        "130b3d918858ab70e130f882bed5edbe": {
+            "text": "Extensii de fi\u0219iere permise"
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Introduce\u021bi toate extensiile de fi\u0219iere permise de acest c\u00e2mp de \u00eenc\u0103rcare. Separa\u021bi fiecare extensie printr-un spa\u021biu. F\u0103r\u0103 puncte sau virgule. Acest c\u00e2mp nu face distinc\u021bie \u00eentre majuscule \u0219i minuscule."
+        },
+        "ecc79534d4d067624a9ff21c9007cf0f": {
+            "text": "Extensia de fi\u0219ier %s trebuie s\u0103 fie eliminat\u0103, trecut\u0103 pe lista alb\u0103 sau s\u0103 aib\u0103 instalat un modul de validare a fi\u0219ierelor."
+        },
+        "02c7048fd25999ef0196b9c702031e69": {
+            "text": "Extensii de fi\u0219iere de permis f\u0103r\u0103 validare (list\u0103 alb\u0103)"
+        },
+        "8d0d44f9431f8dbb6599425c0d0a38a2": {
+            "text": "Aceste extensii de fi\u0219iere necesit\u0103 instalat un modul de validare a fi\u0219ierelor. Extensiile nebifate au fost dezactivate pentru siguran\u021b\u0103."
+        },
+        "3cf5aa280976802bec73910581f4dbe5": {
+            "text": "Pentru a ignora \u0219i a permite extensia fi\u0219ierului f\u0103r\u0103 validarea fi\u0219ierului, bifa\u021bi caseta de l\u00e2ng\u0103 aceasta (nu este recomandat\u0103)."
+        },
+        "4c8ec65a891b88ab97e4c0ca89b1e161": {
+            "text": "Dac\u0103 nu ave\u021bi nevoie de o extensie, elimina\u021bi-o din lista de extensii de fi\u0219iere valide."
+        },
+        "34f7d8569876cb1a4b73390d2d3528cd": {
+            "text": "Num\u0103rul maxim de fi\u0219iere"
+        },
+        "de38bb7cf785c7c8bdfc0e1011d3056a": {
+            "text": "(o valoare de 0 \u00eenseamn\u0103 c\u0103 nu exist\u0103 limit\u0103)"
+        },
+        "6dab09cc3298db0a1910fa57b90351a2": {
+            "text": "Fiecare fi\u0219ier poate avea text de descriere op\u021bional care este introdus \u00een editorul de pagini \u0219i poate fi scos pe front-end."
+        },
+        "445c10f03463258c5646dfb9ddfc2622": {
+            "text": "De exemplu, este obi\u0219nuit s\u0103 folosi\u021bi textul descrierii ca atribut \u201ealt\u201d atunci c\u00e2nd reda\u021bi tags <img> pentru fi\u0219ierele imagine."
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "Formatatoare de text (pentru descrieri de fi\u0219iere)"
+        },
+        "32409f0b1cd120b66cea293a46c8032e": {
+            "text": "Etichete de fi\u0219iere"
+        },
+        "b55655b900ccd6c743eec6ca69d47a9a": {
+            "text": "Etichetele v\u0103 permit s\u0103 ave\u021bi etichete predefinite sau personalizate de un cuv\u00e2nt pentru a \u00eenso\u021bi fiecare fi\u0219ier."
+        },
+        "6ab8e7e456ae5d6187a05f5c1a2c40ae": {
+            "text": "C\u00e2nd sunt utilizate, fi\u0219ierele pot avea orice num\u0103r de etichete."
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "Selecta\u021bi unul sau mai multe formatoare de text (\u0219i ordinea acestora) care vor fi aplicate la descrierea fi\u0219ierului atunci c\u00e2nd formatarea de ie\u0219ire este activ\u0103. Codificatorul de entitati HTML este recomandat ca minim."
+        },
+        "46b47d6ebfaf955b2ea2c4deb8acb7fa": {
+            "text": "Etichetele pot fi utile pentru clasificarea unui fi\u0219ier."
+        },
+        "7a1bc94ff553f83b21c9ad1248543c18": {
+            "text": "De exemplu, o etichet\u0103 a barei laterale poate indica o imagine pe care dori\u021bi s\u0103 o afi\u0219a\u021bi automat \u00eentr-o bar\u0103 lateral\u0103."
+        },
+        "4727ffde45e752b8d1c5ec4740b25444": {
+            "text": "Folosi\u021bi etichete de fi\u0219ier?"
+        },
+        "8d550b9f7f5bde97eac6e78eea9f4ed2": {
+            "text": "C\u00e2nd este activat, c\u00e2mpul va con\u021bine \u0219i o op\u021biune pentru etichetele selectate (sau introduse) de utilizator pentru fiecare fi\u0219ier."
+        },
+        "b32f1d32240c3f4298baf57f5f0d88b1": {
+            "text": "Utilizatorul selecteaz\u0103 din lista de etichete predefinite"
+        },
+        "18856ebc636a3ce5a3e083ddd831c949": {
+            "text": "Etichete dezactivate"
+        },
+        "564d93d129c0a94937b12c4fafa4ad62": {
+            "text": "Utilizatorul introduce etichete prin introducerea textului"
+        },
+        "83b7a060baaabcf327d37b63bf72bd63": {
+            "text": "pot introduce propriile lor"
+        },
+        "3dc8049d67dc4088f705f9d94bc48652": {
+            "text": "Etichete de fi\u0219iere predefinite"
+        },
+        "43bce07bd160232ee31114541357640c": {
+            "text": "Introduce\u021bi etichete separate printr-un spa\u021biu. Etichetele pot con\u021bine litere, cifre, caractere de subliniere sau cratime."
+        },
+        "a0af6bad96d7e79b06174600be6b480b": {
+            "text": "Exemple de utilizare a etichetelor"
+        },
+        "30b3b29a9b14045e591d7409bf9b8172": {
+            "text": "Afi\u0219eaz\u0103 toate fi\u0219ierele cu eticheta \u201ebar\u0103 lateral\u0103\u201d"
+        },
+        "720288cbab99d3ca6e8994693a15df81": {
+            "text": "La fel ca mai sus folosind o alt\u0103 metod\u0103"
+        },
+        "d7c60080cfa6bf0157407cf8e592e9ca": {
+            "text": "Ob\u021bine\u021bi un fi\u0219ier cu etichet\u0103"
+        },
+        "14d16d497322288077ddb51e1c9bad84": {
+            "text": "Display tags for all files"
+        },
+        "8faa7616b66ec7990abd90e6eb970b03": {
+            "text": "Documentatie:"
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "Valori formatate"
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "Selecta\u021bi tipul de valoare pe care dori\u021bi s\u0103 o furnizeze acest c\u00e2mp atunci c\u00e2nd este accesat din API-ul de pe front-end-ul site-ului dvs."
+        },
+        "c0e161ac2ecec98d0c8bb5f163c4b279": {
+            "text": "C\u00e2nd formatarea ie\u0219irii este dezactivat\u0103, valoarea este \u00eentotdeauna o matrice %s array."
+        },
+        "086247a9b57fde6eefee2a0c4752242d": {
+            "text": "Automat"
+        },
+        "4baa1a5e2258639723ac2c8c258297a5": {
+            "text": "(fi\u0219ier unic sau nul c\u00e2nd fi\u0219ierele maxime sunt setate la 1, \u00een caz contrar matrice de elemente cu mai multe fi\u0219iere)"
+        },
+        "a9c9e7818e56124f98fd90168c0bb08c": {
+            "text": "Matrice(array) de articole cu mai multe fi\u0219iere"
+        },
+        "d19baaf6e0b64fcdc34a386b7c2298a6": {
+            "text": "Fi\u0219ier unic c\u00e2nd este populat, nul c\u00e2nd este gol"
+        },
+        "c175f71a9a4f1e8a8c4aa7187be25d63": {
+            "text": "\u0218ir(string) de markup\/text randat"
+        },
+        "4a989703a6000c30a09f5857fb7f20f0": {
+            "text": "(configurabil)"
+        },
+        "b74176f4828823f7800a9deafd8b0f4d": {
+            "text": "Exemplu de utilizare a mai multor fi\u0219iere"
+        },
+        "cc58528899ff92480114494c1a8cbc7e": {
+            "text": "Exemplu de utilizare a unui singur fi\u0219ier"
+        },
+        "1bc580809c796e521316a1a495084d38": {
+            "text": "i.e."
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Furniza\u021bi \u0219irul(string) de text redat pe care dori\u021bi s\u0103 \u00eel afi\u0219a\u021bi ca valoare a acestui c\u00e2mp. Dac\u0103 c\u00e2mpul con\u021bine mai multe elemente, acest \u0219ir va fi redat de mai multe ori. Dac\u0103 c\u00e2mpul nu con\u021bine niciun element, va fi folosit un \u0219ir gol."
+        },
+        "bc87ae1cea1ec39d98cb68f7198a23a4": {
+            "text": "Pute\u021bi utiliza oricare dintre urm\u0103toarele etichete de substituent:"
+        },
+        "7b9324fd1b6cc33da6065e0338fd1828": {
+            "text": "C\u00e2mpuri customizate"
+        },
+        "464b7386b281c4351c2b22a2968be583": {
+            "text": "C\u00e2mpurile personalizate v\u0103 permit s\u0103 defini\u021bi c\u00e2mpuri suplimentare de text, num\u0103r \u0219i selec\u021bie pentru a \u00eenso\u021bi fiecare fi\u0219ier ca metadate."
+        },
+        "bd02d4cb90800173cbefee03c4e39d1c": {
+            "text": "Utiliza\u021bi acest lucru atunci c\u00e2nd ave\u021bi nevoie de ceva mai mult dec\u00e2t o descriere a fi\u0219ierului \u0219i\/sau etichete."
+        },
+        "e96b5e4a44489720ddfd5c8f0bc7c8d4": {
+            "text": "Pentru mai multe informa\u021bii, consulta\u021bi: %s."
+        },
+        "674c8abf6416d34295dca28c074b951d": {
+            "text": "Cum func\u021bioneaz\u0103 c\u00e2mpurile personalizate pentru fi\u0219iere\/imagini"
+        },
+        "3301a70ba35b82ff2d2c48d2303befd4": {
+            "text": "Folosi\u021bi c\u00e2mpuri personalizate pentru fiecare fi\u0219ier?"
+        },
+        "edff576be0da9025ff8cdbc845f42557": {
+            "text": "S-a creat \u0219ablonul de c\u00e2mpuri personalizate: %s"
+        },
+        "eddbb22443a358c25b523a2b1ea13a27": {
+            "text": "C\u00e2mpurile personalizate sunt activate \u0219i gestionate dintr-un \u0219ablon."
+        },
+        "ca2a3a8473fef6a68aa88445b8a3f862": {
+            "text": "Utiliza\u021bi butonul \u201eEdita\u021bi c\u00e2mpurile personalizate\u201d de mai jos pentru a ad\u0103uga sau modifica c\u00e2mpurile pe care dori\u021bi s\u0103 le men\u021bine\u021bi pentru fiecare fi\u0219ier."
+        },
+        "9cd6a4fe3407c8aa92eb4ed3b4066c49": {
+            "text": "Majoritatea c\u00e2mpurilor de text, numere \u0219i selec\u021bie vor func\u021biona aici, dar unele tipuri de c\u00e2mpuri s-ar putea s\u0103 nu."
+        },
+        "8aa4af0a95c0601cf5b9ff0db1abdb16": {
+            "text": "Edita\u021bi c\u00e2mpurile personalizate"
+        },
+        "2f91f0d53d469e691f68554022e7426b": {
+            "text": "\u0218ablonul de c\u00e2mpuri personalizate este: %s"
+        },
+        "411de45d712bc52bf20397e686ced665": {
+            "text": "Pentru a dezactiva definitiv c\u00e2mpurile personalizate pentru acest c\u00e2mp, \u0219terge\u021bi \u0219ablonul %s."
+        },
+        "b232b3febcd514c94d3a01ec7c90b727": {
+            "text": "C\u00e2nd activa\u021bi c\u00e2mpurile personalizate, salva\u021bi \u0219i apoi reveni\u021bi aici pentru a le configura."
+        },
+        "918339f9d2be43fb1343a0999d91f7e2": {
+            "text": "Pagina care con\u021bine valoarea implicit\u0103\/de rezerv\u0103 pentru acest c\u00e2mp"
+        },
+        "f4adf511dd72b27244f802b5ca027eca": {
+            "text": "Op\u021bional, selecta\u021bi o pagin\u0103 care va con\u021bine valoarea implicit\u0103\/de rezerv\u0103, \u00een acela\u0219i c\u00e2mp."
+        },
+        "39eb21d8ba89f126ca77c936092fe041": {
+            "text": "Poate dori\u021bi s\u0103 crea\u021bi o pagin\u0103 special \u00een acest scop."
+        },
+        "0debf9bf73234ccd8ef3a4f6f0afc5c8": {
+            "text": "Pagina selectat\u0103 trebuie s\u0103 aib\u0103 un c\u00e2mp %s populat cu unul sau mai multe fi\u0219iere."
+        },
+        "a0d1f6d231d53462451ca80f74dce859": {
+            "text": "Tipul c\u00e2mpului de intrare pentru c\u00e2mpul fi\u0219ierelor"
+        },
+        "d5d6f34e6e58f9351e36d93c982eff52": {
+            "text": "Tipul de c\u00e2mp care va fi utilizat pentru a colecta intr\u0103ri pentru acest c\u00e2mp de fi\u0219iere."
+        },
+        "9cdd19f51364783933fefd557c7cd644": {
+            "text": "Schimba\u021bi acest lucru numai dac\u0103 vi se solicit\u0103 acest lucru de c\u0103tre instruc\u021biunile modulului Inputfield de la o ter\u021b\u0103 parte."
+        },
+        "d51491292f62e94821f0fb6802cc1849": {
+            "text": "Module Fieldtype permise pentru c\u00e2mpurile personalizate"
+        },
+        "100061c6a3b1c84e1a3617988f77bd88": {
+            "text": "Tipurile cu bar\u0103 nu sunt susceptibile s\u0103 fie 100% compatibile."
+        }
+    }
+}

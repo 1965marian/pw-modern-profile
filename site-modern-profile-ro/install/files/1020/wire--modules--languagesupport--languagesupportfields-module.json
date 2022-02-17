@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportFields.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportfields-module",
+    "translations": {
+        "16d43921f6466356a5420de1d357ffb6": {
+            "text": "Suport lingvistic \/ Comportament Nul"
+        },
+        "d5984c66ace0dae1773e991655e79484": {
+            "text": "Ce ar trebui s\u0103 se \u00eent\u00e2mple c\u00e2nd acest c\u00e2mp este gol?"
+        },
+        "2890518e61caa93e64ca13dbc48fd26a": {
+            "text": "Se aplic\u0103 numai valorilor de limb\u0103 care nu sunt implicite de pe front-end-ul site-ului dvs."
+        },
+        "b22ada5d7a2fc27462f6c477fc5c4dbd": {
+            "text": "Mo\u0219tene\u0219te valorile din limba implicit\u0103"
+        },
+        "58d2e94541b468a4154422bbbc8a6ba5": {
+            "text": "Ramane gol"
+        }
+    }
+}

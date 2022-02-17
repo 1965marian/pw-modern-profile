@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageTabs.module",
+    "textdomain": "wire--modules--languagesupport--languagetabs-module",
+    "translations": {
+        "4ee6b922de4a3b1d79036b200520ee37": {
+            "text": "Extinde\u021bi filele de limb\u0103"
+        },
+        "c667865dc18e9366c835d279c3192aea": {
+            "text": "Restr\u00e2nge\/Conversie \u00eenapoi la file"
+        },
+        "f69430a321cf6f1a6f0ab31192d94fd2": {
+            "text": "face\u021bi clic de dou\u0103 ori pentru a schimba toate filele"
+        },
+        "72f18bd929af0ac260805811117b85e9": {
+            "text": "C\u00e2mp de utilizat pentru etichetele filelor"
+        }
+    }
+}

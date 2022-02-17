@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
+    "textdomain": "wire--modules--process--processpermission--processpermission-module",
+    "translations": {
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Permisiuni"
+        },
+        "175111b089b0e62fbde2b5344f2a547f": {
+            "text": "Gestiona\u021bi permisiunile de sistem"
+        },
+        "179e210d56ed91c1da0ac7cff7234b21": {
+            "text": "Instala\u021bi permisiunile implicite de sistem"
+        },
+        "f6a3c2ccb1bf0db768a1e710b1bb4b8f": {
+            "text": "Bifa\u021bi caseta de l\u00e2ng\u0103 orice permisiuni op\u021bionale pe care dori\u021bi s\u0103 le instala\u021bi."
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Instalare"
+        },
+        "934d155461a5e54ed0cfed45b64272ed": {
+            "text": "Ad\u0103uga\u021bi un nou permis personal"
+        },
+        "baa866af125aefed417409d878f6d013": {
+            "text": "S-a ad\u0103ugat permisiunea op\u021bional\u0103: %s"
+        },
+        "f42c0a03ea62c2f657939fd15ef033cb": {
+            "text": "C\u00e2nd este instalat, utilizatorul trebuie s\u0103 aib\u0103 aceast\u0103 permisiune pentru a finaliza sarcina descris\u0103."
+        },
+        "76455df332216051d893a89ac3b39deb": {
+            "text": "C\u00e2nd NU este instalat, se presupune permisiunea dac\u0103 utilizatorul are deja acces de editare la resursa descris\u0103."
+        },
+        "3900b58fd6fe4828f0595efc2d4f574f": {
+            "text": "Ca rezultat, dac\u0103 este instalat\u0103, aceast\u0103 permisiune poate elimina accesul existent p\u00e2n\u0103 c\u00e2nd este atribuit\u0103 unor roluri."
+        }
+    }
+}

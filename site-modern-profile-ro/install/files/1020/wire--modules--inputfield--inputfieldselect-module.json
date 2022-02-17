@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Optiuni"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Introduce\u021bi op\u021biunile care pot fi selectate, c\u00e2te una pe linie."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Pentru a preceda lista cu o op\u021biune goal\u0103, trebuie doar s\u0103 introduce\u021bi simbolul egal \"=\" ca prima varianta."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Pentru a selecta o op\u021biune, preceda\u021bi-o cu un simbol plus. Exemplu: + Op\u021biune"
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Pentru a p\u0103stra valorile \u0219i etichetele separate, separa\u021bi-le cu un semn egal. Exemplu: valoare=op\u021biune"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Pentru a crea un grup opt (grup de op\u021biuni), indenta\u021bi op\u021biunile grupului cu 3 sau mai multe spa\u021bii."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selecteaza"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "Selectarea unei singure valori dintr-un c\u00e2mp selectat"
+        },
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "Pentru a avea valori implicite preselectate, introduce\u021bi valorile op\u021biunii (una pe linie) de mai jos."
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "Pentru a avea o valoare implicit\u0103 preselectat\u0103, introduce\u021bi valoarea op\u021biunii de mai jos."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valoare implicita"
+        },
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "Pentru selec\u021bia implicit\u0103 a paginii, valoarea ar fi num\u0103rul ID-ului paginii."
+        },
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "IMPORTANT: valoarea implicit\u0103 nu este utilizat\u0103 dec\u00e2t dac\u0103 c\u00e2mpul este obligatoriu (consulta\u021bi caseta de selectare \u201eobligatorie\u201d de pe acest ecran)."
+        },
+        "be1ae5e510797cd29556ba58e16bb3cd": {
+            "text": "Pentru a utiliza etichete de op\u021biuni \u00een mai multe limbi, consulta\u021bi instruc\u021biunile de sub acest c\u00e2mp."
+        },
+        "e1d42070d11f4e125dd41933a7931336": {
+            "text": "Instruc\u021biuni:"
+        },
+        "c3a5b7cc9aad41a355971c9da775b523": {
+            "text": "Specifica\u021bi o op\u021biune pe linie."
+        },
+        "f79f891c4cdcad35f5c97b6d5abf6338": {
+            "text": "V\u0103 recomand\u0103m s\u0103 utiliza\u021bi value=label, unde valoarea este aceea\u0219i \u00een toate limbile \u0219i eticheta este tradus\u0103."
+        },
+        "276062e72d8dad493a3c12ee48129c09": {
+            "text": "Mai \u00eent\u00e2i defini\u021bi op\u021biunile de limb\u0103 implicite, apoi copia\u021bi\/lipi\u021bi \u00een celelalte limbi \u0219i traduce\u021bi etichetele."
+        },
+        "1de150b2c32ea78f720ed5680ede3e36": {
+            "text": "Op\u021biunile \u0219i grupurile de optiuni selectate sunt definite \u00een limba implicit\u0103; celelalte intr\u0103ri sunt doar pentru traducerea etichetelor."
+        },
+        "6fad098a8ac595a164cf68a53d2669ec": {
+            "text": "Etichetele care nu sunt traduse mo\u0219tenesc eticheta de limb\u0103 implicit\u0103."
+        },
+        "318d7ecad4ade4ae80008273a964b97d": {
+            "text": "Instruc\u021biuni \u00een mai multe limbi:"
+        }
+    }
+}

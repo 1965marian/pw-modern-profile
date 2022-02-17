@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/WireHttp.php",
+    "textdomain": "wire--core--wirehttp-php",
+    "translations": {
+        "77c7f3f51ebd4fa702990b4e33b1b168": {
+            "text": "Adresele URL de desc\u0103rcare trebuie s\u0103 \u00eenceap\u0103 cu http:\/\/ o https:\/\/"
+        },
+        "467af8bc03dee4f2214f406ef27a2cd2": {
+            "text": "errore fopen per il file:"
+        },
+        "0209b06558d47ad36cee247c670ff405": {
+            "text": "Fi\u0219ierul nu poate fi desc\u0103rcat"
+        }
+    }
+}

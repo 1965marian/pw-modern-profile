@@ -1,0 +1,66 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Confirma\u021bi c\u0103 dori\u021bi s\u0103 \u0219terge\u021bi op\u021biunile"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "ELIMINA:"
+        },
+        "2193a0641b7380e976778074efdfec0a": {
+            "text": "Valoare unic\u0103"
+        },
+        "06a7c76b256c778d08e1c9548a9e679d": {
+            "text": "Valori multiple"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "Ce ar trebui folosit pentru intrare?"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "\u00cen func\u021bie de tipul de intrare pe care \u00eel alege\u021bi, utilizatorul va putea alege fie o singur\u0103 op\u021biune, fie mai multe op\u021biuni. Unele tipuri de intrare (cum ar fi AsmSelect) accept\u0103 \u0219i selec\u021bii care pot fi sortate de utilizator. Unele tipuri de introducere ofer\u0103, de asemenea, mai multe op\u021biuni \u00een fila ** Intrare ** (vizibil\u0103 dup\u0103 salvare)"
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Ce op\u021biuni pot fi selectate?"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Introduce\u021bi o op\u021biune selectabil\u0103 pe r\u00e2nd. Dup\u0103 ce a\u021bi salvat, fiec\u0103reia dintre op\u021biunile dvs. va fi atribuit un ID numeric, care va lua forma `123 = titlu`, de exemplu. Citi\u021bi [instruc\u021biunile de utilizare a acestui c\u00e2mp](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Not\u0103 \u00een mai multi-lingua: defini\u021bi op\u021biunile \u00een limba implicit\u0103 \u0219i salva\u021bi-le \u00eenainte de a le traduce \u00een alte limbi."
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "Ce op\u021biuni trebuie preselectate? (Dac\u0103 exist\u0103)"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Acest c\u00e2mp serve\u0219te \u0219i ca previzualizare a tipului de intrare selectat (%s) \u0219i a op\u021biunilor."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Elimina\u021bi aceast\u0103 op\u021biune"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Elimina\u021bi aceaste op\u021biuni"
+        },
+        "d8773b3c985910685f4f4aca03604c14": {
+            "text": "Valori sortabile multiple"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "V\u0103 rug\u0103m s\u0103 re\u021bine\u021bi: preselec\u021bia dvs. nu este activ\u0103, deoarece acest c\u00e2mp nu este un c\u00e2mp obligatoriu. Activa\u021bi op\u021biunea \u201eobligatoriu\u201d \u00een fila de introducere a c\u00e2mpului."
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "Preselec\u021bia este activ\u0103 deoarece acest c\u00e2mp este un c\u00e2mp obligatoriu."
+        },
+        "7a55572484844c1b337505ee266d3007": {
+            "text": "Exemplu de utilizare API"
+        },
+        "9786dd72ff72c22b5cde66e2ef3a6c6a": {
+            "text": "Afisare o singur\u0103 selec\u021bie:"
+        },
+        "c575fc08137bccf13da4fff3117ff3e2": {
+            "text": "Afisare multiple selectii"
+        },
+        "d51f7ee41ebdd5252b9a4410e297b306": {
+            "text": "Dac\u0103 dori\u021bi s\u0103 afi\u0219a\u021bi valori mai degrab\u0103 dec\u00e2t titluri, \u00eenlocui\u021bi \u201etitlu\u201d cu \u201evaloare\u201d \u00een exemplele de mai sus."
+        }
+    }
+}

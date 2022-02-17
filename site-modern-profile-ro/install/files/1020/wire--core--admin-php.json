@@ -1,0 +1,33 @@
+{
+    "file": "wire\/core\/admin.php",
+    "textdomain": "wire--core--admin-php",
+    "translations": {
+        "657e7a4fc0a8b4f44a06c216edf02d64": {
+            "text": "Host HTTP nerecunoscut:"
+        },
+        "b6823820033b6cf18c3aa27d252861e0": {
+            "text": "Actualiza\u021bi-v\u0103 setarea $config->httpHosts in \/site\/config.php"
+        },
+        "d959bbe25cc020e2db5276cb42927c7c": {
+            "text": "Citeste mai mult\u00f9"
+        },
+        "c0e293a452a1d7be53a199d8b0a387bd": {
+            "text": "="
+        },
+        "af1595f0c5186db6cc35577429366e6d": {
+            "text": "Aceast\u0103 pagin\u0103 nu are procese atribuite."
+        },
+        "905d286d5f512b563448eedeb744206d": {
+            "text": "Procesul nu a returnat con\u021binut."
+        },
+        "3d6623b8d5249788a0d797d4bbc5e5a1": {
+            "text": "Actiune necesara"
+        },
+        "cfdf33cbd93768327b807066fb473750": {
+            "text": "Activa\u021bi autentificarea cu doi factori"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "A\u021bi atins setarea PHP \u201emax_input_vars\u201d de %d \u2014 v\u0103 rug\u0103m s\u0103 o m\u0103ri\u021bi."
+        }
+    }
+}

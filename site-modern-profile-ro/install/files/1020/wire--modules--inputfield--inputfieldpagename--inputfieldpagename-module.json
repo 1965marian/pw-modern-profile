@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nume"
+        },
+        "152cfcb2150e04c8533d86e9d7642b11": {
+            "text": "Orice combina\u021bie de litere (a-z), numere (0-9), puncte \u0219i litere de subliniere (f\u0103r\u0103 spa\u021bii)."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "\u00cenlocuirea caracterelor"
+        },
+        "9d250aded0473671ec3f113407f9809c": {
+            "text": "Introduce\u021bi substitu\u021biile care vor fi aplicate atunci c\u00e2nd un utilizator introduce caractere \u00eentr-un c\u00e2mp de nume de pagin\u0103. Introduce\u021bi o \u00eenlocuire pe linie cu cheia de format = valoare. Pe fiecare linie, introduce\u021bi caracterul sau caracterele pe care dori\u021bi s\u0103 le \u00eenlocui\u021bi, urmate de un semn egal \"=\" \u0219i caracterul sau caracterele ascii cu care dori\u021bi s\u0103 le \u00eenlocui\u021bi."
+        },
+        "9bc6bf958fcb86296c17a2b2db2a00a6": {
+            "text": "Valoarea de \u00eenlocuire pentru fiecare caracter trebuie s\u0103 fie una sau mai multe dintre urm\u0103toarele valori: a-z, 0-9, cratim\u0103, liniu\u021b\u0103 de subliniere sau punct."
+        },
+        "5e6587062568e96fc604e79a948a7460": {
+            "text": "Configura\u021bia de \u00eenlocuire a caracterelor este dezactivat\u0103 deoarece $config->pageNameCharset este UTF8."
+        }
+    }
+}

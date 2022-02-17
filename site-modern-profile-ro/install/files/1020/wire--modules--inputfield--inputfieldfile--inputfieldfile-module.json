@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--inputfieldfile-module",
+    "translations": {
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Descriere"
+        },
+        "5e176961ecb3a67e9c653e60de703fdb": {
+            "text": "Adauga fi\u0219ierele aici"
+        },
+        "1a6d5576222d1a16320dda443f43b1fa": {
+            "text": "Fi\u0219ier ad\u0103ugat:"
+        },
+        "a2c68b109a7c8855b92e56e64bdf4c01": {
+            "text": "Fi\u0219ier \u0219ters:"
+        },
+        "cde86841445e53259c5beb7b61aaf389": {
+            "text": "destinationPath este gol sau nu exist\u0103"
+        },
+        "53fbb1f98e15224437792f2ea80847a2": {
+            "text": "destinationPath nu poate fi scris"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Limita maxim\u0103 max file upload a fost atins\u0103"
+        },
+        "fbf221ff984c277d7fea5d290e817767": {
+            "text": "Unul sau mai multe fi\u0219iere (sortabile)"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Anulare"
+        },
+        "004a10c5de4a2eea5fc8f15e97a8030c": {
+            "text": "Nu este definit\u0103 nicio extensie de fi\u0219ier pentru acest c\u00e2mp."
+        },
+        "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
+            "text": "Validazione del file fallita"
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "File %s a fost respins deoarece este deja prezent \u00een sistemul de fi\u0219iere \u0219i asociat cu un alt c\u00e2mp."
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tag-uri"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Fisiere"
+        },
+        "e635032a5f71d809146d3872389f5b0c": {
+            "text": "Alege fisier"
+        },
+        "96baacdc276036c2b8fb65264750a3b4": {
+            "text": "Alege fisiere"
+        },
+        "e72ce31f0ee80699eb03ad6cc894fe3a": {
+            "text": "Extensie de fi\u0219ier neacceptat\u0103, v\u0103 rug\u0103m s\u0103 utiliza\u021bi numai: EXTENSIONS"
+        },
+        "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
+            "text": "Fi\u0219ierul este prea mare - dimensiunea maxim\u0103 permis\u0103 este de MAX_KB kb"
+        },
+        "b15dd49c58da836d9802f6e9e063a998": {
+            "text": "Fi\u0219ierul a fost redenumit \u201e%1$s\u201d \u00een \u201e%2$s\u201d"
+        },
+        "d7c8c85bf79bbe1b7188497c32c3b0ca": {
+            "text": "Esuat"
+        },
+        "c62fc670ac122455cc5853bf97130711": {
+            "text": "C\u00e2mpul \u201e%1$s\u201d tip \u201e%2$s\u201d nu este acceptat \u00een c\u00e2mpul \u201e%3$s\u201d"
+        }
+    }
+}

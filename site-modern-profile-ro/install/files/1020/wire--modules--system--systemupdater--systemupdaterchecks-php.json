@@ -1,0 +1,78 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdaterChecks.php",
+    "textdomain": "wire--modules--system--systemupdater--systemupdaterchecks-php",
+    "translations": {
+        "b39229143b1147a73a48df31c1231d8c": {
+            "text": "Au fost detectate mai multe probleme, v\u0103 rug\u0103m s\u0103 examina\u021bi:"
+        },
+        "cea2995cd3259dca15a20b501b1e458b": {
+            "text": "V\u0103 rug\u0103m s\u0103 re\u021bine\u021bi c\u0103 fi\u0219ierul dvs. r\u0103d\u0103cin\u0103 %s nu este actualizat cu aceast\u0103 versiune ProcessWire, v\u0103 rug\u0103m s\u0103 \u00eel actualiza\u021bi atunci c\u00e2nd este posibil."
+        },
+        "18dd427864e5d5894d6427b120729661": {
+            "text": "Pentru a suprima acest avertisment, \u00eenlocui\u021bi sau ad\u0103uga\u021bi urm\u0103toarele \u00een partea de sus a fi\u0219ierului .htaccess existent:"
+        },
+        "3ce93c026eb9e6490b97440cb30648ac": {
+            "text": "Bun venit la ProcessWire!"
+        },
+        "b5e8bf8e4ff52c6a5284ed10f7951738": {
+            "text": "Dac\u0103 aceast\u0103 instalare este utilizat\u0103 \u00een prezent pentru dezvoltare sau testare, v\u0103 recomand\u0103m s\u0103 activa\u021bi modul de depanare."
+        },
+        "ecd4a06df60ea2b6392432bbd11f1d76": {
+            "text": "Modul de depanare asigur\u0103 c\u0103 toate erorile sunt vizibile, ceea ce poate fi util \u00een timpul dezvolt\u0103rii sau depan\u0103rii."
+        },
+        "917cf9b7a671b533087c8f7b0bf8d157": {
+            "text": "De asemenea, permite informa\u021bii suplimentare despre dezvoltatori s\u0103 apar\u0103 aici \u00een administrator."
+        },
+        "cb6a03bb5f07396e7eca71a86ad46e43": {
+            "text": "Pute\u021bi activa modul de depanare edit\u00e2nd fi\u0219ierul %s \u0219i ad\u0103ug\u00e2nd urm\u0103toarele:"
+        },
+        "f1d50e08fba3212773302367c8513449": {
+            "text": "V\u0103 rug\u0103m s\u0103 re\u021bine\u021bi: aceast\u0103 notificare nu va fi afi\u0219at\u0103 din nou. Aminti\u021bi-v\u0103 s\u0103 dezactiva\u021bi modul de depanare \u00eenainte de a intra \u00een direct."
+        },
+        "233b54b5df8647fadbfb62e9c4def925": {
+            "text": "Avertisment de securitate: fi\u0219ierul \"%s\" exist\u0103 \u0219i ar trebui s\u0103 fie \u0219ters c\u00e2t mai cur\u00e2nd posibil."
+        },
+        "7ba9982e6cae459db14db8bad5ad68b9": {
+            "text": "Aten\u021bie, fi\u0219ierul dvs. %s specific\u0103 permisiuni pentru fi\u0219iere care sunt prea libere pentru multe medii:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Citi\u021bi \"Securizarea permisiunilor fi\u0219ierelor\" pentru mai multe detalii"
+        },
+        "5ff81a1ae7c80f730595ed1100007665": {
+            "text": "Pentru a suprima acest avertisment, ad\u0103uga\u021bi urm\u0103toarele \u00een fi\u0219ierul dvs. %s:"
+        },
+        "359a712bdea64131ff4e83fbc7233af6": {
+            "text": "Aten\u021bie: ave\u021bi un c\u00e2mp numit \"publicat\" care intr\u0103 \u00een conflict cu proprietatea paginii \"publicate\""
+        },
+        "e51b9afa44f26fb147585eda2b708808": {
+            "text": "V\u0103 rug\u0103m s\u0103 redenumi\u021bi c\u00e2mpul dvs. cu altceva \u0219i s\u0103 actualiza\u021bi orice \u0219abloane care fac referire la el."
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Setarea dvs. local\u0103 actual\u0103 este \"%s\""
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Not\u0103: setarea actual\u0103 a localiz\u0103rii serverului nu func\u021bioneaz\u0103 conform a\u0219tept\u0103rilor cu setul de caractere UTF-8 \u0219i poate cauza probleme minore."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "V\u0103 rug\u0103m s\u0103 traduce\u021bi setarea local\u0103 \"C\" pentru fiecare limb\u0103 \u00een localitatea compatibil\u0103 \u00een %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "De exemplu, setarea local\u0103 pentru engleza SUA ar putea fi: %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "V\u0103 rug\u0103m s\u0103 ad\u0103uga\u021bi acest lucru \u00een fi\u0219ierul dvs. %1$s (ajusta\u021bi \"%2$s\"dup\u0103 cum este necesar):"
+        },
+        "6ed94bc4b5b5d4c1bfd4c90792c39c68": {
+            "text": "Site-ul este \u00een modul depanare, potrivit pentru site-uri \u00een dezvoltare"
+        },
+        "1ffd655d9788eba2b285e4363eab7b51": {
+            "text": "Dac\u0103 acesta este un site live\/de produc\u021bie, ar trebui s\u0103 dezactiva\u021bi modul de depanare \u00een %1$s cu: %2$s"
+        },
+        "8f0362971b64ae326b6a57f21f9d5ce4": {
+            "text": "Versiunea necesar\u0103: %1$s, versiunea g\u0103sit\u0103: %2$s."
+        },
+        "d331f06185da085f65656f31a7a8a795": {
+            "text": "Nu se poate localiza fi\u0219ierul necesar: %s"
+        }
+    }
+}

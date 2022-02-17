@@ -1,0 +1,27 @@
+{
+    "file": "site\/templates\/includes\/_nav.php",
+    "textdomain": "site--templates--includes--_nav-php",
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Editeaza"
+        },
+        "01bea08b9a838113ed66226778ce6108": {
+            "text": "Treci la continut"
+        },
+        "6f9fc985da145fcdd180f254dd161c57": {
+            "text": "Cautare"
+        },
+        "2c889b7622e6ed4e56a1414ac333c814": {
+            "text": "Cauta"
+        },
+        "4232fbe6436fa07e415b3fd034b9cadd": {
+            "text": "Esti aici:"
+        },
+        "3396c3554186e12eaeff928963920d63": {
+            "text": "Cauta"
+        },
+        "379044f2677caccdb2642e151d7e486e": {
+            "text": "Pagina Curenta"
+        }
+    }
+}

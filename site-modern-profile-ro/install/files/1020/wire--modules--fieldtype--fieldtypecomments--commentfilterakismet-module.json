@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentFilterAkismet.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentfilterakismet-module",
+    "translations": {
+        "4f56cc1383c1e4170dfe1e715a97f5d6": {
+            "text": "Filtru de comentarii: Akismet"
+        },
+        "c6fbad5a67362793950bf96bd0e6dad5": {
+            "text": "Utiliza\u021bi serviciul Akismet pentru a identifica comentariile spam. Modul de plugin pentru tipul de c\u00e2mp Comentarii"
+        },
+        "00fee5e9143358a3b00c985f3ed3c43e": {
+            "text": "Cheie Akismet"
+        },
+        "69dccaed52b0f6af3c11c97b72d0b963": {
+            "text": "Dac\u0103 dori\u021bi s\u0103 identifica\u021bi automat comentariile ca spam, tipul c\u00e2mpului Comentarii poate utiliza serviciul Akismet \u00een acest scop. Pentru a-l folosi trebuie s\u0103 introduce\u021bi o cheie API Akismet ob\u021binut\u0103 pe akismet.com. Utilizarea acestui serviciu este op\u021bional\u0103, dar recomandat\u0103."
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelector\/InputfieldSelector.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselector--inputfieldselector-module",
+    "translations": {
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Ad\u0103uga\u021bi c\u00e2mp"
+        },
+        "1bb628612045d3d012de22cb249f83fc": {
+            "text": "Ascendent pentru"
+        },
+        "8ff3555e6aae7a100304c7b522bc350a": {
+            "text": "Descendent pentru"
+        },
+        "9f9913233699a4b67524eaac55a5f973": {
+            "text": "Are"
+        },
+        "aaa93244710b294d585b015dbb9b0317": {
+            "text": "Nu are"
+        },
+        "a61bbf7ad0ed153cb6c84fe3c8a9f2bb": {
+            "text": "Corespunde"
+        },
+        "9c52ccb297567646df342a0413de3b02": {
+            "text": "Nu corespunde"
+        },
+        "78c143802119a85c9774c0459240085d": {
+            "text": "este gol"
+        },
+        "cbe0970a192d6df9999f4469f0854984": {
+            "text": "Nu este gol"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Sablon"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nume"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Statut"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Ascuns"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Nepublicat"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Blocat"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Cos de gunoi"
+        },
+        "a4b7f1864cfdb47cd05b54eb10337506": {
+            "text": "Data modificata"
+        },
+        "b3b60b7a5e7f9977461d42a94bf2c761": {
+            "text": "Data crearii"
+        },
+        "4303f3a12b6405bb83d68a5438f1b6b8": {
+            "text": "Data publicarii"
+        },
+        "f5248dcc5755bb5124281da75c73b828": {
+            "text": "Modificat de"
+        },
+        "69d1da1f16cb2c86467b8ac7495acb25": {
+            "text": "creat de"
+        },
+        "631e36e8090edcdfea8b0b6dfa4f75cc": {
+            "text": "Numar de copii(child)"
+        },
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Numara"
+        },
+        "72280ef3b155dee3c1a134b8184c08a5": {
+            "text": "cale\/URL"
+        },
+        "4b9c456267783c4e40e7da4a4a61e887": {
+            "text": "Are p\u0103rinte\/str\u0103mo\u0219"
+        },
+        "d7ba791417071ac5ec60f1cea2672faf": {
+            "text": "Personalizat (c\u00e2mp=valoare)"
+        },
+        "c0272cbdf2353b9f2810944ae048b4a1": {
+            "text": "Camp=valoare"
+        },
+        "d0e45878043844ffc41aac437e86b602": {
+            "text": "parinte"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "Ordin"
+        },
+        "80d2677cf518f4d04320042f4ea6c146": {
+            "text": "Limita"
+        },
+        "f4d72a64acd8929c0cc9ed96a7a336cc": {
+            "text": "Includere"
+        },
+        "765c9ab816a31bfd73ee87ce63960319": {
+            "text": "Ascuns + Nepublicat"
+        },
+        "b0db92ad2bbe61a11556a881e26ee82c": {
+            "text": "Ascuns + Nepublicat + sters \u00een co\u0219ul de gunoi"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "toate"
+        },
+        "1a110fbdc786fe3100367f14c911a2da": {
+            "text": "(%d f\u0103r\u0103 limit\u0103)"
+        },
+        "1a2ecbf77cfe45069451c9954f74ea36": {
+            "text": "Pagini care se potrivesc cu selectorul dvs"
+        },
+        "a7dd12b1dab17d25467b0b0a4c8d4a92": {
+            "text": "arata"
+        },
+        "befb04e123caaa28446ca8080a5fd836": {
+            "text": "Naviga\u021bi la etichetele c\u00e2mpului"
+        },
+        "e3e67251cebf159d3549a0a91729605d": {
+            "text": "Comuta\u021bi la numele c\u00e2mpurilor"
+        },
+        "f0c49f49661670cb88d2fd060c4d6a68": {
+            "text": "Nu a fost selectionat"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nimeni"
+        },
+        "ad666d19888133a3cebc428f7535f2af": {
+            "text": "Incepe sa scrii..."
+        },
+        "719cb425116d7d1c8b0c62c7064aaf9b": {
+            "text": "Bifa\u021bi caseta pentru a face acest r\u00e2nd OR mai degrab\u0103 dec\u00e2t AND"
+        },
+        "c7c76bcc877e95946d0158c1a0dd63a2": {
+            "text": "Potrivire dup\u0103 ID (subselector)"
+        },
+        "1d79542121869a6161bed167902ddc79": {
+            "text": "Fiecare r\u00e2nd al selectorului de mai sus spune: c\u00e2mpul trebuie s\u0103 se potriveasc\u0103 cu valoarea. Acestea se numesc condi\u021bii AND. \u00cen cazurile \u00een care acela\u0219i c\u00e2mp sau valoare apare pe mai multe r\u00e2nduri, este posibil\u0103 o condi\u021bie OR. Prezen\u021ba unei casete de selectare la sf\u00e2r\u0219itul liniei indic\u0103 acest lucru. Bifa\u021bi aceast\u0103 caset\u0103 pentru a face din r\u00e2nd o condi\u021bie OR \u00een loc de o condi\u021bie AND."
+        },
+        "d1a7ff19fe990b9467a4a64f01a09f4e": {
+            "text": "Parinte"
+        },
+        "8449d3ddcf7322067ea68d60a3098945": {
+            "text": "Parinte"
+        },
+        "ea66a0a3f3311a155d84ef03a56850ca": {
+            "text": "C\u00e2mpuri de sistem"
+        },
+        "b12aae296eaa3d0cb3191edcf8764117": {
+            "text": "C\u00e2mpuri"
+        },
+        "8a605787234086b5d0155715095a1c2a": {
+            "text": "Subdomenii"
+        },
+        "997bf93bdd0a990a751b4b33749fb171": {
+            "text": "C\u00e2mpuri care corespund aceluia\u0219i (1) element"
+        },
+        "c3bd2ae49552f0fe2dd5927024fea5db": {
+            "text": "Modificatori"
+        },
+        "700e1502327c4e2d38cef2f7c15b2f17": {
+            "text": "Ajust\u0103ri"
+        },
+        "b077806311238aeddd99b979570eb107": {
+            "text": "se potrive\u0219te cu %d pagin\u0103"
+        },
+        "ea4311c5f366d55a9a6e38450d3bad9f": {
+            "text": "se potrive\u0219te cu% d pagini"
+        },
+        "f89b7999f24e670f71368f38ac517530": {
+            "text": "Nu: %s"
+        },
+        "2627637e263ef687fa978b576580b8b1": {
+            "text": "Verificat"
+        },
+        "689202409e48743b914713f96d93947c": {
+            "text": "Valoare"
+        },
+        "eae4975b49e9af4e0b024b1c44c7fe4f": {
+            "text": "Acesta este aici doar \u00een cazul \u00een care dori\u021bi s\u0103 testa\u021bi func\u021bionalitatea acestui c\u00e2mp de intrare."
+        }
+    }
+}

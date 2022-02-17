@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselect-module",
+    "translations": {
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Schimba"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anulare"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selecteaza"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Deselecteaza"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "Acest c\u00e2mp nu poate fi afi\u0219at din cauza paginii p\u0103rinte lips\u0103 din set\u0103rile c\u00e2mpului."
+        },
+        "9f3f3426fca77479498742b32c7d5d31": {
+            "text": "Selectare list\u0103 pagini"
+        },
+        "a140a80c76193cb5a6bd75c2f9a13393": {
+            "text": "Selectarea unei singure pagini din lista de pagini ProcessWire."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Alte"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterEntities.module",
+    "textdomain": "wire--modules--textformatter--textformatterentities-module",
+    "translations": {
+        "895d280780a54e8c5561dea1f6a4b34d": {
+            "text": "Cod de entitate HTML (htmlspecialchars)"
+        },
+        "9bb1720cc990c910fd69b4b3690cfbce": {
+            "text": "Entitatea codific\u0103 ampersand, ghilimele (single \u0219i duble) \u0219i semnele mai mare dec\u00e2t\/mai pu\u021bin dec\u00e2t folosind htmlspecialchars(str, ENT_QUOTES). Este recomandat s\u0103 utiliza\u021bi acest lucru \u00een toate c\u00e2mpurile text\/zon\u0103 text, cu excep\u021bia celor care folosesc un editor de text \u00eembog\u0103\u021bit sau un limbaj de marcare precum Markdown."
+        }
+    }
+}

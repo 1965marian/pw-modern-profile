@@ -1,0 +1,312 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPagesExportImport\/ProcessPagesExportImport.module",
+    "textdomain": "wire--modules--process--processpagesexportimport--processpagesexportimport-module",
+    "translations": {
+        "352f3461a3066e2817043fb2e9e1f932": {
+            "text": "Exportul\/importul este momentan disponibil numai pentru superutilizator"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Export"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Import"
+        },
+        "8894de92408710885e26ee0d7419c76c": {
+            "text": "Importa\u021bi din \u0219irul JSON"
+        },
+        "15c369cf22656869f693431abfbabf35": {
+            "text": "Lipi\u021bi \u0219irul JSON exportat anterior din acest instrument."
+        },
+        "1d2c7cbb668a639e64eb4d9d1e11dd21": {
+            "text": "Importa\u021bi din \u00eenc\u0103rcarea fi\u0219ierului ZIP"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Continua"
+        },
+        "9307d9361fab3e60165754816f70e52f": {
+            "text": "Nu s-au g\u0103sit date de import"
+        },
+        "a6255d9c8319899dbe7c65dc74f9307a": {
+            "text": "date de import invalide"
+        },
+        "6a50ab53f47b9f8f811ebbaf822fbb16": {
+            "text": "%d noi, %d existente"
+        },
+        "bb762878d3e4d3b7a33da405fb77231d": {
+            "text": "Nu exist\u0103 detalii de import de afi\u0219at"
+        },
+        "710dea6bdf095f0b2112f36943789222": {
+            "text": "Paginile care au \u0219ablonul \"%s\" nu pot fi importate deoarece acel \u0219ablon nu exist\u0103 aici."
+        },
+        "6c1d0fdc993bfa095bfa6a0cb500742e": {
+            "text": "Selecta\u021bi un \u0219ablon de \u00eenlocuit atunci c\u00e2nd crea\u021bi aceste pagini."
+        },
+        "612bd2323b570ffd7610d860b5fc5b9a": {
+            "text": "OK: se \u00eenlocuie\u0219te \u0219ablonul \u201c%1$s\u201d  cu \"%2s\""
+        },
+        "a700c516b508fc37ecbdd5ef3e4149c3": {
+            "text": "Selecta\u021bi \u00eenlocuitorul pentru \u0219ablon numit \"%s\""
+        },
+        "037ef64f930a701f646e32b659309203": {
+            "text": "Un c\u00e2mp numit \"%s\" de tip %s apare \u00een datele de import, dar nu exist\u0103 local."
+        },
+        "e7b3e14b8ea6b4e9b9ded5935a787200": {
+            "text": "Dac\u0103 dori\u021bi s\u0103 importa\u021bi acest c\u00e2mp, selecta\u021bi un c\u00e2mp de \u00eenlocuire aici."
+        },
+        "b27e66177b699de288b50b3736392350": {
+            "text": "OK: se \u00eenlocuie\u0219te campul \u201c%1$s\u201d  cu \"%2s\""
+        },
+        "9f2156a6e113d013e84f6b3d0f787f70": {
+            "text": "Selecta\u021bi \u00eenlocuitorul pentru C\u00c2MPUL numit \"%s\""
+        },
+        "f3418f35aed2653864c898b1fbfa7f89": {
+            "text": "C\u00e2mpuri poten\u021biale de \u00eenlocuire"
+        },
+        "ea41325267ff33833cdd6f91d5a323d1": {
+            "text": "Alte c\u00e2mpuri (s-ar putea s\u0103 nu fie compatibile)"
+        },
+        "88a97d86b72eac1bb3a897239a5833c7": {
+            "text": "Alege\u021bi noul p\u0103rinte"
+        },
+        "39131ec4699f5661159842adf4828d87": {
+            "text": "Paginile care au p\u0103rintele \u201e%s\u201d nu pot fi importate deoarece pagina respectiv\u0103 nu exist\u0103 aici."
+        },
+        "9d9d340fef6ece85d9fa8cb168e4cc4b": {
+            "text": "Selecta\u021bi o pagin\u0103 p\u0103rinte pe care s\u0103 o utiliza\u021bi pentru a crea aceste pagini."
+        },
+        "3b3a36a05707eb5bd0c5a9c6ef8b6bcc": {
+            "text": "OK: se \u00eenlocuie\u0219te parintele \u201c%1$s\u201d  cu \"%2s\""
+        },
+        "6d4769b2c4ab2c7c6596715d9a95b10a": {
+            "text": "Selecta\u021bi \u00eenlocuitorul pentru P\u0102RINTE numit  \u201c%s\u201d"
+        },
+        "b8fd4cfffa13fd37bbb33085b3d99559": {
+            "text": "Conflicte de resurse"
+        },
+        "5062a54bca446bff0013b7e3b83971ef": {
+            "text": "Rezumat al importului"
+        },
+        "b622b3c2bd4167573c69775914e6bb1c": {
+            "text": "Modul importului"
+        },
+        "a865157a6095cc25e9db226471350ac0": {
+            "text": "Crea\u021bi pagini noi \u0219i actualiza\u021bi paginile existente"
+        },
+        "093ee62b9967049d867742cc37db9ec6": {
+            "text": "Crea\u021bi numai pagini noi"
+        },
+        "5d22ed76c96cfc210e6659bf465c29d9": {
+            "text": "Sari peste paginile din import care exist\u0103 deja"
+        },
+        "8e0e1c009bd6cdb0c55e6d1ab601f9c5": {
+            "text": "Actualiza\u021bi numai paginile existente"
+        },
+        "c420555a575c97be4ef7ef4c6335eabd": {
+            "text": "Sari peste paginile din import care nu exist\u0103 deja"
+        },
+        "fbd52bbf346d30a5a3c3735d4fd11249": {
+            "text": "Importa\u021bi paginile de sub p\u0103rinte"
+        },
+        "f725a6ddc1137ce2162d1adcfb06e5e5": {
+            "text": "C\u00e2nd este specificat, paginile vor fi importate \u00een pagina p\u0103rinte selectat\u0103 aici."
+        },
+        "bc148f36b892cd236d9524d31b92ed3a": {
+            "text": "Alege un parinte"
+        },
+        "dc5065164c53ccdaf2afab0a4e92821b": {
+            "text": "Importa\u021bi pagini \u00een p\u0103rintele selectat \u0219i men\u021bine\u021bi structura c\u0103ii paginii de sub aceasta"
+        },
+        "9a4182341877068a0de58ca06532a6b5": {
+            "text": "Importa\u021bi pagini numai ca copii ale paginii p\u0103rinte selectate"
+        },
+        "56e30d5f1290e2bc227c986608645134": {
+            "text": "C\u00e2mpuri permise \u00een import"
+        },
+        "75cd6d17fcfe896e1521bbec73924c68": {
+            "text": "urm\u0103toarele c\u00e2mpuri au fost g\u0103site \u00een datele de import."
+        },
+        "21f3733b4c29eea78a95595e8fecfdbd": {
+            "text": "Debifa\u021bi toate c\u00e2mpurile pe care dori\u021bi s\u0103 le omite\u021bi \u00een timpul importului."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nume"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Eticheta"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Tip"
+        },
+        "0a47bbe324aa63b3431f8c3f89791928": {
+            "text": "Statutul pagini"
+        },
+        "a6425901f3af36ae6ccc9a92b131595a": {
+            "text": "Index de sortare a paginii"
+        },
+        "a84ab456be63f90daf5d14573d3a4837": {
+            "text": "Pagini importate"
+        },
+        "993d770e8a02574766cb9e77f05166d1": {
+            "text": "Test de import"
+        },
+        "5d762b248f371ac7a53ca63b5686689a": {
+            "text": "Commit Import"
+        },
+        "ae5736613c76f3a4222d0aa2986413c6": {
+            "text": "Crea\u021bi o pagin\u0103 nou\u0103: %s"
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "\u0218ablon: %s"
+        },
+        "4fb4efe4086f5f135cdf92d1a6b4d865": {
+            "text": "Actualiza\u021bi pagina existent\u0103: %s"
+        },
+        "ac4191b09ac955dce523147b4ae42732": {
+            "text": "Pagina: %s \u2013 E\u0219uare"
+        },
+        "eed35940c778016bb521e2e86594020f": {
+            "text": "Pagina: %s"
+        },
+        "622fd1a9153d7f49d2ab40d3a42e9f2a": {
+            "text": "C\u00e2mpuri populate:"
+        },
+        "d80c9a644617ba76da47a8d5e776ea2a": {
+            "text": "C\u00e2mpuri schimbate:"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Nu au fost detectate modific\u0103ri"
+        },
+        "a6d6ed66ec9bac03cd0439959d6efc07": {
+            "text": "Pagina nu poate fi importat\u0103"
+        },
+        "556843e4a406b780b0cf83c43366a8dd": {
+            "text": "Import cu succes"
+        },
+        "7cd0babd7de67eb353b6b61a3f86702e": {
+            "text": "Importi aceast\u0103 pagin\u0103?"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Da"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nu"
+        },
+        "726d6246df516f81a1716ab64006f70a": {
+            "text": "Ce pagini dori\u021bi s\u0103 exporta\u021bi?"
+        },
+        "9a4ecf5d3003837af473e07e59527178": {
+            "text": "Pagini pe care le selectez"
+        },
+        "d1ae61f175e8cff2fe2b233bd744601a": {
+            "text": "Pagini care au p\u0103rinte"
+        },
+        "0c0f61a363c410be945c0c948ce24dbd": {
+            "text": "Pagini care se potrivesc cu c\u0103utarea"
+        },
+        "4947db62e5b74b73e637f5c4533871c3": {
+            "text": "Selecta\u021bi paginile"
+        },
+        "4fd182637e2da2b261886dfae6c01659": {
+            "text": "Selecta\u021bi una sau mai multe pagini de inclus \u00een export."
+        },
+        "dc52b4466bd46f4f22f8a5a3049a5357": {
+            "text": "Selecta\u021bi pagina p\u0103rinte"
+        },
+        "8a6a2112bdf498013db64d59f301d886": {
+            "text": "Selecta\u021bi p\u0103rintele paginilor pe care dori\u021bi s\u0103 le exporta\u021bi. Copiii acestei pagini vor fi exporta\u021bi."
+        },
+        "e128ece85361c066ea30a503fb868121": {
+            "text": "Optiuni aditionale"
+        },
+        "3c96078602fbe987f0b60fbc8b946092": {
+            "text": "Include\u021bi pagina p\u0103rinte \u00een export"
+        },
+        "556c3dd912453ae5cb3095cd5054e6f4": {
+            "text": "Recursive"
+        },
+        "c98c2eece26a5aa7e2c47740d864c713": {
+            "text": "Export\u0103 arborele de pagini, nu doar direc\u021bioneaz\u0103 copii"
+        },
+        "42fdbb35b46ad8e66130cc690f8d2e84": {
+            "text": "Include\u021bi pagini ascunse"
+        },
+        "c7b7b2c71efc438029169573f0c7e7d5": {
+            "text": "Include\u021bi pagini ascunse \u0219i nepublicate"
+        },
+        "afbe62b4d04b9023683b0b64f63fb629": {
+            "text": "Crea\u021bi o c\u0103utare pentru a se potrivi paginilor pentru export"
+        },
+        "5487c98ab1a908b9700fa20e3a3ffc1f": {
+            "text": "Ad\u0103uga\u021bi unul sau mai multe c\u00e2mpuri pentru a c\u0103uta \u0219i potrivi paginile pentru export."
+        },
+        "28024f25f2a4009ee133f8b562b531d5": {
+            "text": "C\u00e2mpuri de export"
+        },
+        "3aee85d275f14778870a9a59094a3248": {
+            "text": "\u00cen mod implicit, toate c\u00e2mpurile acceptate dintr-o pagin\u0103 sunt incluse \u00een export."
+        },
+        "6a3dac44a256e9471b5fd2ed42b12c0f": {
+            "text": "Dac\u0103 dori\u021bi ca exportul dvs. s\u0103 includ\u0103 numai anumite c\u00e2mpuri, selecta\u021bi-le aici."
+        },
+        "cb8c3657faa795632ec15cbd7721a912": {
+            "text": "Dac\u0103 nu se face nicio selec\u021bie, atunci toate c\u00e2mpurile acceptate sunt incluse \u00een export."
+        },
+        "e2fe1c296c63b89f877ed53a8be349a1": {
+            "text": "Cum dori\u021bi s\u0103 salva\u021bi exportul?"
+        },
+        "e97986e2d093cf22639cdabd17762178": {
+            "text": "Desc\u0103rca\u021bi fi\u0219ierul ZIP"
+        },
+        "216db75e2a4bd42aa6718a66268f5905": {
+            "text": "Text pentru copiere\/lipire"
+        },
+        "52bf0f8917ee90a9e2d755751c651cb3": {
+            "text": "Alege\u021bi \u00eentotdeauna op\u021biunea fi\u0219ier ZIP dac\u0103 dori\u021bi s\u0103 include\u021bi c\u00e2mpuri pentru fi\u0219iere sau imagini \u00een export."
+        },
+        "1828a21cc67aa04125984a6ca450c313": {
+            "text": "Exporta\u021bi acum"
+        },
+        "c5806d824bef9a5b89ffad8b8cc3c266": {
+            "text": "JSON pentru copiere\/lipire (implicit)"
+        },
+        "7273b7477ad1aad558b4c4fbaba5e3ac": {
+            "text": "Desc\u0103rcare fi\u0219ier ZIP"
+        },
+        "f27cd90ca25ec83caa63a757fc2efcb4": {
+            "text": "Paginile export\u0103 date pentru copiere\/lipire"
+        },
+        "3e0018e76b5cc05092e1129c9b46dad7": {
+            "text": "Face\u021bi clic oriunde \u00een textul de mai jos pentru a-l selecta pentru copiere."
+        },
+        "abdb2686b241382010a3933e591a1cbb": {
+            "text": "Pute\u021bi apoi s\u0103 lipi\u021bi acest text \u00een fila Import a unei alte instal\u0103ri."
+        },
+        "9e695fb18f1a97591ea92d09db081ff9": {
+            "text": "Rula\u021bi un alt export"
+        },
+        "9a3d09c6f627ab8776c1511913bb6586": {
+            "text": "S-a importat %d pagin\u0103"
+        },
+        "76c8ca770c404ebb67fe48d039cf9956": {
+            "text": "Au fost importate %d pagini"
+        },
+        "99c9efe732e034ed4b07956b67ae8677": {
+            "text": "Import testat pentru %d pagin\u0103"
+        },
+        "c856d1123aa9d66e1534cd282b3ce877": {
+            "text": "Import testat pentru %d pagini"
+        },
+        "c9b0a12dc552dbd618bd32115aff0a23": {
+            "text": "S-a g\u0103sit %d pagin\u0103 pentru import"
+        },
+        "cde6a4cf0bc2c5dea574eb1384c6d083": {
+            "text": "S-a g\u0103sit %d pagini pentru import"
+        },
+        "e952a9e4d7f52080bd9d79e49d50c57e": {
+            "text": "Acest export include %d pagin\u0103."
+        },
+        "a5e9f843454d6e5f8aef06784d94e3a2": {
+            "text": "Acest export include %d pagini"
+        }
+    }
+}

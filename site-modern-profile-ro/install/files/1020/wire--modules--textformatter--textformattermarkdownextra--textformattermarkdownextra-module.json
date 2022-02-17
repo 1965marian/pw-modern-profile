@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterMarkdownExtra\/TextformatterMarkdownExtra.module",
+    "textdomain": "wire--modules--textformatter--textformattermarkdownextra--textformattermarkdownextra-module",
+    "translations": {
+        "b4f85b935dcf717fdd8df0117de0cdee": {
+            "text": "Versiune Markdown de utilizat"
+        },
+        "077f8270bf59fe6ccd6e4991ff7ee37c": {
+            "text": "Modul de siguranta?"
+        },
+        "089dca9f11d830e3dc229be0fef45547": {
+            "text": "Activa\u021bi acest lucru pentru Markdown c\u0103 proceseaz\u0103 intr\u0103ri de utilizator ne\u00eencrez\u0103toare."
+        },
+        "3ec365dd533ddb7ef3d1c111186ce872": {
+            "text": "Detalii"
+        },
+        "24145e5174d7d87b5a7339a5ecb355ca": {
+            "text": "Testare markdown"
+        },
+        "6d232b51019138d0685ce7cd48803013": {
+            "text": "Introduce\u021bi markdown \u0219i face\u021bi clic pe Trimite pentru a testa rezultatul cu set\u0103rile curente."
+        }
+    }
+}

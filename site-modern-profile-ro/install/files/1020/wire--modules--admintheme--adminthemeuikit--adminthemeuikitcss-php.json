@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/AdminThemeUikitCss.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--adminthemeuikitcss-php",
+    "translations": {
+        "2c20129fc07f932b155494c2e6efcdbe": {
+            "text": "Compilat: %s"
+        },
+        "415fccb35a2b92d5fe61ed5dde2f26ad": {
+            "text": "Stil de baz\u0103 de administrator - fi\u0219ierul nu a fost g\u0103sit: %s"
+        }
+    }
+}

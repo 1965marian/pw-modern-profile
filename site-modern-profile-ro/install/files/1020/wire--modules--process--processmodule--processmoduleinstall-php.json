@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModuleInstall.php",
+    "textdomain": "wire--modules--process--processmodule--processmoduleinstall-php",
+    "translations": {
+        "ccb108ad977122d69f8bbc7758997ff2": {
+            "text": "Asigura\u021bi-v\u0103 c\u0103 folderul \/site\/assets\/cache este inscriptibil de PHP."
+        },
+        "cfe1ee62b0efc597562d0b78c5196d47": {
+            "text": "Asigura\u021bi-v\u0103 c\u0103 folderul cu module (\/site\/modules\/) este inscriptibil de PHP."
+        },
+        "34484ec9b680d2670f6c0d0a6ea5cb5a": {
+            "text": "Clasa ZipArchive este necesar\u0103 \u0219i versiunea dvs. PHP nu pare s\u0103 o aib\u0103."
+        },
+        "af32834e6517e929e3993eb018b46ac0": {
+            "text": "Nu s-au g\u0103sit fi\u0219iere de modul"
+        },
+        "2a3cd9a18eaf3b274b4fa40068fff003": {
+            "text": "Fi\u0219ierele au fost copiate \u00een noul folder:"
+        },
+        "5bb84f541cde4c248e5f6f58ae92c49e": {
+            "text": "Nu se pot copia fi\u0219ierele \u00eentr-un folder nou:"
+        },
+        "5a3527463defe3c1e1ab721c4942f331": {
+            "text": "Nu se poate crea directorul:"
+        },
+        "a7e401f040fc37065b5d7a8b01e5a592": {
+            "text": "Nu se pot copia fi\u0219ierele modulului:"
+        },
+        "82d70ccfc2a2e0bb66507a3f90c4690e": {
+            "text": "Nu pot \u0219terge folderul modulului:"
+        },
+        "04abd66e622f247f079329fcbc51b97c": {
+            "text": "Re\u021bine\u021bi c\u0103 %s a fost un link simbolic \u0219i a fost convertit \u00eentr-un folder obi\u0219nuit"
+        },
+        "0e30f791217cbeee87323db58731e58f": {
+            "text": "Backup existent al %s"
+        },
+        "34e8dc0a73d373618c591be38800cd3c": {
+            "text": "A fost restaurat\u0103 copia de rezerv\u0103 a %s"
+        },
+        "21b1483780050057a84adbf35ec57c05": {
+            "text": "\u00cenc\u0103rcarea nu a putut fi finalizat\u0103"
+        },
+        "e7df9a3e1460bdfcaabe5b2e451a6594": {
+            "text": "Nu s-au g\u0103sit \u00eenc\u0103rc\u0103ri"
+        },
+        "a4e29333ef852fef776eecdb5b3ac6a1": {
+            "text": "Adresa URL de desc\u0103rcare specificat\u0103 nevalid\u0103"
+        },
+        "e830879e542fd52ca82f599ce41b6668": {
+            "text": "Fi\u0219ierul a fost desc\u0103rcat ZIP: %s (%d byte)"
+        },
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Op\u021biune de instalare a modulului \"%s\""
+        },
+        "d83612969f53282acff312397c6d8fa8": {
+            "text": "Extras: %s"
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "pentru a activa \u00eentotdeauna"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "temporar"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "pentru a activa numai \u00een modul de depanare(debug)"
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "Pentru activare, edita\u021bi fi\u0219ierul %1$s \u0219i specifica\u021bi: %2$s \u2026sau\u2026 %3$s"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Aceast\u0103 op\u021biune de instalare este configurat\u0103 s\u0103 fie disponibil\u0103 numai \u00een debug mode."
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Aceast\u0103 op\u021biune de instalare este \u00een prezent dezactivat\u0103."
+        },
+        "43b2e82a51daa1adee20374e35b3caa9": {
+            "text": "S-a extras %d fi\u0219ier"
+        },
+        "aeb9dc1c219e430958416b2390306776": {
+            "text": "S-a extras %d fi\u0219iere"
+        }
+    }
+}

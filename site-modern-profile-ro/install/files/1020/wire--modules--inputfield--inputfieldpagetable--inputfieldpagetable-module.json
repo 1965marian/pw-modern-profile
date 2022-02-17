@@ -1,0 +1,111 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTable\/InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[gol]"
+        },
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Configura\u021bi acest c\u00e2mp cu o selec\u021bie de \u0219ablon \u00eenainte de a-l folosi."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "V\u0103 rug\u0103m s\u0103 introduce\u021bi una sau mai multe coloane \u00een set\u0103ri \u00eenainte de a utiliza acest c\u00e2mp."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "S-au g\u0103sit copii care pot fi ad\u0103uga\u021bi la acest tabel. Bifa\u021bi caseta de l\u00e2ng\u0103 fiecare pe care dori\u021bi s\u0103 o ad\u0103uga\u021bi."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Alege totul"
+        },
+        "6a73e132a6818bc067a0cdec443689a1": {
+            "text": "Y-m-d H:i"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "S-au ad\u0103ugat %d pagini la tabel"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "C\u00e2mpurile tabelului pe care dori\u021bi s\u0103 le afi\u0219a\u021bi \u00een admin"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "Introduce\u021bi numele c\u00e2mpurilor (1 pe r\u00e2nd) pe care dori\u021bi s\u0103 le afi\u0219a\u021bi ca coloane \u00een tabel. Pentru a specifica l\u0103\u021bimea coloanei pentru c\u00e2mpul specific (\"Nume_camp=30\" unde \"30\"este l\u0103\u021bimea (\u00een procente) a coloanei. C\u00e2nd specifica\u021bi l\u0103\u021bimile, asigura\u021bi-v\u0103 c\u0103 totalul este de 100."
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "Pute\u021bi specifica orice c\u00e2mpuri native sau personalizate. De asemenea, pute\u021bi utiliza subc\u00e2mpuri (field.subfield) cu c\u00e2mpuri care con\u021bin mai multe propriet\u0103\u021bi, cum ar fi referin\u021be la pagini.."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "C\u00e2mpurile personalizate alocate \u0219abloanelor selectate includ urm\u0103toarele:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "Pentru a vedea o list\u0103 de c\u00e2mpuri personalizate posibile, alege\u021bi un \u0219ablon \u00een fila Detalii, Salva\u021bi \u0219i reveni\u021bi aici."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Formato automatico del nome della pagina"
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "Dac\u0103 sunt populate, paginile vor fi create automat folosind acest format de nume ori de c\u00e2te ori un utilizator face clic pe butonul. \"Ad\u0103uga nou\". Dac\u0103 este l\u0103sat necompletat, utilizatorului i se va solicita s\u0103 introduc\u0103 un nume pentru pagin\u0103 \u00eenainte ca aceasta s\u0103 fie creat\u0103."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Dac\u0103 numele paginii con\u021bine caractere non-alfanumerice, este tratat ca un format [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php). Dac\u0103 con\u021bine doar caractere alfanumerice, atunci va fi folosit direct, cu un num\u0103r ata\u0219at la sf\u00e2r\u0219it (dac\u0103 este necesar) pentru a asigura unicitatea."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Exemlu: **Ymd:His** \u00e8 un format bun pentru numele paginilor bazate pe dat\u0103\/ora."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Comportamentul ferestrei de editare modal\u0103"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "\u00cenchide automat la salvare (default)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "L\u0103sa\u021bi fereastra deschis\u0103, \u00eenchide\u021bi manual"
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "ProFields: Tabel de pagini"
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Inputfield pentru acompaniere FieldtypePageTable"
+        },
+        "26fbcf76e1954ff7641a38a979ac4b62": {
+            "text": "ID"
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nume"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Creata"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificata"
+        },
+        "f45cf450f2435b8e50cee88a4ac15112": {
+            "text": "Pubblicata"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Modificat de"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Creata de"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "URL"
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "Percorso"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Sablon"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Parinte"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Copii(child)"
+        },
+        "8e1c1f71742a04abf811af399e149b72": {
+            "text": "Statut"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Adaugare noua"
+        }
+    }
+}

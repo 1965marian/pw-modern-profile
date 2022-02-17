@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "C\u00e2mpul \"%s\" nu este \u00eenc\u0103 gata de utilizare \u0219i trebuie configurat."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Set\u0103rile nu au fost \u00eenc\u0103 confirmate."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "V\u0103 rug\u0103m s\u0103 verifica\u021bi set\u0103rile de pe aceast\u0103 pagin\u0103 \u0219i s\u0103 salva\u021bi \u00eenc\u0103 o dat\u0103 (chiar dac\u0103 nu modifica\u021bi nimic) pentru a confirma c\u0103 le accepta\u021bi."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "nume de fi\u0219ier"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Fisier"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "C\u00e2mp care stocheaz\u0103 unul sau mai multe fi\u0219iere"
+        }
+    }
+}

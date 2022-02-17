@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Activati?"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Prefix pentru numerele de pagin\u0103 pentru paginare"
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "Limba implicit\u0103 pentru adresa URL a paginii de pornire este aceea\u0219i cu adresa URL r\u0103d\u0103cin\u0103?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Alege\u021bi ** Da ** dac\u0103 dori\u021bi ca pagina de pornire a limbii dvs. implicite s\u0103 fie accesibil\u0103 la adresa URL **\/** (racomandat). Alege\u021bi ** Nu ** dac\u0103 dori\u021bi s\u0103 redirec\u021biona\u021bi adresa URL r\u0103d\u0103cin\u0103 **\/name\/** (unde \/name\/ acesta este numele paginii dvs. de pornire pentru limba implicit\u0103)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Aceast\u0103 setare va afecta doar comportamentul paginii de pornire. Dac\u0103 alege\u021bi Nu, va trebui s\u0103 v\u0103 asigura\u021bi c\u0103 pagina dvs. de pornire are un nume definit pentru limba implicit\u0103.."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Da - URL-ul r\u0103d\u0103cin\u0103 arat\u0103 pagina de pornire pentru limba implicit\u0103 (recomandat)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "Nu - URL-ul r\u0103d\u0103cin\u0103 efectueaz\u0103 o redirec\u021bionare a: \/name\/"
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "O pagin\u0103  asemanatoare (id=%1$d) folose\u0219te deja numele \"%2$s\" pentru limba: %3$s"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "Num\u0103rul paginii este ata\u0219at acestui cuv\u00e2nt \u00een adrese URL paginate pentru aceast\u0103 limb\u0103. Dac\u0103 este omis, \"%s\" va fi folosit."
+        }
+    }
+}

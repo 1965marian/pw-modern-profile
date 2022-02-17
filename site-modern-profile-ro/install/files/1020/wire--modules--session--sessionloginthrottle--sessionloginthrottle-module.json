@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Session\/SessionLoginThrottle\/SessionLoginThrottle.module",
+    "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
+    "translations": {
+        "1e1e8e326d1d9a6a539b91fbe60a702a": {
+            "text": "Conectarea nu a fost \u00eencercat\u0103 din cauza dep\u0103\u0219irii."
+        },
+        "87f1eff9c1a8afd8f0ecee1583f88ab2": {
+            "text": "V\u0103 rug\u0103m s\u0103 a\u0219tepta\u021bi cel pu\u021bin %d secunde \u00eenainte de a \u00eencerca o alt\u0103 autentificare."
+        },
+        "2a5391490b60fb767804efa36b94d79c": {
+            "text": "Accelerare prin adresa IP?"
+        },
+        "8d6451e8c8b2f9d07c6a9701e270025a": {
+            "text": "\u00cen mod implicit, limitarea se va face numai dup\u0103 numele de utilizator. Dac\u0103 bifa\u021bi aceast\u0103 caset\u0103, atunci limitarea se va face \u0219i prin adresa IP. V\u0103 recomand\u0103m s\u0103 activa\u021bi aceast\u0103 op\u021biune dac\u0103 utilizatorii dvs. nu provin de la o adres\u0103 IP partajat\u0103."
+        },
+        "55c8511d5d205cbddcbc743e49a39100": {
+            "text": "Num\u0103rul de secunde pentru ca utilizatorul s\u0103 a\u0219tepte dup\u0103 \u00eencercarea e\u0219uat\u0103 de conectare"
+        },
+        "0b9bd74be740fa049b1519ae3d14eff0": {
+            "text": "Num\u0103rul de secunde pentru ca utilizatorul s\u0103 a\u0219tepte dup\u0103 \u00eencercarea e\u0219uat\u0103 de conectare"
+        },
+        "9e72aded18bb6821af87ef367e7e002e": {
+            "text": "Num\u0103rul maxim de secunde pe care un utilizator ar trebui s\u0103 a\u0219tepte \u00eenainte de a \u00eencerca o alt\u0103 autentificare"
+        },
+        "00b826f39c964075351bbc489037d008": {
+            "text": "Deoarece timpul de a\u0219teptare cre\u0219te exponen\u021bial la fiecare \u00eencercare, acest lucru plaseaz\u0103 un maxim (limit\u0103) pentru timpul de a\u0219teptare. Ar trebui s\u0103 l\u0103sa\u021bi acest set la un num\u0103r destul de mare."
+        },
+        "ed6ad8c8924b2e836590cad9cc6c9328": {
+            "text": "60=1 minut, 300=5 minute, 600=10 minute, 3600=1 or\u0103, 86400=1 zi"
+        },
+        "8d20dfe684273bce0c81cab1de853cc9": {
+            "text": "Salva\u021bi \u00een fi\u0219ierul jurnal c\u00e2nd numele\/IP-ul este blocat?"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "file": "wire\/core\/WireCache.php",
+    "textdomain": "wire--core--wirecache-php",
+    "translations": {
+        "d35d926654fdaeed481722384826e32b": {
+            "text": "Cache salvat"
+        },
+        "a188964d2912198a985f7bcd9564c530": {
+            "text": "Cache curat"
+        },
+        "8a4a48cd3a709f985d5ea015c2db76c0": {
+            "text": "\u00centre\u021binere general\u0103, \u00eent\u00e2rziat\u0103 %d cache"
+        },
+        "f64daf743a238aa0cd75ee82bff43332": {
+            "text": "Timpul de \u00eentre\u021binere a expirat pentru %d cache-ul paginii salvate"
+        },
+        "fb00a11e56682a1fc9456f910b1ebcff": {
+            "text": "Timpul de \u00eentre\u021binere a expirat pentru %d cache al \u0219ablonului salvat"
+        }
+    }
+}

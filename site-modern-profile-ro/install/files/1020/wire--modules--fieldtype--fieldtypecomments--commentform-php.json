@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentForm.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentform-php",
+    "translations": {
+        "6f207f8b5dfe1eebac63467930df5189": {
+            "text": "="
+        },
+        "55db28530640e9fb41ebf71ea8afce72": {
+            "text": "Postati comentariu"
+        },
+        "a3676fa92ee7acc9486a220da4580c7e": {
+            "text": "V\u0103 mul\u021bumim, cererea dvs. a fost salvat\u0103."
+        },
+        "5443970b690d94d32a481cac5cf31cb6": {
+            "text": "Comentariul t\u0103u a fost salvat \u0219i va fi vizibil de \u00eendat\u0103 ce este aprobat de moderator."
+        },
+        "af54d31f765138998bf8d2903d4095ce": {
+            "text": "Solicitarea dvs. nu a fost salvat\u0103 din cauza uneia sau mai multor erori. V\u0103 rug\u0103m s\u0103 verifica\u021bi dac\u0103 a\u021bi completat toate c\u00e2mpurile \u00eenainte de a retrimite."
+        },
+        "614cffa523202658a898e34a5d94d05e": {
+            "text": "Numele dumneavoastr\u0103"
+        },
+        "cd5b60538fc5fdd7a7280d67e4a12089": {
+            "text": "E-Mail-ul dumneavoastra"
+        },
+        "f359c2373cfa104cd9be66f79047deb5": {
+            "text": "Site-ul t\u0103u"
+        },
+        "8dd3177b8d343a6b39f8e817f528f3db": {
+            "text": "Alege\u021bi o evaluare cu stele"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Comentarii"
+        },
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "Trimite"
+        },
+        "8cc46df5ae23686a6fbb8e132f4aaf26": {
+            "text": "R\u0103spunsuri"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Toate"
+        },
+        "5256dc211b8fc0ac5ea5e2418e18bf98": {
+            "text": "Notific\u0103ri E-Mail"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "="
+        }
+    }
+}

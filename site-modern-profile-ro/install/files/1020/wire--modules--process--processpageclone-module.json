@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageClone.module",
+    "textdomain": "wire--modules--process--processpageclone-module",
+    "translations": {
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Copiaza"
+        },
+        "779e23d04b68b9515ffc345454994895": {
+            "text": "Copiaza pagina"
+        },
+        "0ac579c02e8d96b65a4bff917771b245": {
+            "text": "Imposibil de \u00eenc\u0103rcat pagina"
+        },
+        "3311bb66a5349309e01c99050e744f0b": {
+            "text": "Aceasta va face o copie a %s"
+        },
+        "59eeb47edc78526e0e13dc0dfa8f6b07": {
+            "text": "Titlul noii pagini"
+        },
+        "415d40999f28fef452f65616dabfc7a0": {
+            "text": "Noua pagin\u0103 trebuie s\u0103 fie nepublicat\u0103?"
+        },
+        "2627956e008c08b8affd8608d7980ff4": {
+            "text": "Dac\u0103 este bifat\u0103, pagina clonata va avea starea \"Nepublicata\" \u0219i, prin urmare, nu poate fi v\u0103zut \u00een front-end-ul site-ului dvs."
+        },
+        "5061c76f17ce15eb2a6092a51cb22aa3": {
+            "text": "Copia\u021bi \u0219i filele child?"
+        },
+        "a6c4c88eb6c7d256bf2e4aa56df4430f": {
+            "text": "Dac\u0103 este selectat, paginile din interior vor fi, de asemenea, clonate."
+        },
+        "06170efdb0d3840cd32dea984d32067a": {
+            "text": "Aten\u021bie: dac\u0103 exist\u0103 o structur\u0103 prea mare pe aceast\u0103 pagin\u0103, clonarea poate dura mult timp sau imposibil de finalizat."
+        },
+        "6a26ee7a6d1234006bf3806ee697f7d0": {
+            "text": "Pagina nu a putut fi clonat\u0103 %s"
+        },
+        "7e263f9f6a65e1126c6a599ea015a27c": {
+            "text": "Pagina \"%1$s\" aceasta a fost clonat \"%2$s\""
+        },
+        "366637b8eb1e99b85f6d6535e326a491": {
+            "text": "Clonarea paginii"
+        },
+        "fae7550bf964aa09e51752b154a6cb23": {
+            "text": "Ofer\u0103 posibilitatea de a clona\/copiere\/duplicare pagini din administra\u021bie. Adaug\u0103 o op\u021biune \"Copie\" pe toate paginile unde acest lucru este posibil."
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(copie)"
+        },
+        "884ba0e5457b084e152567fd52b66f6c": {
+            "text": "(copia %d)"
+        },
+        "04ded6e943c2cb8fab9a9b7075462f7c": {
+            "text": "Clonat in: %s"
+        },
+        "d52cff2047c2d3bd15b08ec62c34eb7d": {
+            "text": "Imposibil de clonat pagina"
+        }
+    }
+}

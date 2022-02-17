@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDatetime.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
+    "translations": {
+        "eb44c7b0eebc98a8441abb862a254b3d": {
+            "text": "Format de ie\u0219ire a datei"
+        },
+        "e7033eefffec056f8898dab5295ef2f6": {
+            "text": "Alege\u021bi formatul care va fi folosit pentru datele cu acest c\u00e2mp."
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "Pentru formate data\/ora legate, vezi Formatul timpului."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nimeni"
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(timestamp unix)"
+        },
+        "8a4b7daad69389d978a2ea6bab5b07f8": {
+            "text": "Format Ora"
+        },
+        "cce774e589c4c23ce9c8cc7cb958861a": {
+            "text": "Dac\u0103 dori\u021bi s\u0103 afi\u0219a\u021bi ora \u0219i data, alege\u021bi formatul de utilizat cu acest c\u00e2mp. Acesta va fi folosit \u00eempreun\u0103 cu formatul de dat\u0103."
+        },
+        "c1a326c2753f410fad585781390da97f": {
+            "text": "Formata\u021bi codul Data\/Ora"
+        },
+        "7b9ea642d1b10d7efc18d2c64a8940f8": {
+            "text": "Combinatia data\/ora va fi afi\u0219at conform formatului de mai jos. Acesta este construit automat din selec\u021biile  data\/ora definite mai sus, dar le pute\u021bi modifica \u00een func\u021bie de nevoile dvs."
+        },
+        "e606a86ec2852d83f2ea4622de245889": {
+            "text": "Consulta\u021bi documenta\u021bia PHP despre func\u021bie [date](http:\/\/www.php.net\/manual\/en\/function.date.php)pentru mai multe informa\u021bii despre cum s\u0103 personaliza\u021bi acest format. Alternativ, pute\u021bi utiliza formatul [PHP strftime](http:\/\/www.php.net\/manual\/en\/function.strftime.php) pentru localizare dac\u0103 dori\u021bi."
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "file": "wire\/core\/Permissions.php",
+    "textdomain": "wire--core--permissions-php",
+    "translations": {
+        "811deefb4c02a58fd629b05b775dbd3a": {
+            "text": "Arata\/ascunde paginile"
+        },
+        "078d02bfb62cf6957d8295c0072eb869": {
+            "text": "Publica\/anula\u021bi publicarea paginilor sau modifica\u021bi paginile deja publicate"
+        },
+        "419cb8b2ecc5b9144270ebbbb7e65c92": {
+            "text": "Edita\u021bi numai paginile create de utilizator"
+        },
+        "618400fc1b0f0b7a96f2d0c871bd2c6b": {
+            "text": "Utiliza\u021bi editorul de imagini pentru a manipula (t\u0103ia\u021bi, redimensiona\u021bi, etc.) imagini"
+        },
+        "aea865164370da774405c331d6657a6f": {
+            "text": "Schimba\u021bi numele paginilor publicate care pot fi editate"
+        },
+        "11872ca557915bb50767c6f91d5483d5": {
+            "text": "Administra\u021bi utilizatori \u00een orice rol (cu excep\u021bia superutilizatorului)"
+        },
+        "eecc2e81896b43d7a7fad8cd165a8107": {
+            "text": "Administra\u021bi utilizatorii \u00een acest rol: %s"
+        },
+        "8048bbf682a36eb44e24af9d4996ba3d": {
+            "text": "Edita\u021bi c\u00e2mpurile de pe o pagin\u0103 \u00een limb\u0103: %s"
+        },
+        "c7ec5d220e7d4a02342efda6f6b2be98": {
+            "text": "(necesar pentru a crea sau \u0219terge pagini)"
+        },
+        "40840d28513eb3dfb7be0a1fdffae9a7": {
+            "text": "Administra\u021bi limbi \u0219i fi\u0219iere statice de traducere"
+        },
+        "7a3c0039ad0f29f74babc54b9d96467d": {
+            "text": "Utilizatorul poate arunca paginile pe care le-a creat (f\u0103r\u0103 permisiunea de \u0219tergere a paginii)."
+        },
+        "5a1dc311dc716c30ccdb008bee94e9d6": {
+            "text": "Utilizatorul poate vedea utilizatorii \u00een orice rol (inclusiv superutilizator)"
+        },
+        "d341b36940e0a17c1d212ab5b32fafa8": {
+            "text": "User can view themself (when not already by other permission)"
+        },
+        "9d7f65dc30d669d9000ef19ed549228e": {
+            "text": "Vizualiza\u021bi utilizatorii \u00een rol: %s"
+        },
+        "021ae36974d48cf90a6b204c4abe221b": {
+            "text": "Edit single-language fields on multi-language page"
+        }
+    }
+}

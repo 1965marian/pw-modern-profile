@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeModule.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypemodule-module",
+    "translations": {
+        "40e27ece1fd60ce7081fd3084e866820": {
+            "text": "Tipuri de formulare"
+        },
+        "e4b9c7449faedd6b2667e3db22d04cc1": {
+            "text": "Verifica\u021bi toate tipurile de formulare care pot fi selectate \u00een acest c\u00e2mp."
+        },
+        "4aa842af483898d272ce5ea136a446d3": {
+            "text": "Face\u021bi din acest c\u00e2mp o instan\u021b\u0103 a formularului selectat?"
+        },
+        "1d4b3399eb44d29f0188147089a9fb8a": {
+            "text": "Dac\u0103 este bifat\u0103, valoarea c\u00e2mpului va fi o instan\u021b\u0103 a modulului selectat. \u00cen caz contrar, valoarea c\u00e2mpului va fi un \u0219ir care con\u021bine numele clasei modulului."
+        },
+        "bbddef2b960b6e14a0c9510c2312192e": {
+            "text": "Eticheta de op\u021biuni"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Tip de introducere"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Select"
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "Radio"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nici unul"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nume"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titlu"
+        },
+        "3d0e52e8f34a293de17317f094e676b6": {
+            "text": "Titlu \u0219i rezumat"
+        },
+        "daf361912b4d4260a6a0c3dc31a60312": {
+            "text": "Afi\u0219a\u021bi o op\u021biune \u201eNiciuna\u201d?"
+        },
+        "1177fb816ddc2935c2a8bc55d22b93b1": {
+            "text": "Tip de valoare necompletat"
+        }
+    }
+}

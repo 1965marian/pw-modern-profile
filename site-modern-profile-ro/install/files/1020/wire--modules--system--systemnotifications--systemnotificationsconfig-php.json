@@ -1,0 +1,138 @@
+{
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Format de dat\u0103 utilizat pentru notific\u0103ri. Folosi\u021bi formatul date() sau strftime() sau \u201erelative\u201d pentru data\/ora relativ\u0103, \u201erel\u201d pentru data\/ora prescurtat\u0103."
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "pornit"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "oprit"
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Stanga"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Dreapta"
+        },
+        "64930416d9c5663de5d4ef880d8e0b0e": {
+            "text": "Starea notific\u0103rilor"
+        },
+        "2e9cdb9adc7f7c13f750d7fe7ab46979": {
+            "text": "C\u00e2nd este dezactivat, notific\u0103rile nu vor fi redate."
+        },
+        "1983cbef846882d5eb60db0f1af3cf4a": {
+            "text": "Urm\u0103ri\u021bi modific\u0103rile paginii?"
+        },
+        "6f089aa14345991d2dc5234b61b2841c": {
+            "text": "Notific\u0103 utilizatorii c\u00e2nd \u00eencearc\u0103 s\u0103 editeze o pagin\u0103 care este deja editat\u0103."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Ordin de notificare"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "Selecta\u021bi \u00een ce ordine ar trebui s\u0103 se afi\u0219eze notific\u0103rile."
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "De la cel mai nou la cel mai vechi"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "De la cel mai vechi la cel mai nou"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "Hook active de notificare automat\u0103"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "Ori de c\u00e2te ori are loc unul dintre aceste evenimente, utilizatorul sistemului de mai sus va fi notificat."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 Pagina nu a fost g\u0103sit\u0103"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Logare utilizator succes \u0219i e\u0219ec"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "Deconectare utilizator"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "Acestea sunt \u00een primul r\u00e2nd doar exemple de notific\u0103ri \u00een scopul demonstra\u021biei."
+        },
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "Numele utilizatorului care prime\u0219te notific\u0103ri de sistem"
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "Timp \u00eentre actualiz\u0103ri"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "C\u00e2t de des s\u0103 verifica\u021bi actualiz\u0103rile notific\u0103rilor (\u00een milisecunde). Exemplu: 5000 \u00eenseamn\u0103 5 secunde."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Formatul datei"
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "Pictograma mesaj"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Pictogram\u0103 de avertizare"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Pictogram\u0103 de eroare"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "\u00cent\u00e2rziere fantom\u0103"
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "C\u00e2t timp apar mesajele fantom\u0103 (\u00een ms)."
+        },
+        "a24efc3293365b4ca44161c70fffe1b7": {
+            "text": "\u00cent\u00e2rziere eroare fantom\u0103"
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "C\u00e2t timp apar erorile fantom\u0103 (\u00een ms)."
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "Opacitate deplin\u0103 fantom\u0103"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "Opacitatea complet\u0103 a fantomelor (0,1-1,0)"
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Limita fantomei"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "Afi\u0219eaz\u0103 fantoma de rezumat dac\u0103 mai mult."
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "Viteza de estompare a fantomei"
+        },
+        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
+            "text": "Viteza cu care fantomele se estompeaz\u0103 \u00een interior sau \u00een iesire."
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Imediat (f\u0103r\u0103 fade in\/out)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "Rapid"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Incet"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Pozi\u021bia fantom\u0103"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "Pe ce parte a ecranului ar trebui s\u0103 pluteasc\u0103 fantomele."
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Notific\u0103ri de rulare\/solicitare unic\u0103"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Afi\u0219a\u021bi ca notific\u0103ri"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Las\u0103-i singuri"
+        }
+    }
+}

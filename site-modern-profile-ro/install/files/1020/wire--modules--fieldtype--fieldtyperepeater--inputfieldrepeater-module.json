@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/InputfieldRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--inputfieldrepeater-module",
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Elimina"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "Fel"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Nou"
+        },
+        "7264d8c26ac9671a31cd3eb3ddd4a447": {
+            "text": "Acest element va fi editabil dup\u0103 salvare."
+        },
+        "d3b3350cb648f345b0a21a048df0cf45": {
+            "text": "Repetitor"
+        },
+        "25c63396ad92c7bbb48fa4aa21adc5e4": {
+            "text": "Repeta\u021bi c\u00e2mpurile dintr-un alt \u0219ablon. Ofer\u0103 intrare pentru FieldtypeRepeater."
+        },
+        "675056ad1441b6375b2c5abd48c27ef1": {
+            "text": "Adancime"
+        },
+        "4ee8d3067ffde7991e2c009f775ceb75": {
+            "text": "Avertisment: vor fi folosite numai primele %d articol(e)."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adauga nou"
+        },
+        "44a3084a1ce251fb76ba7fe540a18863": {
+            "text": "Aceast\u0103 ac\u021biune este dezactivat\u0103 pentru set\u0103rile minime \u0219i\/sau maxime ale articolului."
+        },
+        "be3fb8f18ddcd8f47b92e020f1474b1b": {
+            "text": "Erori la articolul \u201e%s\u201d %d"
+        },
+        "84b9f1e68847c185ca36db3bc2f8de18": {
+            "text": "Face\u021bi clic pentru a \u0219terge acest articol sau face\u021bi dublu clic pentru a \u0219terge tot"
+        },
+        "9a04ad51e71ca7e14841c880abe89a44": {
+            "text": "Sterge toate articolele"
+        },
+        "485c9b5a61ede20a8ccc332f120da1f9": {
+            "text": "Face\u021bi clic pentru a activa\/dezactiva elementul sau face\u021bi dublu clic pentru a deschide\/restr\u00e2nge toate elementele"
+        },
+        "60f5703a75c6e7fa21be4247f0626dfb": {
+            "text": "Clona\u021bi acest articol?"
+        },
+        "2ca001ee3992ee08c53099d65cbde4eb": {
+            "text": "Afi\u0219a\u021bi set\u0103rile?"
+        },
+        "b5fab487adaf66b676d31b8fd16af85b": {
+            "text": "Deschide\u021bi toate articolele?"
+        },
+        "d7280b1cbbae6481f050a9184b8fa445": {
+            "text": "Restr\u00e2nge\u021bi toate articolele?"
+        }
+    }
+}

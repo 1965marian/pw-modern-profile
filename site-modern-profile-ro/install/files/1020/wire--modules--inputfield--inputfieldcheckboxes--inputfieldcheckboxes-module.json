@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Checkbox"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "\u00centrerup\u0103toare multiple pentru checkbox"
+        },
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "Op\u021biune l\u0103\u021bimea coloanei"
+        },
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "Utiliza\u021bi aceast\u0103 setare pentru a afi\u0219a op\u021biunile \u00een coloane cu l\u0103\u021bime fix\u0103 \u200b\u200bcare plutesc sau se restr\u00e2ng \u00een func\u021bie de l\u0103\u021bimea ferestrei de vizualizare."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "Introduce\u021bi un num\u0103r de l\u0103\u021bime CSS \u0219i o unitate, cum ar fi 100px sau 10em, de exemplu. Dac\u0103 nu este specificat\u0103 nicio unitate, se presupune px (pixeli)."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "Introduce\u021bi num\u0103rul 1 pentru a calcula automat o l\u0103\u021bime adecvat\u0103 \u00een timpul rul\u0103rii."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "Pentru cel mai bun aspect, introduce\u021bi o l\u0103\u021bime care s\u0103 se potriveasc\u0103 cu cea mai lung\u0103 op\u021biune f\u0103r\u0103 \u00eempachetarea cuvintelor sau introduce\u021bi 1 p\u00e2n\u0103 la pentru l\u0103\u021bimea automat\u0103."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Optiuni numar de coloane"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Dac\u0103 dori\u021bi ca op\u021biunile s\u0103 fie afi\u0219ate \u00een coloane, introduce\u021bi num\u0103rul de coloane pe care dori\u021bi s\u0103 le utiliza\u021bi (p\u00e2n\u0103 la 10)."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "To display options inline side-by-side enter the number 1."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "Note that the \u201coption column width\u201d setting is preferable for responsive behavior."
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldEmail.module",
+    "textdomain": "wire--modules--inputfield--inputfieldemail-module",
+    "translations": {
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "Introduce\u021bi o adres\u0103 de email valid\u0103"
+        },
+        "3918809b01dd88b1c1c892aec102512b": {
+            "text": "Adres\u0103 de e-mail \u00eentr-un format valid"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Confirma"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "Adresele de e-mail pe care le-a\u021bi introdus nu se potrivesc, v\u0103 rug\u0103m s\u0103 le introduce\u021bi din nou"
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "Confirma\u021bi adresa dumneavoastr\u0103 de email?"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Dac\u0103 este bifat, vor fi afi\u0219ate dou\u0103 c\u00e2mpuri de e-mail \u0219i utilizatorul va trebui s\u0103 introduc\u0103 adresa de e-mail de dou\u0103 ori. Acest lucru ajut\u0103 la reducerea \u0219anselor de erori de tipar."
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "R-Mail"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "Email"
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "E-mailul \u201e%s\u201d este deja utilizat, v\u0103 rug\u0103m s\u0103 utiliza\u021bi unul diferit"
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "E-mailul a dep\u0103\u0219it lungimea maxim\u0103 permis\u0103 de %d caractere"
+        }
+    }
+}

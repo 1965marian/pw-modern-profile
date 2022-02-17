@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fields.php",
+    "textdomain": "wire--core--fields-php",
+    "translations": {
+        "e1658097cf747de4696d2515e2e8b9a0": {
+            "text": "pagina cu pagina"
+        },
+        "68d1cb3da7a618bf1997d9d5149ae24a": {
+            "text": "o singur\u0103 interogare"
+        },
+        "95174709ea432bbeb2a0ec8d9862b8a5": {
+            "text": "Datele din c\u00e2mpul \u201e%1$s\u201d s-au \u0219ters \u00een %2$d r\u00e2nd(e) din %3$d pagini folosind \u0219ablonul \u201e%4$s\u201d."
+        },
+        "f9de29a177673a5d7f9bfe31fb3d94f3": {
+            "text": "Eroare la \u0219tergerea datelor c\u00e2mpului \u201e%1$s\u201d, %2$d r\u00e2nd(e), %3$d pagini folosind \u0219ablonul \u201e%4$s\u201d."
+        }
+    }
+}

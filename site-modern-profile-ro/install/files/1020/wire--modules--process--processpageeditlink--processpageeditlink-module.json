@@ -1,0 +1,123 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Alege\u021bi o pagin\u0103"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Introduce\u021bi o adres\u0103 URL, selecta\u021bi o pagin\u0103 sau selecta\u021bi un fi\u0219ier de care s\u0103 face\u021bi leg\u0103tura:"
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "Conectarea la  URL"
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "Link(legatura)"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Introduce\u021bi o adres\u0103 URL, o adres\u0103 de e-mail, un link de ancorare sau introduce\u021bi cuvinte pentru a g\u0103si o pagin\u0103."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Alege\u021bi Ancor\u0103"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "Ancore g\u0103site \u00een textul pe care \u00eel edita\u021bi."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Alege\u021bi Pagina"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Alege\u021bi Pagina Child"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Acesta este identic cu \"Alege Pagina\" de mai sus, dar poate fi mai rapid de utilizat atunci c\u00e2nd este conectat la Child paginii curente."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Attribute"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titlu"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Text suplimentar pentru a descrie linkul."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Tinta"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Unde se va deschide acest link."
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Relatie de link la document."
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "Clase"
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Clase suplimentare care pot afecta aspectul sau comportamentul link-ului."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Pute\u021bi modifica atributele disponibile afi\u0219ate mai sus \u00een set\u0103rile formularului %s."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Niciunul"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "deschide \u00eentr - o fereastr\u0103 nou\u0103"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "for\u021ba\u021bi motoarele de c\u0103utare s\u0103 nu urmeze"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Alege fi\u0219ierul"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Afi\u0219a\u021bi fi\u0219ierele pe pagin\u0103:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Alege\u021bi fi\u0219ierul pe care dori\u021bi s\u0103 \u00eel conecta\u021bi de pe aceast\u0103 pagin\u0103."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Pentru a alege un fi\u0219ier dintr-o alt\u0103 pagin\u0103, face\u021bi clic pe 'Alege\u021bi pagina' de mai sus \u0219i alege\u021bi pagina din care dori\u021bi s\u0103 selecta\u021bi un fi\u0219ier."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Op\u021biuni de atribute"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Introduce\u021bi un atribut pe linie. Utilizatorul le va putea alege ca op\u021biuni atunci c\u00e2nd adaug\u0103 linkuri. Pentru a seta o op\u021biune implicit\u0103 aleas\u0103 (pentru link-uri noi), preceda\u021bi-o cu un semn plus \"+\"."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Atributele link-ului extern"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Specific\u0103 atributele implicite care vor fi populate automat atunci c\u00e2nd este detectat\u0103 o leg\u0103tur\u0103 extern\u0103."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Dac\u0103 este utilizat\u0103, valoarea trebuie s\u0103 fie una dintre valorile implicite de mai sus."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Exemplu: specificarea ** nofollow ** leg\u0103turile externe implicite nu vor fi urmate de motoarele de c\u0103utare."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Exemplu: specificarea ** _blank ** va seta ca linkurile externe s\u0103 se deschid\u0103 \u00eentr-o fereastr\u0103 nou\u0103."
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "Tipul URL pentru link-urile paginii"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "URL relativ numai \u00een acelea\u015fi ramuri"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "URL mereu elativ"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "*Experimental"
+        },
+        "63a11faa3a692d4e00fa8e03bbe8a0d6": {
+            "text": "Text de legatura"
+        },
+        "9d622cf09c8c619959d7e4712908b73a": {
+            "text": "Cale complet\u0103\/absolut\u0103 de la r\u0103d\u0103cin\u0103 (implicit)"
+        }
+    }
+}

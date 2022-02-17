@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Marcaje"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Modifica Marcaje"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "toate"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Nu sunt definite marcaje momentan"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "toate"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Marcaje pentru: %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s Editor de marcaje"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Re\u021bine\u021bi c\u0103 numai superutilizatorii vor putea vedea acest editor."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Adaug\u0103 marcaje"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Face\u021bi clic pe ac\u021biune \"adaug\u0103 marcaj\" mai jos pentru a alege paginile de marcat. Dac\u0103 dori\u021bi ca marcajele s\u0103 apar\u0103 doar pentru un anumit rol, selecta\u021bi mai \u00eent\u00e2i rolul."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Marcaje salvate"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "Permite\u021bi utilizarea marcajelor?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "Marcajele v\u0103 permit s\u0103 crea\u021bi comenzi rapide de pagin\u0103 din acest modul, configurabile pentru rolurile de utilizator. Util pentru aplica\u021bii mari."
+        }
+    }
+}

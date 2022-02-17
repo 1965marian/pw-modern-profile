@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessFieldExportImport.php",
+    "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
+    "translations": {
+        "71eaa2b13692809e39c2f0c36e7f1d7f": {
+            "text": "Alege\u021bi c\u00e2mpurile pe care dori\u021bi s\u0103 le exporta\u021bi"
+        },
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "NUME"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "ETICHETA"
+        },
+        "948495146facadfe8859789036313d79": {
+            "text": "TIP"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+Click pentru a alege mai multe valori \u00een succesiune. Ctrl+Click (sau Cmd+Click) pentru a alege mai multe valori individual. Ctrl+A (o Cmd+A) a alege totul."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Exporta date"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Copia\u021bi \u0219i insera\u021bi aceste date \u00een caseta \"Importa\u021bi\" a unei alte instal\u0103ri."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Face\u021bi clic oriunde \u00een caset\u0103 pentru a alege toate datele exportate. Dup\u0103 ce a\u021bi terminat, copia\u021bi datele cu CTRL-C o CMD-C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Lipi\u021bi datele dintr-un export."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Copia\u021bi datele exportate dintr-o alt\u0103 instalare \u0219i apoi lipi\u021bi-le \u00een caseta de sus cu CTRL-V o CMD-V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "previzualizare"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "nou"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Schimb\u0103ri"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Propriet\u0103\u021bi"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Valoarea anterioar\u0103"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Valoare noua"
+        },
+        "939704657d1c6c48005bdb67bc14ee75": {
+            "text": "V\u0103 recomand\u0103m s\u0103 schimba\u021bi manual tipul acestui c\u00e2mp la \"%s\", apoi s\u0103 reveni\u021bi aici pentru a aplica modific\u0103rile suplimentare."
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Nicio modificare \u00een curs."
+        },
+        "c4fd77379e1e463339786fbbc671068c": {
+            "text": "Edita\u021bi acest c\u00e2mp?"
+        },
+        "2f4ddf245d305802ffed479ba3b88451": {
+            "text": "Crea\u021bi acest c\u00e2mp?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "face\u021bi clic pe da pentru a afi\u0219a modific\u0103rile"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Uneori sunt necesare dou\u0103 confirm\u0103ri \u00eenainte ca toate modific\u0103rile s\u0103 intre \u00een vigoare. Verifica\u021bi orice modific\u0103ri \u00een curs \u0219i confirma\u021bi-le dac\u0103 este necesar."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Verifica\u021bi modific\u0103rile \u0219i confirma\u021bi-le c\u00e2nd sunt gata. Dac\u0103 exist\u0103 modific\u0103ri pe care nu dori\u021bi s\u0103 le aplica\u021bi, deselecta\u021bi c\u00e2mpurile acolo unde este cazul."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Confirma\u021bi modific\u0103rile"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Modific\u0103rile dvs. au fost aplicate!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Nu s-au g\u0103sit modific\u0103ri"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Salvat:"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "Adaug un c\u00e2mp"
+        },
+        "9de8e0c21384ddfd634fd87a48f6b3b2": {
+            "text": "C\u00e2mp modificat"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Exporta"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "="
+        },
+        "e37dfad06455f0c5d79778a5020d946d": {
+            "text": "Importa"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Da"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Nu"
+        },
+        "c3005b0d579421afe9654e94b7f60c41": {
+            "text": "%d erroare"
+        },
+        "2169b4627df97333ed94d1e30a9b8148": {
+            "text": "%d erroari"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "S-au g\u0103sit %d propriet\u0103\u021bi de aplicat."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "S-au g\u0103sit %d propriet\u0103\u021bi de aplicat."
+        },
+        "9e06b5dbfb31f1828888bca905c2e88e": {
+            "text": "S-au g\u0103sit erori \u00een c\u00e2mpul %d"
+        },
+        "68949530f08adb8c1a98b2a452c25604": {
+            "text": "S-au g\u0103sit erori \u00een %d c\u00e2mpuri"
+        },
+        "98e916ede6d185f77336fd8e0c08bfe0": {
+            "text": "S-au g\u0103sit %d c\u00e2mpuri noi de ad\u0103ugat"
+        },
+        "9bdf5048d07cd31f11ccd839cc2d077a": {
+            "text": "S-au g\u0103sit %d c\u00e2mpuri noi de ad\u0103ugat"
+        },
+        "927d189873b1f34075deb20406d33644": {
+            "text": "S-au g\u0103sit %d c\u00e2mpuri existente de actualizat"
+        },
+        "5cc06b731a19a2b34a1e3a0e79e35690": {
+            "text": "S-au g\u0103sit %d c\u00e2mpuri existente de actualizat"
+        },
+        "99dc52a2961a9de2d42d6dbd498b0103": {
+            "text": "S-a ad\u0103ugat un c\u00e2mp %d"
+        },
+        "46b6c6eede6b98b8ac580770f6215f35": {
+            "text": "S-a ad\u0103ugat un c\u00e2mp %d"
+        },
+        "0ecf1cc5ca067272faabd8c0900efe68": {
+            "text": "C\u00e2mp %d modificat"
+        },
+        "18e7924633aa136c8b5ba3827b3f7058": {
+            "text": "C\u00e2mpuri %d modificate"
+        },
+        "c9185726324b2953e521ff596b287f25": {
+            "text": "C\u00e2mp %d l\u0103sat afar\u0103"
+        },
+        "0cf5f939a615a083962e96f06b8ed6ea": {
+            "text": "C\u00e2mpuri %d l\u0103sate afar\u0103"
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplateExportImport.php",
+    "textdomain": "wire--modules--process--processtemplate--processtemplateexportimport-php",
+    "translations": {
+        "adb6c5041788e54ab20e2a3ef58fbe6e": {
+            "text": "Scegli i template che vuoi esportare"
+        },
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "NUME"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "ETICHETA"
+        },
+        "60f5cde0d3f7fde81ba481a6a2ea2c49": {
+            "text": "CAMPURI"
+        },
+        "40e3819215b52841e19a7cac06b5f065": {
+            "text": "MODIFICAT"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+Click pentru a selecta mai multe \u00een secven\u021b\u0103. Ctrl+Click (sau Cmd+Click) pentru a selecta mai multe individual. Ctrl+A (sau Cmd+A) pentru a le selecta pe toate."
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Nu"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "Nou"
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Expoera datele"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Copia\u021bi \u0219i insera\u021bi aceste date \u00een caseta \u201eImport\u201d a unei alte instal\u0103ri."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Face\u021bi clic oriunde \u00een caset\u0103 pentru a selecta toate datele de export. Odat\u0103 selectat, copia\u021bi datele cu CTRL-C sau CMD-C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Insera\u021bi datele dintr-un export."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Copia\u021bi datele de export dintr-o alt\u0103 instalare \u0219i apoi lipi\u021bi \u00een caseta de mai sus cu CTRL-V sau CMD-V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Previzualizare"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Schimbari"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Proprietati"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Valoare veche"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Valoare noua"
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Nicio modificare \u00een a\u0219teptare."
+        },
+        "10683c4dcfaf72824f906297f56bf7a5": {
+            "text": "Modificati acest sablon?"
+        },
+        "8ed3116cc653ca014c306d4750f6fdb4": {
+            "text": "Creati acest sablon?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "face\u021bi clic pe da pentru a afi\u0219a modific\u0103rile"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Uneori pot fi necesare dou\u0103 comiteri \u00eenainte ca toate modific\u0103rile s\u0103 fie aplicate. V\u0103 rug\u0103m s\u0103 examina\u021bi mai jos orice modific\u0103ri \u00een a\u0219teptare \u0219i s\u0103 le confirma\u021bi dup\u0103 cum este necesar."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "V\u0103 rug\u0103m s\u0103 examina\u021bi modific\u0103rile de mai jos \u0219i s\u0103 le confirma\u021bi c\u00e2nd sunte\u021bi gata. Dac\u0103 exist\u0103 modific\u0103ri pe care nu dori\u021bi s\u0103 le aplica\u021bi, debifa\u021bi casetele acolo unde este cazul."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Commite\u021bi modific\u0103ri"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Modific\u0103rile dvs. au fost aplicate!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Nu s-au gasit schimbari"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Salvat:"
+        },
+        "9e8f440807ceee9139987ab8fc6af288": {
+            "text": "Adaugat"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Da"
+        },
+        "1de056630a16e4be557e090c25f5791e": {
+            "text": "%d notificare"
+        },
+        "f96edcbe75239be800209c48ae9beb65": {
+            "text": "%d notificari"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "S-au g\u0103sit %d proprietate de aplicat."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "S-au g\u0103sit %d proprietati de aplicat."
+        },
+        "55c3a7525ed259e874a6d8f5e7e1b951": {
+            "text": "Notific\u0103ri \u00een %d \u0219ablon"
+        },
+        "c444fb69a513bb955e7fc6d2743259c0": {
+            "text": "Notific\u0103ri \u00een %d \u0219abloane"
+        },
+        "941d6506a00bb692b6fef9cd4ae4b5e1": {
+            "text": "S-au g\u0103sit %d \u0219ablon nou de ad\u0103ugat"
+        },
+        "5788268970dc1d50bc88a88494487e11": {
+            "text": "S-au g\u0103sit %d \u0219abloane noi de ad\u0103ugat"
+        },
+        "6c0ca3ff5408385efd5418b46d06cd85": {
+            "text": "S-a g\u0103sit %d \u0219ablon existent de actualizat"
+        },
+        "b51b8d4de5d4fd2422af0fb2ad529875": {
+            "text": "S-au g\u0103sit %d \u0219abloane existente de actualizat"
+        },
+        "9b64d9a70291ddd3f6c42edec1bb9866": {
+            "text": "S-a ad\u0103ugat %d articol"
+        },
+        "0f1a6168f03f3ac45f46090fef3bf688": {
+            "text": "S-au ad\u0103ugat %d articole"
+        },
+        "1992f81aea256b7d907c455b395d5ea4": {
+            "text": "S-a modificat %d articol"
+        },
+        "91cfce0d08404cef27087ea2d7c9043a": {
+            "text": "S-au modificat %d articole"
+        },
+        "c95e1b7b8cdab666cefec077890996f5": {
+            "text": "S-a omis %d articol"
+        },
+        "fc9475948584941277524f1216bb18ff": {
+            "text": "S-au omis %d articole"
+        },
+        "c5537dee88da6f333d20bfd49cfe1ce4": {
+            "text": "Modificat:"
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPage\/InputfieldPage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpage--inputfieldpage-module",
+    "translations": {
+        "4349c31cba02549f2043d69b9eb0d66e": {
+            "text": "(Nepublicat)"
+        },
+        "6dc3e540b29f68e1eaf558b6a2edd476": {
+            "text": "Introduce\u021bi titlurile articolelor pe care dori\u021bi s\u0103 le ad\u0103uga\u021bi, c\u00e2te unul pe r\u00e2nd. Acestea vor fi create \u0219i ad\u0103ugate la selec\u021bia dvs. atunci c\u00e2nd salva\u021bi pagina."
+        },
+        "b82b34c94588fc88ca4a6b18f5e18aef": {
+            "text": "Introduce\u021bi titlul articolului pe care dori\u021bi s\u0103 \u00eel ad\u0103uga\u021bi. Acesta va fi selectat c\u00e2nd salva\u021bi pagina."
+        },
+        "e3cada644043c81e6ff21250f2e53f3a": {
+            "text": "Se vor ad\u0103uga pagini noi %s"
+        },
+        "49e5878c7a1901b0a9baae9e0c774150": {
+            "text": "Creare noua"
+        },
+        "f0670991d41b78617ca7810b7ce334b9": {
+            "text": "Pagin\u0103 ad\u0103ugat\u0103 %s"
+        },
+        "29b43e0c70cb336d03f04f3f06a8789d": {
+            "text": "Eroare la ad\u0103ugarea paginii \"%s\""
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Exemplu:"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(implicit)"
+        },
+        "5b0591013bf2cac5ee96f90e31a5b2e9": {
+            "text": "Alege\u021bi p\u0103rintele paginilor selectabile."
+        },
+        "1920ec4f46fd3f4962d351c84f69cf7e": {
+            "text": "parent=\/products\/, template=product, sort=name"
+        },
+        "d0188d35124b9f7887cc0d158da64328": {
+            "text": "Dac\u0103 dori\u021bi s\u0103 g\u0103si\u021bi pagini selectabile folosind cod PHP, \u00een loc s\u0103 alege\u021bi o pagin\u0103 p\u0103rinte sau un \u0219ablon (mai sus), atunci introduce\u021bi codul pentru a g\u0103si paginile selectabile. Aceast\u0103 declara\u021bie va avea acces la variabilele API $page \u0219i $pages, unde $page se refer\u0103 la pagina editat\u0103 \u00een prezent."
+        },
+        "e8764466585c7e1a106fd67e89ce91c6": {
+            "text": "Acest fragment de cod ar trebui s\u0103 returneze PageArray, Page sau NULL. Dac\u0103 returneaz\u0103 Pagina, copiii paginii vor fi utiliza\u021bi ca pagini selectabile. Utilizarea este op\u021bional\u0103 \u0219i, dac\u0103 este utilizat\u0103, va suprascrie c\u00e2mpurile p\u0103rinte\/template\/selector definit mai sus."
+        },
+        "a9e792488572b1b5316720df20682ad3": {
+            "text": "NOTA: nu este compatibil cu c\u00e2mpurile de intrare PageListSelect sau Autocomplete."
+        },
+        "b329c0bc717cd35d04a9362fc0d778c2": {
+            "text": "Retun $page->parent->parent->children(\"name=locations\")->first()->children();"
+        },
+        "d8f9928df4675d892629c754932fad80": {
+            "text": "C\u00e2mp de etichet\u0103"
+        },
+        "e5c1791ec6a73eed5d8a7002e2799470": {
+            "text": "Alege\u021bi c\u00e2mpul de pagin\u0103 pe care dori\u021bi s\u0103 \u00eel utiliza\u021bi pentru a genera etichetele pentru fiecare pagin\u0103 selectabil\u0103."
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "Alege \"Formato personalizzato\" dac\u0103 dori\u021bi s\u0103 specifica\u021bi mai multe c\u00e2mpuri sau c\u00e2mpuri care nu sunt disponibile mai sus."
+        },
+        "282acaaa24f42bb779ccb235bfc37491": {
+            "text": "Format personalizata (campuri multiple)' . ' ..."
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Formatare personalizat\u0103 pentru eticheta paginii"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "Specifica\u021bi unul sau mai multe nume de c\u00e2mpuri \u00eenconjurate de {paranteze} \u00eempreun\u0103 cu caractere, spa\u021bii sau semne de punctua\u021bie suplimentare."
+        },
+        "190dcbcb68a0545eb0e38c4eca2961e0": {
+            "text": "Exemplu: {titlul p\u0103rinte} - {titlu}, {data}"
+        },
+        "881b1a7b97bc4d70099cc59a53e8a8e5": {
+            "text": "Tipul c\u00e2mpului de input"
+        },
+        "8332fcbd80839cdcc617bee49529ad1e": {
+            "text": "Permite crearea de noi pagini din c\u00e2mp?"
+        },
+        "20463a1675fc256b438538124524746a": {
+            "text": "Dac\u0103 este bifat\u0103, o op\u021biune de a ad\u0103uga pagini noi va fi prezent\u0103 dac\u0103 cerin\u021bele de mai sus sunt \u00eendeplinite."
+        },
+        "65a208c6491dac4a6fb17f7a62f76658": {
+            "text": "2. Utilizatorul care efectueaz\u0103 modificarea trebuie s\u0103 aib\u0103 acces de creare\/publicare la aceste pagini."
+        },
+        "d9a5927aa49f1a766a15e692b69c1c91": {
+            "text": "Module Inputfield disponibile pentru selectarea paginii"
+        },
+        "d5a1e1e864827e2bbb99d144e30359de": {
+            "text": "Alege\u021bi modulele Inputfield care pot fi utilizate pentru selectarea paginii. Acestea ar trebui s\u0103 fie, \u00een general, Inputfield care v\u0103 permit s\u0103 alege\u021bi una sau mai multe op\u021biuni."
+        },
+        "db62b7d9ccb858fb53481683f5d1d813": {
+            "text": "Acest c\u00e2mp trebuie configurat \u00eenainte de a putea fi utilizat."
+        },
+        "5e1daea70649e788db6ead8cd50f791d": {
+            "text": "Pagina nepublicat\u0103 %1$s nu este permis\u0103 \u00een c\u00e2mpul \u201e%2$s\u201d"
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "Pentru a permite pagini nepublicate, edita\u021bi c\u00e2mpul \u201e%s\u201d \u0219i vede\u021bi setarea din fila \u201eDetalii\u201d."
+        },
+        "309980b76124ca15c19a948edcd2b820": {
+            "text": "Pagina selectabila"
+        },
+        "e50655dbc7c36d40e2cf238aae3bf9c8": {
+            "text": "Utiliza\u021bi cel pu\u021bin una dintre op\u021biunile de mai jos pentru a determina ce pagini vor fi selectate cu acest c\u00e2mp."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Parinte"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Sablon"
+        },
+        "e633bd1a014a2d5f6beee84c20440cb4": {
+            "text": "Selecta\u021bi \u0219ablonul paginilor care pot fi selectate. Poate fi folosit \u00een locul sau \u00een plus fa\u021b\u0103 de p\u0103rintele de mai sus."
+        },
+        "38c3a6e66709a7bfc48e7450e726a9b5": {
+            "text": "\u0218abloane suplimentare"
+        },
+        "24ae2cf02f858ca0ae6dd168fe28add8": {
+            "text": "Dac\u0103 ave\u021bi nevoie de \u0219abloane suplimentare pentru pagini selectabile, selecta\u021bi-le aici."
+        },
+        "1bffba8c823b325ac5713f424da43182": {
+            "text": "Este posibil s\u0103 nu fie acceptat de toate tipurile de intrare."
+        },
+        "cdce55320d6f3ed4e6ac6f952d43903d": {
+            "text": "\u00cen timp ce aceasta suprascrie selec\u021biile p\u0103rinte \u0219i \u0219ablonului de mai sus, acele selec\u021bii (dac\u0103 sunt prezente) sunt \u00eenc\u0103 folosite pentru validare."
+        },
+        "83309c97a345b4921da94ff53e86da68": {
+            "text": "Ad\u0103uga\u021bi unul sau mai multe c\u00e2mpuri mai jos pentru a crea o interogare care g\u0103se\u0219te paginile pe care dori\u021bi s\u0103 le face\u021bi selectabile."
+        },
+        "46ccc95f9f53fc892accee255689f495": {
+            "text": "Acest lucru creeaz\u0103 un selector care g\u0103se\u0219te pagini \u00een timpul rul\u0103rii. Dac\u0103 prefera\u021bi s\u0103 introduce\u021bi acest lucru manual, utiliza\u021bi op\u021biunea \u201e\u0218ir de selec\u021bie\u201d de mai jos."
+        },
+        "533e8044020cfac547586cacca582fca": {
+            "text": "G\u0103sire personalizat\u0103"
+        },
+        "709109a0ca7566a6bfae0f6145c8c613": {
+            "text": "Ad\u0103uga\u021bi c\u00e2mp la interogare"
+        },
+        "5742607846ab8e8f502a078e624a2f24": {
+            "text": "Selector string"
+        },
+        "14d274b0d81592a035d1fb04ee031fb6": {
+            "text": "Dac\u0103 dori\u021bi s\u0103 g\u0103si\u021bi pagini selectabile folosind un selector ProcessWire, introduce\u021bi \u0219irul selector pentru a g\u0103si paginile selectabile. Acest selector va fi transmis unui apel `$pages->find(\"selectorul dvs.\");`."
+        },
+        "c53eb6ef357cebe320e9c359e7adfaeb": {
+            "text": "Ad\u0103uga\u021bi urm\u0103torul (hook) la un fi\u0219ier %s \u0219i modifica\u021bi dup\u0103 nevoile dvs. Hook ar trebui s\u0103 g\u0103seasc\u0103 \u0219i s\u0103 returneze pagini selectabile \u00eentr-un PageArray."
+        },
+        "06d1dad5791272bfde6c76b87289a62b": {
+            "text": "Dac\u0103 trebuie s\u0103 \u0219ti\u021bi pagina care este editat\u0103, este accesibil\u0103 de la: %s"
+        },
+        "89ba456c93408d4bc5888a8e960dbb79": {
+            "text": "Cod PHP personalizat"
+        },
+        "9eeb68b4b7e0c3608f3014ad177b15fb": {
+            "text": "Tipul c\u00e2mpului de intrare (modul c\u00e2mpului de intrare) care va fi utilizat pentru a selecta paginile pentru acest c\u00e2mp."
+        },
+        "215c501706b9ef0657264f0cb931dbd3": {
+            "text": "Selecta\u021bi unul care este \u00een concordan\u021b\u0103 cu selec\u021bia dvs. \u201eTip de valoare\u201d din fila \u201eDetalii\u201d pentru selectarea unei pagini sau a mai multor pagini."
+        },
+        "081b70a0b1eb9e48918ebc5d3c8afc6b": {
+            "text": "Dup\u0103 selectarea unui tip de c\u00e2mp de introducere \u0219i salvarea modific\u0103rilor, re\u021bine\u021bi c\u0103 op\u021biunile de configurare suplimentare specifice selec\u021biei dvs. pot ap\u0103rea direct sub acesta."
+        },
+        "1df666749c8b91ac260ac68b3a1dfeb3": {
+            "text": "Selectarea mai multor pagini"
+        },
+        "c051cff56b1d25c941ba4268f2c9c8b1": {
+            "text": "Selectarea unei singure pagini"
+        },
+        "23aec26e2b521c0e5f1061b3d04983a5": {
+            "text": "sortabil"
+        },
+        "8f23ded99b5882bf55f3aa4154cf10df": {
+            "text": "\u00cen ceea ce prive\u0219te tipurile de introducere \"List Page\"."
+        },
+        "bbc8c6c107d8cf7e49310723820e8052": {
+            "text": "A\u021bi selectat un tip de intrare care are cerin\u021be specifice."
+        },
+        "d45d37464c307f05fe480979c03fd99b": {
+            "text": "Specifica\u021bi doar op\u021biunea \"P\u0103rinte\" de mai jos c\u00e2nd configura\u021bi \"Pagini selectabile\"."
+        },
+        "a8e65bab8badd05312e21a13bc8aacf1": {
+            "text": "Re\u021bine\u021bi c\u0103 p\u0103rintele pe care \u00eel specifica\u021bi implic\u0103 r\u0103d\u0103cina arborelui paginilor selectabile."
+        },
+        "d89af7d091962a34d3d666a54148e1f9": {
+            "text": "Dac\u0103 dori\u021bi s\u0103 face\u021bi totul selectabil, atunci nu specifica\u021bi nimic."
+        },
+        "6bd4cf6cf4401b1a39b1fcdd57bd4c68": {
+            "text": "1. At\u00e2t un p\u0103rinte, c\u00e2t \u0219i un \u0219ablon trebuie specificate \u00een sec\u021biunea \u201ePagini selectabile\u201d de mai sus."
+        },
+        "8379c940f14c74babf288df5cec8a408": {
+            "text": "3. \u201eC\u00e2mpul de etichet\u0103\u201d trebuie setat la \u201etitlu (implicit)\u201d."
+        },
+        "89f32c3a56b097c4da3f220687f2cad5": {
+            "text": "Set\u0103ri specifice pentru \"%s\""
+        }
+    }
+}

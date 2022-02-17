@@ -1,0 +1,27 @@
+{
+    "file": "wire\/core\/AdminTheme.php",
+    "textdomain": "wire--core--admintheme-php",
+    "translations": {
+        "244cf4a0f690a8c69a4dacf0a0c78a2e": {
+            "text": "Modul\u00e0 avansat"
+        },
+        "1e7f9a369b1d2688c0a9de0ba9adeb43": {
+            "text": "Pentru a utiliza aceast\u0103 tem\u0103, alege\u021bi-o din profilul dvs. de utilizator."
+        },
+        "e3d8856720f3539d3fd3e02238f095ef": {
+            "text": "C\u00e2mp instalat \"admin_theme\" \u0219i ad\u0103ugat la set\u0103rile profilului utilizatorului."
+        },
+        "40c0ca08425d862d797f41d0fe0ff368": {
+            "text": "A eliminat c\u00e2mpul \"admin_theme\" din sistem."
+        },
+        "657f8b8da628ef83cf69101b6817150a": {
+            "text": "ajutor"
+        },
+        "1f7b42ad432b913e6e78c7b9db29f6ae": {
+            "text": "Incearca \"ajutor\""
+        },
+        "a603905470e2a5b8c13e96b579ef0dba": {
+            "text": "depanare"
+        }
+    }
+}

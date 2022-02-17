@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeURL.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
+    "translations": {
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Da"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "="
+        },
+        "b38bb5008cd8427aae4e9a8612183a6f": {
+            "text": "Formatatorul de text \"HTML Entity Encoder\"Este recomandat pentru câmpuri URL."
+        },
+        "7a51839f06248c613d3b07007f4fc05d": {
+            "text": "Dacă această adresă URL va fi folosită pentru ieșire, se va folosi \"HTML Entity Encoder\" pentru \"Formatatoare de text\" în fila Detalii."
+        },
+        "ab86e8efb5aa46bdab329fa44f7125fc": {
+            "text": "Permiteți adrese URL relative  / locale fără prefix \"http:\/\/\"?"
+        },
+        "d1280d091f34a15c77f4145110d7f94d": {
+            "text": "URL relative / locale sunt cele fără schema de domeniu."
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "Permiteți nume de domenii internaționale (IDN)?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "Dacă este activat, nu sunt permise numele de domenii non-ASCII."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "Permiteți ghilimele simple/duble URL?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "Dacă este activată, trebuie să fiți absolut sigur că aceste adrese URL sunt codificate HTML atunci când sunt utilizate în markup."
+        },
+        "c4c54678f0d612f89caacaab99768f81": {
+            "text": "Adăugați calea rădăcină a site-ului la adrese URL relative / locale?"
+        },
+        "ae91f58b191e424e0eaf9022fd5407e9": {
+            "text": "Asigurați-vă că adresele URL nu au nicio problemă atunci când site-ul este mutat dintr-un subdirector la rădăcină (cel mai comun exemplu)"
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "="
+        },
+        "0ac82d10c1ddd050079962481c40f54f": {
+            "text": "Câmp care conține un URL"
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "Această opțiune va permite automat ca rădăcina site-ului să fie atașată la orice adresă URL care începe cu o bară oblică, cum ar fi\/some\/path\/. Acest lucru este util dacă site-ul dvs. este instalat într-un subfolder, deoarece în acest fel nu veți trebuie să includeți acel subfolder în URL-urile pe care le introduceți în acest câmp. Dacă mai târziu trebuie să vă mutați site-ul de la rădăcina unui domeniu (sau într-un alt subfolder) nu va trebui să vă faceți griji cu privire la URL-urile care nu mai funcționează. această opțiune activată, puteți introduce URL ca și cum site-ul ar fi instalat în rădăcina domeniului, indiferent dacă este instalat într-un subfolder sau nu. Desigur, acest lucru este aplicabil doar alegând „Da” pentru a permite URL-uri relative \/locale în câmpul superior Dezvoltatorii ar putea fi, de asemenea, interesați de faptul că această opțiune se aplică numai atunci când opțiunea de formatare a ieșirii unei pagini este activată."
+        }
+    }
+}

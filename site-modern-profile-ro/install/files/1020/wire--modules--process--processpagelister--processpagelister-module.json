@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "e4ef81cce7e4e10033ebb10962dfdd5e": {
+            "text": "Gol"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nume"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Creata"
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "Modificata"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Publicata"
+        },
+        "a5e3d3ad4b54f37c48d9391d5ab35eed": {
+            "text": "Modificata de"
+        },
+        "7b1255f8fdd0cb8751baee55621164e1": {
+            "text": "Creata de"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Sablon"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Statut"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Parinte"
+        },
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "Num\u0103rul de copii(child)"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Ascuns"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Ne Publicata"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Blocata"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Co\u015f de gunoi"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "Marcaj nu este recunoscut sau nu mai este activ"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filtre"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Ad\u0103uga\u021bi filtru"
+        },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "Coloane implicite"
+        },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "Alege\u021bi \u0219i sorta\u021bi coloanele care vor fi afi\u0219ate \u00een tabelul de pagini."
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "Op\u021bional, utilizatorul poate modifica ce coloane sunt afi\u0219ate, acestea fiind doar valori implicite."
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "Modific\u0103rile pe care le face\u021bi aici vor fi aplicate imediat rezultatelor de mai jos."
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "Ce coloane ar trebui s\u0103 fie afi\u0219ate \u00een rezultate"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "Ce pagini s\u0103 vizualiza\u021bi"
+        },
+        "3361493ce22b609b5d11f463c8bd8c6a": {
+            "text": "Modul (include) nu este permis aici."
+        },
+        "e418dc3d6d68592a1932bb1446975acb": {
+            "text": "Nu toate \u0219abloanele specificate sunt editabile. Este permis doar  'include=hidden'este permis"
+        },
+        "12b585ee7c6e8dca3790262f321f3823": {
+            "text": "Nu este specificat niciun \u0219ablon, a\u0219a c\u0103  'include=hidden' este valoarea maxim\u0103 permis\u0103"
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "%1$d la %2$d din %3$d"
+        },
+        "3b8769d187c6c3306c50729bc43a9903": {
+            "text": "Niciun rezultat."
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "selectionat"
+        },
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "Toate set\u0103rile au fost resetate."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Ad\u0103uga nou"
+        },
+        "2cd1c7a79703fe25a98128ad343a621e": {
+            "text": "Actualiza\u021bi rezultatele"
+        },
+        "d77a4f65dfe38bdbb76371048e3ae9ea": {
+            "text": "Reseta\u021bi filtrele \u0219i coloanele la valorile implicite"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Marcaje"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Coloane"
+        },
+        "ac70412e939d72a9234cdebb1af5867b": {
+            "text": "cale"
+        }
+    }
+}

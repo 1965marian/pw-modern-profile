@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtyperepeater-module",
+    "translations": {
+        "d3b3350cb648f345b0a21a048df0cf45": {
+            "text": "Repetitor"
+        },
+        "64137776d10ddf89ff3087915287b872": {
+            "text": "P\u0103streaz\u0103 o colec\u021bie de c\u00e2mpuri care se repet\u0103 de un anumit num\u0103r de ori."
+        }
+    }
+}

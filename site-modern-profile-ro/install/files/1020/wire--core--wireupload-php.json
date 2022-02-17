@@ -1,0 +1,42 @@
+{
+    "file": "wire\/core\/WireUpload.php",
+    "textdomain": "wire--core--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Upload cu succes"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "Fi\u0219ierul \u00eenc\u0103rcat dep\u0103\u0219e\u0219te directiva upload_max_filesize in php.ini."
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "Fi\u0219ierul \u00eenc\u0103rcat dep\u0103\u0219e\u0219te directiva MAX_FILE_SIZE specificata in form HTML."
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "Fi\u0219ierul a fost \u00eenc\u0103rcat doar par\u021bial."
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "Nu au fost \u00eenc\u0103rcate fi\u0219iere."
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "Un folder temporar este absent."
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "Nu s-a putut scrie fi\u0219ierul pe disc."
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "\u00cenc\u0103rcarea fi\u0219ierului a fost blocat\u0103 de o extensie."
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Limita de \u00eenc\u0103rcare a fi\u0219ierelor atins\u0103"
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "Extensie de fi\u0219ier nevalid\u0103, utiliza\u021bi una dintre urm\u0103toarele:"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "Dep\u0103\u0219e\u0219te dimensiunea maxim\u0103 permis\u0103 a fi\u0219ierului"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "Nu s-au g\u0103sit fi\u0219iere \u00een arhiva ZIP"
+        }
+    }
+}

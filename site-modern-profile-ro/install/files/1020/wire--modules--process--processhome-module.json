@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "56cc559d234df2ffabc88b8926592264": {
+            "text": "Acas\u0103 admin"
+        },
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Func\u021bioneaz\u0103 ca substituent pentru pagina de pornire a administratorului. Asigur\u0103 un flux de lucru adecvat dup\u0103 conectare."
+        }
+    }
+}

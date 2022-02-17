@@ -1,0 +1,63 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "787989d17c5a57298dd6959fcc70ba1a": {
+            "text": "Admin theme pentru ProcessWire 2.5+ de Tom Reno (Renobird)"
+        },
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Set de Culori"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "="
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "="
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "="
+        },
+        "3e3780bdd59279494ba0eeed55f551d9": {
+            "text": "Imaginile utilizatorului"
+        },
+        "bbe7b2d443c26552faeb0e0c7d4541fe": {
+            "text": "Pentru a utiliza aceast\u0103 caracteristic\u0103 \u00een \u0219abloanele dvs. de utilizator, trebuie s\u0103 ave\u021bi un c\u00e2mp de imagine. Dac\u0103 \u0219abloanele dvs. de utilizator nu au un c\u00e2mp de imagine, avatarul va avea o pictogram\u0103 prestabilit\u0103. Pentru a ad\u0103uga un c\u00e2mp de imagine la \u0219ablonul implicit de utilizator, accesa\u021bi Set\u0103ri> \u0218abloane> Filtre (Afi\u0219a\u021bi \u0219ablonul de sistem). Sablonul \"utilizator\" va fi apoi vizibil \u00een list\u0103. Dac\u0103 a\u021bi creat un \u0219ablon de utilizator suplimentar, pute\u021bi activa aceast\u0103 func\u021bie ad\u0103ug\u00e2nd un c\u00e2mp de imagine."
+        },
+        "b012c7da60d514a8d126979210fa1f8e": {
+            "text": "C\u00e2mp imagine pentru \u0219ablon %s"
+        },
+        "20db21c89b31fa16e87dc79c98dd4afb": {
+            "text": "Nu au fost atribuite c\u00e2mpuri de imagine acestui \u0219ablon."
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "S-a ad\u0103ugat c\u00e2mpul \"%s\" la c\u00e2mpurile editabile de utilizator din profilul lor."
+        },
+        "c89a8fcd5422ef9d592d35af51ad242d": {
+            "text": "Nume de utilizatori vizibile"
+        },
+        "713128d7e4e2ab180d2126b0cea259b9": {
+            "text": "List\u0103 de c\u00e2mpuri separate prin virgul\u0103 de utilizat ca nume afi\u0219ate \u00een interfa\u021ba de administrare. (exemplu: nume, prenume)"
+        },
+        "ebb4a6d411a325b9c4d626f842cd6ed1": {
+            "text": "Acestea pot fi doar c\u00e2mpuri text. Alte tipuri de c\u00e2mpuri vor fi ignorate."
+        },
+        "71151aa83128f4189875470f7e2a8d82": {
+            "text": "Afi\u0219a\u021bi numele \u0219ablonului %s"
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "Icoane"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Specifica\u021bi pictograme pentru elementele de navigare"
+        },
+        "0fe8dceda2440ee8d71e0ed8869f075d": {
+            "text": "Navigare de sus: Notific\u0103ri"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Navigare de sus: vezi Pagina de pornire"
+        },
+        "c87aacf5673fada1108c9f809d354311": {
+            "text": "Deconectare"
+        }
+    }
+}

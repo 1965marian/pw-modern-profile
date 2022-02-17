@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Ad\u0103uga nou"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Salvati"
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Lipse\u0219te un c\u00e2mp obligatoriu: nume"
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "Pagina %1$ s a fost creat\u0103 folosind \u0219ablonul: %2$s"
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Adauga pagina"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "Adauga o pagina noua"
+        },
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Unde dori\u021bi s\u0103 ad\u0103uga\u021bi noul %s?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "V\u0103 rug\u0103m s\u0103 alege\u021bi o pagin\u0103 p\u0103rinte %s de mai jos:"
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "Nu exist\u0103 \u0219abloane definite cu rela\u021biile p\u0103rinte\/copil necesare pentru a afi\u0219a comanda rapid\u0103 \"Ad\u0103uga nou\".Pentru a configura acest lucru, edita\u021bi orice \u0219ablon (Set\u0103ri> \u0218ablon) \u0219i face\u021bi clic pe fila \"Familia\""
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Numele introdus este deja \u00een uz. Dac\u0103 nu \u00eel modifica\u021bi, acesta va fi automat unic dup\u0103 salvare."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Nu sunt permise \u0219abloane pentru a ad\u0103uga pagini noi."
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "\u0218ablonul \"%s\" nepermis."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Sablon"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Parinte"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Salveaza + Publica"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "Pagina temporar\u0103 nu este utilizat\u0103"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Aten\u021bie, numele pe care l-a\u021bi ales \"%1$s\"Este deja \u00een uz \u0219i a fost schimbat \u00een \"%2$s\"."
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "Paginile pe care le-a\u021bi ales mai sus sunt marcaje pentru paginile p\u0103rinte \u00een care dori\u021bi s\u0103 ad\u0103uga\u021bi copii. Re\u021bine\u021bi c\u0103, dac\u0103 un utilizator nu are permisiunea de a ad\u0103uga o pagin\u0103 la un anumit p\u0103rinte (din cauza controalelor de acces sau a set\u0103rilor \u0219ablonului), marcajul nu va fi vizibil.."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Sortare pentru comenzi rapide pentru \u0219ablon"
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Pentru a schimba ordinea comenzilor rapide \"Ad\u0103uga nou\" \u00een \u0219ablon, trage\u021bi op\u021biunile \u00een ordinea dorit\u0103."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Pentru a ad\u0103uga sau elimina \u0219abloane din aceste comenzi rapide, consulta\u021bi fila Familie din editorul de \u0219abloane."
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Dezactiva\u021bi publicarea automat\u0103"
+        },
+        "13148993e6c4399880e879c88a664347": {
+            "text": "\u00cen mod implicit, paginile cu numai c\u00e2mpuri globale (de obicei \"titlul\") vor fi publicate automat atunci c\u00e2nd sunt ad\u0103ugate, ocolind starea nepublicat\u0103. Acesta este de obicei comportamentul preferat. Cu toate acestea, pute\u021bi anula acest comportament bif\u00e2nd caseta de mai jos."
+        },
+        "591d3e7786bdfa26890da22a5565f1f5": {
+            "text": "Salva\u021bi + Publica\u021bi + Ad\u0103uga\u021bi altul"
+        },
+        "9d9c4e8d05601024166b9a3b0cb46ad6": {
+            "text": "Este necesar\u0103 selec\u021bia \u0219ablonului"
+        }
+    }
+}

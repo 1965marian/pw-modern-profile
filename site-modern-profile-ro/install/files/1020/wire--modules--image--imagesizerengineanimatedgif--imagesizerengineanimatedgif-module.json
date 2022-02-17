@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Image\/ImageSizerEngineAnimatedGif\/ImageSizerEngineAnimatedGif.module",
+    "textdomain": "wire--modules--image--imagesizerengineanimatedgif--imagesizerengineanimatedgif-module",
+    "translations": {
+        "fa08346eefc233da84efcce389e121f6": {
+            "text": "fi\u0219ierul \u00eenc\u0103rcat '%s' nu este \u00een lista de imagini valide"
+        }
+    }
+}

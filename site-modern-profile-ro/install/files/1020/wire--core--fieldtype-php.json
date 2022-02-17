@@ -1,0 +1,21 @@
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "\u00cenc\u0103rcare automat\u0103"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Dac\u0103 este bifat\u0103, TOATE paginile vor avea acest c\u00e2mp. Acest c\u00e2mp va fi ad\u0103ugat automat oric\u0103rui grup de c\u00e2mpuri  \u0219ablon care nu \u00eel au. Asta nu \u00eenseamn\u0103 c\u0103 acest c\u00e2mp este obligatoriu, doar c\u0103 este prezent pe toate paginile."
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Dac\u0103 este bifat\u0103, datele pentru acest c\u00e2mp vor fi \u00eenc\u0103rcate \u00een fiecare instan\u021b\u0103 a paginii, chiar dac\u0103 nu este utilizat. Dac\u0103 nu sunt bifate, datele vor fi \u00eenc\u0103rcate atunci c\u00e2nd este necesar \u0219i numai dac\u0103 c\u00e2mpul este accesat direct."
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Global"
+        },
+        "cacb4064843717606a3301b974b6f959": {
+            "text": "Valoarea nu este permis\u0103 pentru c\u00e2mpul \u201e%s\u201d deoarece este deja \u00een uz"
+        }
+    }
+}

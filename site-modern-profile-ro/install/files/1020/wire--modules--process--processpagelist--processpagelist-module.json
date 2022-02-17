@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
+    "translations": {
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Gunoi"
+        },
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Schimba"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anulare"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selecteaza"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Deselecteaza"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mai mult"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Face\u021bi clic \u0219i trage\u021bi pentru a muta"
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Eroare de re\u021bea, v\u0103 rug\u0103m s\u0103 \u00eencerca\u021bi din nou mai t\u00e2rziu"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Eroare necunoscut\u0103, v\u0103 rug\u0103m s\u0103 \u00eencerca\u021bi din nou mai t\u00e2rziu"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Arata tot"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d pagini)"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Permite\u021bi editorilor care nu sunt superutilizatori s\u0103 foloseasc\u0103 Co\u0219ul de gunoi?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "C\u00e2nd este bifat\u0103, utilizatorii vor putea vedea paginile din co\u0219ul de gunoi (doar paginile la care au acces)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Acest lucru va activa \u0219i ac\u021biunile \u201eCo\u0219 de gunoi\u201d \u0219i \u201eRestaurare\u201d, acolo unde permite controlul accesului."
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Numele c\u00e2mpului paginii de afi\u0219at"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Fiecare pagin\u0103 dintr-o list\u0103 de pagini este identificat\u0103 printr-o etichet\u0103, de obicei un titlu sau un c\u00e2mp de titlu. Pute\u021bi specifica ce c\u00e2mp ar trebui s\u0103 foloseasc\u0103 aici. Pentru a specifica mai multe c\u00e2mpuri, separa\u021bi fiecare nume de c\u00e2mp cu un spa\u021biu sau utiliza\u021bi propriul \u0219ir de format cu numele c\u00e2mpurilor \u00eentre {paranteze}. Dac\u0103 c\u00e2mpul se rezolv\u0103 \u00eentr-un obiect (cum ar fi o alt\u0103 pagin\u0103), atunci specifica\u021bi proprietatea cu un punct, adic\u0103 {anotherpage.title}. Re\u021bine\u021bi c\u0103, dac\u0103 formatul pe care \u00eel specifica\u021bi se rezolv\u0103 la o valoare goal\u0103, ProcessWire va folosi c\u00e2mpul \u201enume\u201d al paginii."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Pute\u021bi \u00eenlocui op\u021bional aceast\u0103 setare pe baz\u0103 de \u0219ablon \u00een set\u0103rile \"avansate\" ale fiec\u0103rui \u0219ablon."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "Valoarea implicit\u0103 este %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Dac\u0103 este l\u0103sat\u0103 la valoarea implicit\u0103, aceast\u0103 setare poate fi specificat\u0103 \u0219i \u00een matricea $config->pageList array."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "Num\u0103rul de pagini de afi\u0219at \u00eenainte de paginare"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "viteza animatiei in (ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Aceasta este viteza cu care fiecare ramur\u0103 din arborele paginii se anime \u00een sus sau \u00een jos. Numerele mai mici sunt mai rapide, dar mai pu\u021bin vizibile. Pentru nicio anima\u021bie, specifica\u021bi 0."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Tip cantitate copii(child)"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "\u00cen lista de pagini, l\u00e2ng\u0103 fiecare pagin\u0103 este afi\u0219at\u0103 o cantitate de copii, atunci c\u00e2nd este cazul. Ce tip de cantitate ar trebui s\u0103 arate?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "C\u00e2nd se afi\u0219eaz\u0103 descenden\u021bi, cantitatea include to\u021bi descenden\u021bii, indiferent dac\u0103 pot fi listate pentru utilizator sau nu."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Copii imediati (implicit)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Descenden\u021bi: copii, nepo\u021bi, str\u0103nepo\u021bi \u0219i pe..."
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Ambii: descenden\u021bi\/copii"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Afi\u0219a\u021bi \u00een schimb num\u0103rul ID paginii"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adauga nou"
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Afi\u0219a\u021bi ac\u021biunile din pagin\u0103 la trecerea cu mouse-ul?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "\u00cen mod implicit, ac\u021biunile pentru o pagin\u0103 apar dup\u0103 un clic (cel pu\u021bin \u00een tema implicit\u0103 de administrare). Pentru a le face s\u0103 apar\u0103 la trecerea cursorului, bifa\u021bi aceast\u0103 caset\u0103."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Pentru mai multe op\u021biuni aici, consulta\u021bi setarea $config->pageList \u00een \/wire\/config.php. Pute\u021bi copia acele set\u0103ri \u00een \/site\/config.php \u0219i le pute\u021bi suprascrie."
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Ambele: copii\/descenden\u021bi"
+        }
+    }
+}

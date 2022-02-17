@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFieldset.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfieldset-module",
+    "translations": {
+        "5b3a50aadfa94048d38820473b25ec57": {
+            "text": "E-mailul a dep\u0103\u0219it lungimea maxim\u0103 permis\u0103 de %d caractere"
+        },
+        "80b64fcc30458532fff6446e92e98c54": {
+            "text": "Grupeaz\u0103 unul sau mai multe c\u00e2mpuri \u00eentr-un container"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUserConfig.php",
+    "textdomain": "wire--modules--process--processuser--processuserconfig-php",
+    "translations": {
+        "512bc1289fe1ab9723f6ed9d3d6e651e": {
+            "text": "Num\u0103rul maxim de utilizatori de afi\u0219at \u00een meniul drop-down AJAX"
+        },
+        "59b101e7ae1c41c851d1c05341347023": {
+            "text": "C\u00e2nd num\u0103rul de utilizatori din sistem dep\u0103\u0219e\u0219te aceast\u0103 sum\u0103, navigarea drop-down va afi\u0219a \u00een schimb roluri cu num\u0103r de utilizatori, mai degrab\u0103 dec\u00e2t utilizatori."
+        },
+        "77cb5109c9ae7f1f6359fefd4f8dbfaa": {
+            "text": "Specifica\u021bi o valoare \u00eentre 1 \u0219i 100 (implicit=25)"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdater.module",
+    "textdomain": "wire--modules--system--systemupdater--systemupdater-module",
+    "translations": {
+        "d7e351389cfa8187fc844808c5d524e7": {
+            "text": "S-a detectat modificarea versiunii de baz\u0103 %1$s => %2$s"
+        },
+        "131f946cc232ed294bb1051fdb295d02": {
+            "text": "Actualizator de sistem"
+        },
+        "68b7f791d338e65dd897b4316c51a568": {
+            "text": "Gestioneaz\u0103 versiunile \u0219i upgrade-urile sistemului."
+        },
+        "2bb01c9e5f493e464bae4f127ac24891": {
+            "text": "Jurnal de actualizare a sistemului"
+        },
+        "83d345108e3c4ebe46ec3d2de0b7e463": {
+            "text": "Versiunea de sistem"
+        },
+        "e3087085dad248ad622f15449dc45832": {
+            "text": "Acest lucru v\u0103 permite s\u0103 aplica\u021bi din nou o actualizare a versiunii de sistem reduc\u00e2nd num\u0103rul versiunii."
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "S-a golit memoria cache a compilatorului de fi\u0219iere"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselectmultiple-module",
+    "translations": {
+        "019fce53dcc7e7f5a3abea240de44d77": {
+            "text": "Dimensiune: num\u0103rul de r\u00e2nduri vizibile simultan \u00een c\u00e2mpul de selec\u021bie multipl\u0103"
+        },
+        "eefa4a712878aa9e7c3a4fdb9ab10adf": {
+            "text": "Selectie multipla"
+        },
+        "6faad70d6719b405a08c5121e31e258b": {
+            "text": "Alege\u021bi mai multe elemente dintr-o list\u0103"
+        }
+    }
+}

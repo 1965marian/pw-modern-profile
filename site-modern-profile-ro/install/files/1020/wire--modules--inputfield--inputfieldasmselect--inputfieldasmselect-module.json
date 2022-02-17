@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldAsmSelect\/InputfieldAsmSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldasmselect--inputfieldasmselect-module",
+    "translations": {
+        "74e906bc8df82271d879cf0df37fc13c": {
+            "text": "Conecta\u021bi paginile selectate la editorul de pagini?"
+        },
+        "341aefc07b2236054d74eb4c5b312c8a": {
+            "text": "Dac\u0103 este activat\u0103, etichetele vor avea un link pentru a edita paginile selectate."
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nu"
+        },
+        "0c4cf3dd938578951cefc0c5503f4939": {
+            "text": "asmSelect"
+        },
+        "74c0ecf830d7e594ea8491c932418590": {
+            "text": "Selec\u021bii multiple, \u00eembun\u0103t\u0103\u021bire progresiv\u0103 pentru selec\u021bii multiple"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Da"
+        },
+        "1cd298de417a75485be2184aab1f77b2": {
+            "text": "(in fereastra modala)"
+        }
+    }
+}

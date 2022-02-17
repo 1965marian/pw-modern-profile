@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "Gol \u0219i 0 sunt echivalente?"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "Afecteaz\u0103 modul \u00een care ProcessWire compar\u0103 paginile \u00een timpul opera\u021biunilor de c\u0103utare \u00een baza de date."
+        },
+        "07be370e5cef3ea5961cdf07cb34f390": {
+            "text": "Dac\u0103 0 \u0219i empty sunt echivalente (op\u021biunea Da), atunci o c\u0103utare pentru ** c\u00e2mp = 0 ** sau ** c\u00e2mp=\"\"** va produce acelea\u0219i rezultate."
+        },
+        "47ae95efefc63fa28854884d8c871228": {
+            "text": "Ca un exemplu suplimentar, cu op\u021biunea Da ** c\u00e2mpul <1 ** va returna at\u00e2t valoarea 0, c\u00e2t \u0219i nicio valoare, iar cu op\u021biunea Nu va returna doar 0."
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "Da - Gol \u0219i 0 sunt echivalente"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "Nu - Gol \u0219i 0 au semnifica\u021bii diferite"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valoare de default"
+        },
+        "b4e4ee05aeb0d5812f77886c29c4bb53": {
+            "text": "Dac\u0103 nu sunt echivalente (op\u021biunea Nu), atunci o c\u0103utare pentru ** c\u00e2mp = 0 ** va potrivi numai c\u00e2mpurile care con\u021bin valoarea 0, iar ** c\u00e2mp = \"\" ** va potrivi numai c\u00e2mpuri f\u0103r\u0103 valoare."
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "Aceast\u0103 valoare este atribuit\u0103 ca implicit\u0103 pentru acest c\u00e2mp \u00een paginile f\u0103r\u0103 nicio valoare introdus\u0103."
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/ModulesDuplicates.php",
+    "textdomain": "wire--core--modulesduplicates-php",
+    "translations": {
+        "58a6d03e30331d26f3ab31c392c104ab": {
+            "text": "Se pare c\u0103 exist\u0103 mai multe copii ale modulului \"%s\"pe sistemul de fi\u0219iere."
+        },
+        "47edefbd0afb7d34d9a1ea2e99a18d1b": {
+            "text": "Schimba\u021bi set\u0103rile modulului pentru a spune ProcessWire pe care s\u0103 o foloseasc\u0103:"
+        }
+    }
+}

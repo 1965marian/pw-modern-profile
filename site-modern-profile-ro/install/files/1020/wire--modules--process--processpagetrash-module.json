@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageTrash.module",
+    "textdomain": "wire--modules--process--processpagetrash-module",
+    "translations": {
+        "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
+            "text": "Co\u0219ul de reciclare este gol"
+        },
+        "76c155bf8de0fe17853a8d8c231f72b0": {
+            "text": "Pagina cosului de gunoi"
+        },
+        "920202a83e840023ebf5ac6e31ccfbf3": {
+            "text": "Se ocup\u0103 de golirea co\u0219ului de gunoi din pagin\u0103"
+        },
+        "1012544490a2eae7e9782116062941b6": {
+            "text": "Dac\u0103 exist\u0103 prea multe articole \u00een co\u0219ul de gunoi, poate fi necesar s\u0103-l goli\u021bi de mai multe ori."
+        },
+        "d97ed15efb05fad91c607749ebcab79e": {
+            "text": "Trebuie s\u0103 bifa\u021bi caseta pentru a confirma"
+        },
+        "dc097f8cfcf3251cf70e684e28515eb5": {
+            "text": "(%d pagini pe secund\u0103)"
+        },
+        "7f3d24328c95805774f2fd34fc2a79e2": {
+            "text": "Nu toate paginile au putut fi \u0219terse (%d au r\u0103mas)"
+        },
+        "d7dd8da0daa978390eb2d2d08495b0f8": {
+            "text": "Limita de timp a fost atins\u0103 (%d secunde)"
+        },
+        "a7ba99f8126601330132e87659987ca3": {
+            "text": "Goli\u021bi co\u0219ul de gunoi (confirma\u021bi)"
+        },
+        "449d5f439f475ea845545769d93ec42f": {
+            "text": "Pagini la co\u0219ul de gunoi"
+        },
+        "b7750c7b7ef35775735ea2133810d06b": {
+            "text": "Limit\u0103 de timp (\u00een secunde)"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anulare"
+        },
+        "b246b52c4b32fcf1d8ef0c6144f3fb53": {
+            "text": "S-a \u0219ters %d pagin\u0103"
+        },
+        "adc38f6c0e8a0f6296294e08a2ca3c64": {
+            "text": "S-a \u0219ters %d pagini"
+        },
+        "5f489bcc97cbc73f35cbd127c5c0053a": {
+            "text": "\u0218terge\u021bi definitiv %d pagin\u0103 din co\u0219ul de gunoi?"
+        },
+        "7d45095d03e58ce1a62afd6e0d149bf0": {
+            "text": "\u0218terge\u021bi definitiv %d paginile din co\u0219ul de gunoi?"
+        }
+    }
+}

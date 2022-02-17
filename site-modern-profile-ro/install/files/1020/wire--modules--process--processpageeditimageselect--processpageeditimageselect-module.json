@@ -1,0 +1,216 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module",
+    "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
+    "translations": {
+        "5d13ae1a65403891ac0fe044f3acc865": {
+            "text": "Nu exist\u0103 c\u00e2mpuri de imagine pe aceast\u0103 pagin\u0103. Alege\u021bi o alt\u0103 pagin\u0103 pentru a selecta imagini."
+        },
+        "83ea3ed3245ed2ce30aabecdc6b4d354": {
+            "text": "Imagini pe pagina:"
+        },
+        "48448404ecc9e95975b334dbe421c0bd": {
+            "text": "Dac\u0103 dori\u021bi s\u0103 selecta\u021bi imagini dintr-o alt\u0103 pagin\u0103, v\u0103 rug\u0103m s\u0103 selecta\u021bi pagina de mai jos."
+        },
+        "48ccf48dcf2218a413ce473262f21a0c": {
+            "text": "Latime:"
+        },
+        "e933dc24fb245d863a43b4fefe9b45f5": {
+            "text": "Inaltime:"
+        },
+        "e853a6aca1b442d161c2642e88346bf9": {
+            "text": "F\u0103r\u0103 aliniere"
+        },
+        "811398cb1e49b4f45851cc25fcc6501f": {
+            "text": "Allineamento a sinistra"
+        },
+        "ad68675da1db2fb44a8d1cabcbbbb65e": {
+            "text": "Alinierea la dreapta"
+        },
+        "e36098607b9dd3b6d7107a449b6a25bd": {
+            "text": "Alinierea central\u0103"
+        },
+        "9909fb0aacb4a219f4b3cb8f57f63a87": {
+            "text": "Clasa de aliniere la st\u00e2nga"
+        },
+        "5e37ad68682589a77a924cdffb018f23": {
+            "text": "Clasa de aliniere la dreapta"
+        },
+        "9d2836f3ff372cd7964b90d118710202": {
+            "text": "Clasa de aliniere la centru"
+        },
+        "e254a34f3a1001f00adc55aba5552783": {
+            "text": "Superior:"
+        },
+        "52c9a1be3c0e025b4aa30857a474fea5": {
+            "text": "Stanga:"
+        },
+        "a547432ab25b830c51cb8a560e4e4f62": {
+            "text": "Descrierea imaginii (atribut alt)"
+        },
+        "f8927cab12c03e7537c735cd3117fba2": {
+            "text": "Link c\u0103tre versiunea mai mare \/originala"
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "Redimensionare"
+        },
+        "77fb47f76c22aae57cce393488dfee23": {
+            "text": "Salva\u021bi-l la aceast\u0103 dimensiune?"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Taie"
+        },
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Applica"
+        },
+        "2c968d3065f948e7d3e6086c46fdcb68": {
+            "text": "Mazimizeaza\/toata latimea"
+        },
+        "2d43ecd8d6e1e6e4bd564dd3b15515bc": {
+            "text": "minimalizeaza\/sa se potriveasca pe ecran"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anuleaza"
+        },
+        "3f67a6c93bc61e24e9ba2a9b47712010": {
+            "text": "Salva\u021bi \u0219i \u00eenlocui\u021bi"
+        },
+        "c87935037e12cf6f0302989fd23bcf37": {
+            "text": "Salva\u021bi ca copie"
+        },
+        "575f5f86d2c7ea113c6710c1037c4465": {
+            "text": "Salvare..."
+        },
+        "a7d784a6301793f61c070496d6988d36": {
+            "text": "Modifica..."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Da"
+        },
+        "b1a0a023c5df1b1928e1176fca487837": {
+            "text": "Nefolosit %s"
+        },
+        "a7ef116917746995c6efb74b77261e93": {
+            "text": "Legend\u0103?"
+        },
+        "82e8dd04a8fd3563e8e703b0ab6620d4": {
+            "text": "Textul legendei va fi inserat \u00een editor dup\u0103 ce insera\u021bi imaginea."
+        },
+        "b9869a2e0129f044fca87d4b4f7664f0": {
+            "text": "Textul legendei"
+        },
+        "5e470c96fb73af827111043d60af3dbe": {
+            "text": "Roteste in sensul acelor de ceasornic"
+        },
+        "f3d4b8039718518b45713ae64c12de37": {
+            "text": "Roteste in sensul trigonometric"
+        },
+        "2f96dd2b9788ed9ecbc6f41c312bf455": {
+            "text": "\u00centoarce\u021bi pe orizontal\u0103"
+        },
+        "8373d2f18e29920f78459f34d71040ad": {
+            "text": "\u00centoarce\u021bi pe vertical\u0103"
+        },
+        "d695a4d4ae7091badbe5c20c5b064bac": {
+            "text": "Nu exist\u0103 imagini pe aceast\u0103 pagin\u0103. \u00cenc\u0103rca\u021bi o imagine sau selecta\u021bi imagini dintr-o alt\u0103 pagin\u0103."
+        },
+        "1f98842c354dc496970446bce14f4c50": {
+            "text": "Incarca imaginea"
+        },
+        "575acda05a24ee8b606cee4f25024afe": {
+            "text": "Nu ave\u021bi acces pentru a edita imaginile de pe aceast\u0103 pagin\u0103."
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Caricamento..."
+        },
+        "fef2a86d13179e1022a0f692ad9f521b": {
+            "text": "Nu sunt necesare modific\u0103ri ale varia\u021biilor imaginilor."
+        },
+        "46ce1195125fefcac9df32093fb8f238": {
+            "text": "Nu s-au f\u0103cut modific\u0103ri"
+        },
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Varianta de imagine a fost \u0219tears\u0103"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Eroare la \u0219tergerea varia\u021biei imaginii"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "Sterge selectia"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "\u00cenchide"
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "caseta de selectare HiDPI\/Retina selectat\u0103 implicit?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Bifa\u021bi aceast\u0103 caset\u0103 pentru a selecta caseta de selectare HiDPI\/Retina \u00een mod implicit pentru imaginile nou introduse."
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "Nu genera\u021bi miniaturi de imagine"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Dac\u0103 este bifat\u0103, selec\u021bia imaginii va folosi imaginile originale mai degrab\u0103 dec\u00e2t miniaturile."
+        },
+        "36171be725b020fde0f22b3ceb047280": {
+            "text": "Numele c\u00e2mpurilor s\u0103 fie ignorate pentru selec\u021bie"
+        },
+        "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
+            "text": "Introduce\u021bi numele c\u00e2mpurilor de imagine (separate cu un spa\u021biu) pentru care nu dori\u021bi s\u0103 permite\u021bi selec\u021bia cu acest formular."
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "Omite\u021bi atributele de l\u0103\u021bime de pe tag-ul de imagine?"
+        },
+        "66e1d61daf21cfd5a9a0c3c172d7215d": {
+            "text": "Nu v\u0103 recomand\u0103m s\u0103 selecta\u021bi aceast\u0103 op\u021biune, deoarece poate interfera cu unele func\u021bii (cum ar fi imaginile HiDPI \/ Retina)"
+        },
+        "7fde437e01b597d729484cfc830eb4c5": {
+            "text": "Valoare recomandat\u0103:"
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "Immagine"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Fisier"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Dimensiuni"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificata"
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "Nota"
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Creat pentru inserare \u00een textarea"
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Miniatur\u0103 generat\u0103 automat din panoul de administrare"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "Variatie generata de API"
+        },
+        "1c8ce444e68e56abf58edd178ed3bf54": {
+            "text": "Versiune t\u0103iat\u0103"
+        },
+        "a3921791372620c674562de0f5b0f9ed": {
+            "text": "Inserat din pagin\u0103:"
+        },
+        "8df4dcb71975633a0a9e60b4d05c37d8": {
+            "text": "%1$d varia\u021bie pentru imagine %2$s"
+        },
+        "02b1a8c5ed34fba75d6ce56f68435743": {
+            "text": "%1$d varia\u021bii pentru imagine %2$s"
+        },
+        "0a52da7a03a6de3beefe54f8c03ad80d": {
+            "text": "Originar"
+        },
+        "4ea9ef823adbf374c74a5ef6316a18e2": {
+            "text": "%s de mai sus"
+        },
+        "522779383d7b7d46168fcc8ae1c5d4a5": {
+            "text": "\u00cen mod implicit, acest modul va include atribute de l\u0103\u021bime \u00een eticheta img. Dac\u0103 utiliza\u021bi imagini receptive, este posibil s\u0103 dori\u021bi s\u0103 dezactiva\u021bi acest comportament. Bifa\u021bi caseta pentru a dezactiva atributele de l\u0103\u021bime \u0219i \u00een\u0103l\u021bime."
+        }
+    }
+}

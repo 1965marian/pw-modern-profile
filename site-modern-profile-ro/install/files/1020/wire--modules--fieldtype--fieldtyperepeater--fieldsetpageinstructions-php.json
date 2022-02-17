@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Acesta este un exemplu de text"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Instruc\u021biuni despre cum s\u0103 utiliza\u021bi acest c\u00e2mp"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Acest tip de set de c\u00e2mpuri utilizeaz\u0103 o pagin\u0103 separat\u0103 (\u00een spatele scenei) pentru a stoca valori pentru c\u00e2mpurile pe care le selecta\u021bi mai sus."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "Un avantaj este c\u0103 pute\u021bi reutiliza c\u00e2mpurile care ar putea fi deja prezente pe pagina dvs., \u00een afara setului de c\u00e2mpuri."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "De exemplu, pute\u021bi avea un c\u00e2mp \u201etitlu\u201d pe pagina dvs. \u0219i altul \u00een setul de c\u00e2mpuri. La fel pentru orice alte domenii."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "Acest lucru este posibil deoarece c\u00e2mpurile din setul de c\u00e2mpuri se afl\u0103 \u00een propriul spa\u021biu de nume - o alt\u0103 pagin\u0103 - separat\u0103 de pagina principal\u0103."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "Mai jos sunt c\u00e2teva exemple despre cum s\u0103 utiliza\u021bi acest c\u00e2mp \u00een fi\u0219ierele \u0219ablon \u0219i din API."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Ob\u021binerea unei valori:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Emiterea unei valori:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Emiterea unei valori in markup"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Setarea unei valori:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Setarea \u0219i salvarea unei valori:"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "aceasta dezactiveaz\u0103 formatarea de ie\u0219ire, atunci c\u00e2nd este necesar"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Atribuirea unui set de c\u00e2mpuri unei alte variabile (mai scurte) \u0219i afi\u0219area unei valori:"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "G\u0103sirea paginilor cu c\u00e2mpuri setate cu c\u00e2mpul \u201e%s\u201d care con\u021bine textul \u201eexemplu\u201d:"
+        }
+    }
+}

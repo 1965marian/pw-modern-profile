@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "Alege\u021bi unul sau mai multe \u0219abloane pentru elemente"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Acestea sunt \u0219abloanele care vor fi folosite de paginile gestionate de acest c\u00e2mp. Poate dori\u021bi s\u0103 crea\u021bi un \u0219ablon nou specific nevoilor acestui domeniu."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Face\u021bi clic pe Salvare dup\u0103 ce a\u021bi ales un \u0219ablon, iar configura\u021bia r\u0103mas\u0103 din fila Intrare va con\u021bine mai mult context."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Alege\u021bi un p\u0103rinte pentru articole"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Toate articolele create \u0219i gestionate de acest c\u00e2mp vor fi prezente sub p\u0103rintele pe care \u00eel alege\u021bi aici."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Dac\u0103 nu este selectat niciun p\u0103rinte, atunci elementele vor fi inserate ca copii ale paginii pe care o edita\u021bi."
+        },
+        "fcb2facea33821286bfd4cad3f7ac76d": {
+            "text": "\u0218terge\u021bi elemente c\u00e2nd pagina este \u0219ters?"
+        },
+        "08f53f44f5a22058682ec7c305c2f37b": {
+            "text": "Dac\u0103 sunt bifate, elementele create\/gestionate de o pagin\u0103 vor fi automat aruncate \u00een co\u0219ul de gunoi atunci c\u00e2nd pagina respectiv\u0103 este \u0219tears\u0103. Dac\u0103 nu sunt bifate, elementele vor r\u0103m\u00e2ne sub p\u0103rintele pe care l-a\u021bi selectat mai sus."
+        },
+        "276fe80c8306b8f1211c933c5b0789dd": {
+            "text": "Aceast\u0103 op\u021biune se aplic\u0103 numai dac\u0103 a\u021bi selectat o pagin\u0103 mai sus."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Comportamentele paginii"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Nimic"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Gunoi"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Elimina\u021bi-le"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Anula\u021bi publicarea acestora"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Ascunde-le"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Elimina"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "Ce ar trebui s\u0103 se \u00eent\u00e2mple cu elementele \" % s \" c\u00e2nd pagina care le con\u021bine urmeaz\u0103 s\u0103 fie \u0219tears\u0103 definitiv?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Cos de gunoi"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "Cosa deve accadere a \"%s\" elementi quando la pagina che li contiene deve essere cestinata?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Annulla pubblicazione"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "Ce trebuie s\u0103 se \u00eent\u00e2mple a \"%s\" elemente c\u00e2nd pagina care le con\u021bine nu trebuie publicat\u0103?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Sorta\u021bi c\u00e2mpurile"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Introduce\u021bi numele c\u00e2mpului pentru care dori\u021bi s\u0103 sorta\u021bi tabelul. Pentru ordinea descresc\u0103toare, preceda\u021bi numele c\u00e2mpului cu o cratim\u0103, de exemplu \"-date\" in loc de \"date\"."
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Pute\u021bi specifica mai multe c\u00e2mpuri pentru sortare, separ\u00e2ndu-le cu virgule, de exemplu \"last_name, first_name, birthday\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "L\u0103sa\u021bi acest c\u00e2mp necompletat pentru sortarea manual\u0103 prin glisare \u0219i plasare (implicit)."
+        }
+    }
+}

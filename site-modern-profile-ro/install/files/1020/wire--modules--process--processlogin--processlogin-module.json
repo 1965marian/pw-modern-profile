@@ -1,0 +1,153 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "E\u0219ti autentificat."
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Continua"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "Autentificare esuata"
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Nume de utilizator"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Autentificare"
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "A\u021bi uitat parola?"
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Ai iesit afara"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Parola"
+        },
+        "1860fb17b107cbb39cf6bbfa61130803": {
+            "text": "Editeaza profil"
+        },
+        "7b27f5e583e36dc50e5648f38c65ac55": {
+            "text": "Conectarea nu este acceptat\u0103 pentru acea adres\u0103 de e-mail."
+        },
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "Verificarea cookie-urilor a e\u0219uat: v\u0103 rug\u0103m s\u0103 activa\u021bi cookie-urile pentru a v\u0103 autentifica."
+        },
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Verificarea Javascript a e\u0219uat: v\u0103 rug\u0103m s\u0103 activa\u021bi Javascript pentru a v\u0103 autentifica."
+        },
+        "fbda2a5cde5a86fc243eb050230f25a6": {
+            "text": "Nume de logare Invalid"
+        },
+        "1c315fe64c02f0dc4a605373f68d911b": {
+            "text": "Utilizator sau parola"
+        },
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "Omiterea verific\u0103rilor de sistem dup\u0103 conectare deoarece au fost aplicate actualiz\u0103ri (%s)"
+        },
+        "a1413ed049a4bed0e649c409b4462b49": {
+            "text": "Tip de conectare"
+        },
+        "987dce661afca3372aa3e05702fb1d06": {
+            "text": "Nume utilizator"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "Adresa de Email"
+        },
+        "9e70a5d3dab1960c04b55a29f310331e": {
+            "text": "Fie"
+        },
+        "d619a734f94b65d5137233c7d9a8fe69": {
+            "text": "Pentru a utiliza autentificarea prin e-mail, trebuie s\u0103 activa\u021bi setarea \u201eunic\u0103\u201d pentru c\u00e2mpul dvs. de e-mail."
+        },
+        "8b10281154afa6312e3e8448c14f7134": {
+            "text": "Autentificare cu doi factori"
+        },
+        "aef111cc10b28b4cf297865dbc1253bb": {
+            "text": "module Tfa \u00een directorul de module ProcessWire"
+        },
+        "ab77fff843383131e8f774ba78654a91": {
+            "text": "Pentru a configura acest lucru trebuie mai \u00eent\u00e2i s\u0103 instala\u021bi unul sau mai multe module Tfa \u0219i apoi s\u0103 reveni\u021bi aici."
+        },
+        "c32dc189adbf7de6a1277780634d1a75": {
+            "text": "Am g\u0103sit urm\u0103toarele module Tfa:"
+        },
+        "cd718f93e76d48331ff1f6c8a86226a2": {
+            "text": "For\u021ba\u021bi autentificarea cu doi factori"
+        },
+        "23baebcb2653b738b5e1eb8a93e3ee28": {
+            "text": "C\u00e2nd un modul Tfa este selectat aici, acesta va fi activat automat (la conectare) pentru utilizatorii care nu folosesc autentificarea cu doi factori."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Dezactivat"
+        },
+        "2af7712565017bd05b828e1a625c7375": {
+            "text": "Verifica\u021bi rolurile pentru a for\u021ba autentificarea cu doi factori sau l\u0103sa\u021bi toate nebifate pentru a for\u021ba TOATE rolurile (c\u00e2nd\/unde este posibil)."
+        },
+        "f00ee62461e9cc7a824e71feff114251": {
+            "text": "Sugera\u021bi cu t\u0103rie autentificarea cu doi factori pentru aceste roluri"
+        },
+        "ab848ea82288648eb2aabe4e9e2f4dc6": {
+            "text": "Dup\u0103 conectarea la administrator, ProcessWire va solicita utilizatorilor din rolurile pe care le selecta\u021bi aici s\u0103 foloseasc\u0103 autentificarea cu doi factori pentru conturile lor."
+        },
+        "b88a66937b3f8fa44719aa2d7b5ea94d": {
+            "text": "Permite\u021bi utilizatorilor op\u021biunea de a omite introducerea codului atunci c\u00e2nd browserul\/loca\u021bia lor este re\u021binut\u0103?"
+        },
+        "d6340b7e300601dbe176deca28d5e216": {
+            "text": "Acest lucru le prezint\u0103 utilizatorilor un \u201e\u00ce\u021bi aminte\u0219ti acest computer?\u201d op\u021biunea de pe ecranul de introducere a codului la conectare."
+        },
+        "275269a543b575d0897e5a56d291cbf1": {
+            "text": "Introduce\u021bi num\u0103rul de zile pentru care browserul\/loca\u021bia unui utilizator poate fi re\u021binut\u0103 sau 0 pentru a o dezactiva."
+        },
+        "37eb4d02a9ee33ced10a5ad495bc7ad8": {
+            "text": "Agent de utilizator (browser, platform\u0103 \u0219i versiuni ale fiec\u0103ruia)"
+        },
+        "6b7e493b999bf8d0c92bdc3b29024968": {
+            "text": "Agent utilizator f\u0103r\u0103 versiuni (browser \u0219i platform\u0103, dar f\u0103r\u0103 versiuni - mai pu\u021bin probabil s\u0103 se schimbe des)"
+        },
+        "cff941a9aa13dfcab50294eeaa022925": {
+            "text": "Accepta\u021bi antetul (tipurile de con\u021binut acceptate de browserul utilizatorului)"
+        },
+        "c672dab899263b4175d85bfc8cb7e101": {
+            "text": "Schema de solicitare curent\u0103, indiferent dac\u0103 este HTTP sau HTTPS"
+        },
+        "00a49b9092610102db06e4608e243215": {
+            "text": "Nume gazd\u0103 server (valoarea $config->httpHost)"
+        },
+        "06ed01dbecaff9408ecd32c52b79017a": {
+            "text": "Adresa IP a utilizatorului (REMOTE_ADDR)"
+        },
+        "3add8b73a114f103016f69709c744c6b": {
+            "text": "Adresa IP redirec\u021bionat\u0103 a utilizatorului sau a clientului (HTTP_X_FORWARDED_FOR sau HTTP_CLIENT_IP)"
+        },
+        "4b5d3e81071a18d907f2cb045c473d68": {
+            "text": "Nu permite\u021bi utilizatorului s\u0103 omite introducerea codului atunci c\u00e2nd oricare dintre aceste propriet\u0103\u021bi se modific\u0103"
+        },
+        "ef162e74cf4f410e781d7527ff762b2d": {
+            "text": "Modific\u0103rile parolei, numelui, e-mailului sau unui cookie aleator \u00een browserul utilizatorului vor necesita \u00eentotdeauna introducerea codului la conectare."
+        },
+        "93e378bb66b2ea325b7f8af83f060341": {
+            "text": "\u00cen plus, modific\u0103rile la orice elemente bifate de mai jos vor necesita, de asemenea, introducerea codului la conectare."
+        },
+        "5b83708cddebc0c2b79a0aa6a9fe3b41": {
+            "text": "Aceste propriet\u0103\u021bi formeaz\u0103 o amprent\u0103 a browserului utilizatorului dincolo de cookie-ul aleatoriu pe care l-am setat."
+        },
+        "f4ccf290dcc14df62d1579062d98f413": {
+            "text": "Aceast\u0103 setare se aplic\u0103 numai c\u00e2nd este activat\u0103 op\u021biunea de memorare a browserului\/loca\u021biei."
+        },
+        "987180bcb4c386f67e0922affbf79d0b": {
+            "text": "Autentificare"
+        },
+        "2eeb1b1520e3542ede796b6245e1695a": {
+            "text": "Tip"
+        },
+        "eb85010d3dccc246aa17a0a4671be4a4": {
+            "text": "Roluri"
+        },
+        "ef8f23f26034e25bcf827a963aa8c8b7": {
+            "text": "(click pentru a configura)"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Numara"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Dac\u0103 c\u00e2mpul dvs. va con\u021bine mai multe pagini, ar trebui s\u0103 selecta\u021bi prima op\u021biune (PageArray). Dac\u0103 c\u00e2mpul dvs. va con\u021bine o singur\u0103 pagin\u0103, atunci selecta\u021bi una dintre op\u021biunile pentru o singur\u0103 pagin\u0103 (dac\u0103 nu sunte\u021bi sigur, alege\u021bi ultima op\u021biune)."
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "Pagini Multiple (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "O singur\u0103 pagin\u0103 (Pagin\u0103) sau o valoare boolean\u0103 false pentru a indica c\u0103 nu sunt selectate niciuna"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "O singur\u0103 pagin\u0103 (Pagin\u0103) sau o pagin\u0103 goal\u0103 (NullPage) c\u00e2nd nu sunt selectate niciuna"
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Permite pagini nepublicate?"
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Pagina nu a putut fi g\u0103sit\u0103"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Nu se g\u0103se\u0219te \u0219ablonul"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "G\u0103si\u021bi \u0219i cur\u0103\u021ba\u021bi referin\u021bele la paginile orfane"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Aceast\u0103 op\u021biune elimin\u0103 o problem\u0103 \u00een versiunile mai vechi de ProcessWire care ar putea l\u0103sa referin\u021be orfane la pagini pentru paginile \u0219terse. Dac\u0103 \u00eent\u00e2mpina\u021bi rezultate de c\u0103utare inexacte pentru pagini (\u00een special folosind selectoare cu pageref.count), atunci ar trebui s\u0103 o rula\u021bi.."
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Aten\u021bie: pentru a fi sigur c\u0103 ar trebui s\u0103 face\u021bi o copie de rezerv\u0103 a bazei de date \u00eenainte de aceast\u0103 opera\u021biune."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Caut si fac curatenie..."
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Tipul valorii c\u00e2mpului paginii"
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "Exemple de utilizare API"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "La fel ca mai sus, cu sintax\u0103 alternativ\u0103"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "Mai multe despre metoda %s."
+        },
+        "147ca86a29ed518210e0864f1e0d49ad": {
+            "text": "C\u00e2nd sunt bifate, paginile nepublicate vor putea fi selectate pentru introducere \u0219i vor fi permise \u00een valoarea c\u00e2mpului *neformatat*. Acestea vor fi \u00een continuare excluse din valoarea c\u00e2mpului *formatat* oricum."
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Imaginea redimensionat\u0103 pentru a avea dimensiunea maxim\u0103 permis\u0103"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Immagini"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Una sau mai multe imagini de \u00eenc\u0103rcat (pot fi ordonate)"
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Imagine nevalid\u0103"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Image %s nu \u00eendepline\u0219te cerin\u021bele privind dimensiunea minim\u0103"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Imaginea %s dep\u0103\u0219e\u0219te dimensiunea maxim\u0103 permis\u0103"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Taie"
+        },
+        "e24ee2487879116dcab772c0ac4fe341": {
+            "text": "Focus"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "Variatii"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "Dimensiuni"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Marime fisier"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Editeaza"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "drag and drop imaginile noi de mai sus"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "N\/A"
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "Acest c\u00e2mp de imagini poate avea modific\u0103ri nesalvate care s-ar putea pierde dup\u0103 aceast\u0103 ac\u021biune. Salva\u021bi \u00eenainte de decupare sau face\u021bi dublu clic pe butonul continua\u021bi oricum."
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "introduce\u021bi un fi\u0219ier imagine nou pentru \u00eenlocuit"
+        },
+        "819258e827e9ef9ba926940f30b2697e": {
+            "text": "trage\u021bi cerc \u00een centrul focaliz\u0103rii"
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "Mai sus sunt imagini de previzualizare \u00een miniatur\u0103 mai vechi\/de calitate sc\u0103zut\u0103 \u2013 bifa\u021bi aceast\u0103 caset\u0103 pentru a le recrea."
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "Nu este editabil."
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Actiuni"
+        },
+        "9356bea0f207cd50faacd40798850038": {
+            "text": "Actiune aplicata la salvare"
+        },
+        "9ffbd422925a6839ee820ddbc59278c5": {
+            "text": "Flip"
+        },
+        "8d2de5368588552fbae54044ac5c7b3d": {
+            "text": "Roteste"
+        },
+        "ed75712b0eb1913c28a3872731ffd48d": {
+            "text": "Duplicat"
+        },
+        "9d639c16d0e22f1f4f9b79593e260ce6": {
+            "text": "Elimina\u021bi varia\u021biile"
+        },
+        "baca1adb243ae63002bbb02b3ce5c28d": {
+            "text": "Reconstrui\u021bi varia\u021biile"
+        },
+        "40c760714d188227815e2e1ed3369c29": {
+            "text": "Elimina\u021bi focalizarea"
+        },
+        "c9b416167392c2b301810695b92efa12": {
+            "text": "vertical"
+        },
+        "2ef2dfb893d25c30e3e2bda1a10c8952": {
+            "text": "orizontal"
+        },
+        "f6cb3e816496528d4187db53bc66567f": {
+            "text": "ambele"
+        },
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "copiaza"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Lipeste"
+        },
+        "e4ddc7e3d69547eea44ee08c02eb350d": {
+            "text": "Reduce 50%"
+        },
+        "60e7841801c8734e320b527cbfa8d022": {
+            "text": "Alb&Negru"
+        },
+        "b84a9a38377dc1ab6c6d5005cb461f0d": {
+            "text": "Sepia"
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "S-au recreat toate miniaturile vechi"
+        },
+        "0cb9400e4e73f627d6587cf549c60907": {
+            "text": "Fi\u0219ier duplicat %1$s => %2$s"
+        },
+        "80a599081d30053c4cf6bc91230a9e6c": {
+            "text": "Ac\u021biunea \u201e%1$s\u201d executat\u0103 pe fi\u0219ierul %2$s"
+        },
+        "a45c16f718396868c97a72efcc571842": {
+            "text": "Ac\u021biunea e\u0219uat\u0103 \u201e%1$s\u201d \u00een fi\u0219ierul %2$s"
+        },
+        "ac8883f9998c8b328a96855575eebcc5": {
+            "text": "Nu a fost g\u0103sit niciun handler pentru ac\u021biunea \u201e%1$s\u201d din fi\u0219ierul %2$s"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldURL.module",
+    "textdomain": "wire--modules--inputfield--inputfieldurl-module",
+    "translations": {
+        "34b4cb36f08c1d976a2e58d37d81ce49": {
+            "text": "Porni\u021bi o adres\u0103 URL local\u0103 cu \"\/\" si l\u0103sa\u021bi partea intact\u0103 \"%s\"."
+        },
+        "31d3da8cb2ee3f26243a6157ce0e5634": {
+            "text": "A ap\u0103rut o eroare - v\u0103 rug\u0103m s\u0103 verifica\u021bi dac\u0103 este o adres\u0103 URL valid\u0103"
+        },
+        "db04dc8c39e8a426d723ba1c6f8a2cd4": {
+            "text": "Re\u021bine\u021bi c\u0103 a fost ad\u0103ugat \"http:\/\/\""
+        },
+        "1a30197ddff7dc9d65d91f285125cdc2": {
+            "text": "URL \u00een format corect"
+        }
+    }
+}

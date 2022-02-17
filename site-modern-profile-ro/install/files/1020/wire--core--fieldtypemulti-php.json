@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/FieldtypeMulti.php",
+    "textdomain": "wire--core--fieldtypemulti-php",
+    "translations": {
+        "e2942a04780e223b215eb8b663cf5353": {
+            "text": "numara"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "Sortare si paginare"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "Aceste set\u0103ri se aplic\u0103 at\u00e2t pentru front-end (site-ul), c\u00e2t \u0219i pentru back-end (editor)."
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(revers)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Sortare automata"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "Selecta\u021bi unul sau mai multe c\u00e2mpuri pentru a sorta mai jos. Pentru sortarea manual\u0103, l\u0103sa\u021bi necompletat aceast\u0103 setare."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Limita de paginatie\/ articole pe pagin\u0103"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Aceasta limiteaz\u0103 num\u0103rul de articole \u00eenc\u0103rcate\/editate pe paginare. Valoarea \u201e0\u201d indic\u0103 nicio limit\u0103 (implicit)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "Paginarea este recomandat\u0103 dac\u0103 ve\u021bi lucra cu sute p\u00e2n\u0103 la mii de articole (sau mai multe)."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "Aceast\u0103 setare nu are efect dec\u00e2t dac\u0103 se face o selec\u021bie pentru \u201eSortare automat\u0103\u201d."
+        }
+    }
+}

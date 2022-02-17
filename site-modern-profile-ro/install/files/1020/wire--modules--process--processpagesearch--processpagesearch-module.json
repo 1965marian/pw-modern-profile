@@ -1,0 +1,123 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearch.module",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearch-module",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nu a fost specificat\u0103 nicio c\u0103utare"
+        },
+        "f802f85dd1eb6a1b3fb0591c682807e9": {
+            "text": "Cauta in campuri:"
+        },
+        "52b9d143876d2754dd01be52587b1de8": {
+            "text": "Tip de cautare"
+        },
+        "75ecaaafd1f677d07360709be6528768": {
+            "text": "Cauta:"
+        },
+        "9e230fa5487a0172264f31c0a1b08b61": {
+            "text": "Limita\u021bi la \u0219ablon:"
+        },
+        "6f9d01a14011f05fffe48559583fc609": {
+            "text": "Filtreaz\u0103 dup\u0103:"
+        },
+        "fa4e2f0cea3ceef82c840df64fecb9e4": {
+            "text": "Sortare invers\u0103?"
+        },
+        "1e9c565e43a1f652a2718003bbad887e": {
+            "text": "Mostra campi:"
+        },
+        "b4805a9af05d82889758dda70003cfc6": {
+            "text": "Optiuni de cautare"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Avansata"
+        },
+        "29e9d8e295b1d5b3002d2d3d5baa4c37": {
+            "text": "Comenzi rapide"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "modifica"
+        },
+        "4ecb0055aa1e66535afeaf6093585618": {
+            "text": "Pagina de c\u0103utare"
+        },
+        "d27c07f4c0dd15e39cedd91c19cb279f": {
+            "text": "Cauta"
+        },
+        "4b315bff8c7b70281de8ffffbd150708": {
+            "text": "Caut\u0103 aici"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "am gasit % 1 $d pagina folosind selectorul: % 2 $s"
+        },
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "A gasit %1$d pagini folosind selectorul: %2$s"
+        },
+        "2d29cf36f3ebbd5bab570d70070e5102": {
+            "text": "Nume de c\u00e2mpuri predefinite pentru a fi afi\u0219ate \u00een rezultatele c\u0103ut\u0103rii."
+        },
+        "6cfd6f09104bdac467bb40624aae4e9c": {
+            "text": "Dac\u0103 specifica\u021bi mai multe c\u00e2mpuri, separa\u021bi-le cu un spa\u021biu."
+        },
+        "8aa55d906b86496efeb66b0eae7d75ce": {
+            "text": "Pagini"
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "C\u0103utare live de administrator"
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Ordine de c\u0103utare"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Acestea sunt tipurile de c\u0103ut\u0103ri care vor fi efectuate \u00een timpul unei c\u0103ut\u0103ri live de administrator."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "Trage\u021bi-le \u00een ordinea \u00een care dori\u021bi s\u0103 apar\u0103 rezultatele c\u0103ut\u0103rii."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(excluse)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "Exclude\u021bi tipurile de c\u0103utare"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "Selecta\u021bi orice tip de c\u0103utare pe care dori\u021bi s\u0103 le exclude\u021bi din c\u0103utarea live. Acestea pot fi tipuri pe care nu trebuie s\u0103 le c\u0103uta\u021bi adesea."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "Cu c\u00e2t sunt excluse mai multe tipuri, cu at\u00e2t va fi mai rapid\u0103 c\u0103utarea live."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Orice tip selectat poate fi c\u0103utat \u00een continuare dac\u0103 este cerut \u00een mod specific \u00een c\u0103utare."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "De exemplu, dac\u0103 a\u021bi exclus tipul \"co\u0219 de gunoi\", acesta ar putea fi c\u0103utat \u00een continuare dac\u0103 a\u021bi prefixat c\u0103utarea cu \"co\u0219ul de gunoi=\", cum ar fi \"co\u0219ul de gunoi=Hello\u201d."
+        },
+        "608da9c856f25abd4d2a774f9c5aa9a0": {
+            "text": "(set\u0103ri pentru tipul de pagini)"
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "C\u00e2mpurile paginii de c\u0103utat"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Acest lucru se aplic\u0103 numai rezultatelor c\u0103ut\u0103rii din \u201epagini\u201d \u0219i \u201eco\u0219 de gunoi\u201d."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "V\u0103 recomand\u0103m s\u0103 limita\u021bi acest lucru la cel mult 1 sau 2 c\u00e2mpuri pentru a v\u0103 asigura c\u0103 c\u0103utarea live este rapid\u0103. De obicei, ve\u021bi c\u0103uta doar c\u00e2mpul \u201etitlu\u201d."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "C\u00e2mpurile paginii de c\u0103utat dac\u0103 utilizatorul apas\u0103 \u201eenter\u201d \u00een caseta de c\u0103utare"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "De obicei, acesta ar fi acela\u0219i ca mai sus, dar este posibil s\u0103 dori\u021bi s\u0103 ad\u0103uga\u021bi \u0219i c\u00e2mpuri suplimentare."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "De exemplu, \u00een loc s\u0103 c\u0103uta\u021bi doar c\u00e2mpul \"titlu\", este posibil s\u0103 dori\u021bi s\u0103 c\u0103uta\u021bi \u0219i un c\u00e2mp \"body\"\u201d."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Operator de c\u0103utare implicit pentru c\u0103ut\u0103ri unice \u0219i par\u021biale de cuvinte"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "Operator de c\u0103utare implicit pentru c\u0103ut\u0103ri cu mai multe cuvinte (expresie)."
+        }
+    }
+}

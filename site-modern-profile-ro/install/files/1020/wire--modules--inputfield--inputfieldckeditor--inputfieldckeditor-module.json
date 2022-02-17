@@ -1,0 +1,246 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCKEditor\/InputfieldCKEditor.module",
+    "textdomain": "wire--modules--inputfield--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anulare"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Inserare Link"
+        },
+        "ff15d4e97d08c2ab0351169af757b0f2": {
+            "text": "Modificare Link"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "Alege Immaginea"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "Modifica Immaginea"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "Legenda ta aici"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "Salvarea imaginii"
+        },
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "Modul inline al CKEditor necesit\u0103 modulul MarkupHTMLPurifier. \u00cen schimb, utiliza\u021bi modul normal."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Da"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nu"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Exemplu:"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "Setari CKEditor"
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "Bara de instrumente CKEditor"
+        },
+        "9022c2878a60d1f4ebc0f9f83a09975f": {
+            "text": "Separa\u021bi fiecare element al barei de instrumente cu o virgul\u0103. Grupa\u021bi articolele plas\u00e2ndu-le pe aceea\u0219i linie \u0219i folosi\u021bi o liniu\u021b\u0103 \"-\" unde dori\u021bi s\u0103 apar\u0103 un separator \u00een cadrul unui grup. Dac\u0103 dori\u021bi mai mult de o linie \u00een bara de instrumente, separa\u021bi fiecare linie cu o linie goal\u0103."
+        },
+        "e8ddfb44ace2866e54880497acd251e3": {
+            "text": "Introduce\u021bi un hash \"#\" la \u00eenceputul unei linii dac\u0103 dori\u021bi s\u0103 fie ignorat\u0103."
+        },
+        "dfabf65177db13369e6f60e33d626a25": {
+            "text": "Modul editor"
+        },
+        "f4bbbce516de30f80d2025ca9cc9a595": {
+            "text": "C\u00e2nd modul inline este activat, editorul nu se va \u00eenc\u0103rca p\u00e2n\u0103 c\u00e2nd nu face\u021bi clic pe text. Acest lucru este mai rapid \u0219i mai eficient, deoarece exist\u0103 multe c\u00e2mpuri CKEditor pe pagin\u0103. Cu toate acestea, este posibil s\u0103 nu accepte at\u00e2t de multe func\u021bii sau personaliz\u0103ri ca modul normal."
+        },
+        "1c4caab2cc11e882c71d23c8365e23f5": {
+            "text": "*Modul inline necesit\u0103 instalarea modulului HTML Purifier (MarkupHTMLPurifier)."
+        },
+        "5131613c3ef9d562a3e0e095e0f1fba8": {
+            "text": "*Modulul HTML Purifier necesar este instalat."
+        },
+        "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
+            "text": "Aten\u021bie: nu este instalat \u00een prezent. Trebuie instalat \u00eenainte de a activa modul inline."
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "Utilizza ACF?"
+        },
+        "60f803fa7569e56d3f76d2f622e4130b": {
+            "text": "Dac\u0103 este selectat da, filtrul avansat de con\u021binut (ACF) al CKEditor va fi activ. Acest filtru va elimina automat orice marcaj sau atribute nerecunoscute din codul dvs. HTML. Recomandat."
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "Utiliza\u021bi HTML Purifieir?"
+        },
+        "cab4c54f1577378e89ca8dc055075ae4": {
+            "text": "Dac\u0103 este selectat s\u00ec, con\u021binutul trimis va fi transmis [HTML Purifier](http:\/\/htmlpurifier.org\/) pentru igienizare. Acest lucru este indispensabil atunci c\u00e2nd utiliza\u021bi CKEditor fie pentru modul inline, fie pentru utilizatorii care nu au \u00eencredere. Recomandat in orice caz."
+        },
+        "4a4b882ebec0013773373d7983935b1c": {
+            "text": "Comutatoare pentru Beautify Markup"
+        },
+        "dbb9e7f934e4def553f1d3065635377e": {
+            "text": "Converti\u021bi tag-utile div \u00een etichete de paragraf"
+        },
+        "ed97424627acfa23d899d27908115be3": {
+            "text": "Elimin\u0103 etichetele de paragraf goale"
+        },
+        "ed654cac16ad0b016c80b1e0e04a86fa": {
+            "text": "\u00cendep\u0103rteaz\u0103 spa\u021biile (nbsp)"
+        },
+        "e3e03267810478ccd824a13309388549": {
+            "text": "Acestea sunt op\u021biuni de cur\u0103\u021bare suplimentare (pe l\u00e2ng\u0103 ACF \u0219i HTML Purifier) \u200b\u200bpe care le-am g\u0103sit utile \u00een mai multe situa\u021bii. Acestea sunt aplicate atunci c\u00e2nd pagina este salvat\u0103. Se recomand\u0103 selectarea tuturor acestor op\u021biuni, cu excep\u021bia cazului \u00een care trebuie s\u0103 le l\u0103sa\u021bi \u00een marcaj."
+        },
+        "187cc7fdfc18d7eee937fb34cd6641dc": {
+            "text": "Format tag"
+        },
+        "eb58d10bb9587ab21ba79859997ea7f9": {
+            "text": "Lista de etichete selectabile, separate prin virgule, afi\u0219at\u0103 \u00een meniul drop-down \"format\"."
+        },
+        "73dd33fa6157ee6008e269d67a2843e3": {
+            "text": "Etichetele implicite de format sunt:"
+        },
+        "c6fd363ed202c7dd44b9a3d1b6065adc": {
+            "text": "Contenuto extra permesso"
+        },
+        "988677b6c211741551df50fd57a5d3f4": {
+            "text": "Reguli pentru con\u021binutul permis \u00een CKEditor [extraAllowedContent](http:\/\/docs.ckeditor.com\/#!\/api\/CKEDITOR.config-cfg-extraAllowedContent). Se aplic\u0103 numai dac\u0103 op\u021biunea \"Utiliz\u0103ri ACF\" mai sus este selectat."
+        },
+        "69262424661d8b544ebcba617e5772c6": {
+            "text": "Pute\u021bi insera mai multe reguli inser\u00e2nd fiecare pe r\u00e2ndul s\u0103u."
+        },
+        "378f7539f13b958d62e92c063772ee37": {
+            "text": "Exemplul de mai sus ar permite atributele alt, src, l\u0103\u021bime \u0219i \u00een\u0103l\u021bime pentru etichetele img, cu atributul src necesar \u00eentotdeauna."
+        },
+        "86981868980ec998b671432713a7b65b": {
+            "text": "Vezi [detalii](http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2) \u00een documenta\u021bia CKEditor."
+        },
+        "60eaab37de096deaa26bb3ff7b706095": {
+            "text": "C\u0103ile ar trebui s\u0103 fie relativ la r\u0103d\u0103cina de instalare ProcessWire (de exemplu, dac\u0103 site-ul dvs. este instalat \u00eentr-un subfolder, exclude\u021bi acea parte)."
+        },
+        "b67b49a021c8f28a0be44e276cdcb145": {
+            "text": "Aceast\u0103 op\u021biune v\u0103 permite s\u0103 schimba\u021bi modul \u00een care textul \u0219i alte elemente apar \u00een editor. Acest lucru se aplic\u0103 numai \u00een interfa\u021ba de administrare \u0219i nu \u00een partea de front-end a site-ului dvs."
+        },
+        "c329380c093af757e030c47c58fc31ae": {
+            "text": "Editor pentru fi\u0219iere CSS personalizat (mod normal)"
+        },
+        "1f2a49f98f9868b764037314b9a0a2a0": {
+            "text": "Editor pentru fi\u0219ier CSS personalizat (mod inline)"
+        },
+        "1100db92626b135374ca3ad30025a3d5": {
+            "text": "Editor de stil JS"
+        },
+        "749b7a2316f526ff2ec75692749211ad": {
+            "text": "Op\u021biunea v\u0103 permite s\u0103 specifica\u021bi stiluri personalizate pentru selec\u021bie \u00een editorul dvs. Necesit\u0103 s\u0103 ave\u021bi un element \"Stiluri\" \u00een bara de instrumente."
+        },
+        "2c3077a1dd5833c9dc6f49fe48e3ab71": {
+            "text": "Dac\u0103 este utilizat, introduce\u021bi o proprietate **: valoare ** pe linie sau utiliza\u021bi un string JSON."
+        },
+        "0d26e4905e21b238948dc724daade146": {
+            "text": "Op\u021biuni de configurare personalizate"
+        },
+        "0361833f130e526c7475f0bbcda324f3": {
+            "text": "Utiliza\u021bi acest c\u00e2mp atunci c\u00e2nd dori\u021bi s\u0103 specifica\u021bi set\u0103rile de configurare pentru CKEditor \u00een afara celor disponibile pe acest ecran."
+        },
+        "8b6ac858b8ce3c2724d267695c732325": {
+            "text": "Op\u021biunile de configurare personalizate nu au reu\u0219it validarea JSON."
+        },
+        "d662e23e83bdb75f4e25b3bb7afa2324": {
+            "text": "Dac\u0103 prefera\u021bi, aceste op\u021biuni pot fi definite \u0219i \u00een aceste fi\u0219iere:"
+        },
+        "4cf63a5e6c4eff831c232b0eb238b4ae": {
+            "text": "pentru toate domeniile CKEditor"
+        },
+        "bb87b90b3b4cf5290402d36011056951": {
+            "text": "numai pentru acest domeniu CKEditor"
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "Plugins"
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "Extra Plugins"
+        },
+        "8cd140c060d298234e0079cb77ee8190": {
+            "text": "Au fost g\u0103site urm\u0103toarele pluginuri. Alege\u021bi caseta de l\u00e2ng\u0103 fiecare plugin pe care dori\u021bi s\u0103 \u00eel \u00eenc\u0103rca\u021bi."
+        },
+        "08b808bc7661d755f526f70fbcc07e44": {
+            "text": "Trebuie selectat cel pu\u021bin un plugin."
+        },
+        "9252446fff7e6ba650e51955cb0dc1ad": {
+            "text": "Pentru a ad\u0103uga mai multe plugin-uri, introduce\u021bi-le **\/site\/modules\/InputfieldCKEditor\/plugins\/[name]\/**, substituind **[name]** cu numele pluginului."
+        },
+        "0aef2da721f0ab14676f8d6ffb9e7e8c": {
+            "text": "recomandat"
+        },
+        "7ae98f3a4b96e522d75992c305a4ec2b": {
+            "text": "set\u0103ri %s"
+        },
+        "ced89926ebd1c95b56710b6a873b1e93": {
+            "text": "Set\u0103ri plugin pentru \"%s\" au e\u0219uat validarea JSON."
+        },
+        "9048e64caaebf67509d533265f44414b": {
+            "text": "List\u0103 separat\u0103 prin virgul\u0103 de pluginuri suplimentare pe care CKEditor trebuie s\u0103 le \u00eencarce."
+        },
+        "7540434dd897a8f6f8118c31f2a931ab": {
+            "text": "Exemplu: pwlink,pwimage,myplugin,anotherplugin"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Elimina\u021bi pluginul"
+        },
+        "3b9d2511fcd0e4afc3cc8c6c61b42d23": {
+            "text": "List\u0103 separat\u0103 prin virgul\u0103 de pluginuri eliminate pe care CKEditor nu ar trebui s\u0103 le \u00eencarce."
+        },
+        "b6c2682ed322b5c3625338a5849b9794": {
+            "text": "CKEditor textarea editor de text \u00eembog\u0103\u021bit."
+        },
+        "ddb1f53de8a1598fb3d52552d6246b85": {
+            "text": "en"
+        },
+        "68835c69c5818fea532f3ad00a91be00": {
+            "text": "en"
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Adauga imagine"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "Selecteaza o ancora"
+        },
+        "f05a8abeb447b6720621d879a9197d00": {
+            "text": "Elemente de baz\u0103 disponibile din bara de instrumente:"
+        },
+        "ddfa2d60092cf3c924e8e03b1d2749ad": {
+            "text": "Editor Inline"
+        },
+        "cece69f97e96edb257b883fcf95e4230": {
+            "text": "Editor Regular"
+        },
+        "5876f9779e64d0cac98b54f9885e4f84": {
+            "text": "(\u00een\u0103l\u021bime flexibil\u0103, reglabil\u0103 de utilizator)"
+        },
+        "ea87bd3358b07649df3149bfffc791c8": {
+            "text": "(\u00een\u0103l\u021bime variabil\u0103, se potrive\u0219te cu con\u021binutul)"
+        },
+        "47d8cf2fe51854ad3028ba151ef9f3a1": {
+            "text": "(\u00een\u0103l\u021bime fix\u0103, folose\u0219te setarea r\u00e2ndurilor)"
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "Contorul este acceptat pentru c\u00e2mpurile CKEditor obi\u0219nuite, dar nu pentru c\u00e2mpurile CKEditor inline."
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "C\u00e2mpuri de imagini care pot fi utilizate pentru imaginile trasate sau lipite"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Dac\u0103 nu sunt selectate c\u00e2mpuri, atunci un c\u00e2mp de imagini disponibile va fi ales automat \u00een timpul execu\u021biei. Dac\u0103 este selectat\u0103 op\u021biunea etichetat\u0103 \u201eNiciuna\u201d, atunci caracteristica va fi dezactivat\u0103."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "Niciunul (dezactiva\u021bi \u00eenc\u0103rcarea imaginilor prin glisare\/lipire)"
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "Pagina de utilizat pentru stocarea imaginilor\/asset storage"
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "\u00cen mod implicit, imaginile \u00eenc\u0103rcate vor fi stocate \u00eempreun\u0103 cu pagina \u00een curs de editare. Dac\u0103 dori\u021bi s\u0103 utiliza\u021bi o pagin\u0103 comun\u0103 pentru aceste materiale, selecta\u021bi-o aici."
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "V\u0103 rug\u0103m s\u0103 consulta\u021bi instruc\u021biunile noastre despre cum s\u0103 utiliza\u021bi acest lucru."
+        }
+    }
+}

@@ -1,0 +1,381 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/ProcessPageEdit.module",
+    "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
+    "translations": {
+        "7ba9fe21b073af37b16f989e23112967": {
+            "text": "Pagina necunoscut\u0103"
+        },
+        "b8e75fd085c6615286cee6fdc4e880ec": {
+            "text": "Editarea paginii este blocat\u0103"
+        },
+        "386397f000925f7d90c87a913a678eed": {
+            "text": "Nu ave\u021bi acces pentru a edita"
+        },
+        "df74a326081d841aef061c999c7979f3": {
+            "text": "Schimba: %s"
+        },
+        "c0df350b3d4fe22546834d74cdc77023": {
+            "text": "Pagina Publicata: %s"
+        },
+        "9ce0bc0d85071636f750e39ea86f86c0": {
+            "text": "Pagina Salvata: %s"
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "Nu se poate publica p\u00e2n\u0103 c\u00e2nd erorile nu vor fi corectate"
+        },
+        "f15c1cae7882448b3fb0404682e17e61": {
+            "text": "Continut"
+        },
+        "a1c508c8dcf832bde214942a479c63e5": {
+            "text": "Aceast\u0103 pagin\u0103 este \u00een Co\u0219ul de gunoi"
+        },
+        "404dd23de1c6c7edc7927e5262b93a1b": {
+            "text": "Salva\u021bi + P\u0103stra\u021bi nepublicat"
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "Publica"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Salveaza"
+        },
+        "64e4aca4297806247f62a7b5f8cbd3df": {
+            "text": "Child"
+        },
+        "9b30437c5e1e966fa90525c93356fd3f": {
+            "text": "Child \/ Subpagini"
+        },
+        "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
+            "text": "\u00cen prezent, nu exist\u0103 copii(child)\/subpagini \u00een aceast\u0103 pagin\u0103."
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Copiii\/subpaginile sunt sortate dup\u0103 \"%s\" , pentru set\u0103rile \u0219ablonului."
+        },
+        "a13cc55582da47cab1f7cc7518700c6e": {
+            "text": "Ad\u0103uga\u021bi o pagin\u0103 nou\u0103 aici"
+        },
+        "7e92f49c92e3f91ed88f03063fc34748": {
+            "text": "Op\u021biuni de sortare"
+        },
+        "ea1a60a080fc428d2c18d9e6d33ded08": {
+            "text": "Dac\u0103 dori\u021bi ca to\u021bi copiii s\u0103 fie sorta\u021bi dup\u0103 un anumit c\u00e2mp, selecta\u021bi c\u00e2mpul de mai jos \u0219i, op\u021bional, selecta\u021bi \u201einvers\u201d pentru a face sortarea descendent\u0103. L\u0103sa\u021bi necompletat dac\u0103 dori\u021bi s\u0103 pute\u021bi sorta articolele \u00een ordinea dorit\u0103."
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Set\u0103ri"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Parinte"
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Creat de Utilizator"
+        },
+        "567d412904b379e49382b6e3b90881ca": {
+            "text": "Creat de %1$s cel %2$s"
+        },
+        "1dec6a532601f755520b9567091e1bf8": {
+            "text": "Ultima editare de %1$s cel %2$s"
+        },
+        "4059b0251f66a18cb56f544728796875": {
+            "text": "informa\u021bie"
+        },
+        "cacab211629daeffac10e13574e49d9e": {
+            "text": "Ascuns: exclus din liste \u0219i c\u0103ut\u0103ri"
+        },
+        "ab4b835121255016ef73bea7f4ea45a7": {
+            "text": "Blocat: nu poate fi editat"
+        },
+        "0fdd10ee950975e58b122abb2de3a49b": {
+            "text": "Nepublicat: nu este vizibil pe site"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Statut"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Elimina"
+        },
+        "aa47bb0913144619a0a9abc59d59d6ed": {
+            "text": "Elimina permanentenent"
+        },
+        "7a289ea949902e8fa53efb4b3b4ccea0": {
+            "text": "Muta\u021bi-l la co\u0219ul de gunoi"
+        },
+        "62a92c8e1a013dc0c9a67f2769642e9f": {
+            "text": "Bifa\u021bi caseta pentru a confirma c\u0103 dori\u021bi s\u0103 face\u021bi acest lucru."
+        },
+        "6e2e3de95055596f315a073f771342e3": {
+            "text": "Aceast\u0103 pagin\u0103 nu poate fi \u0219tears\u0103 \u00een acest moment"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Visualizeaza"
+        },
+        "d2387a51d9f67d60dfc2cbb23bd04af2": {
+            "text": "Cine poate accesa aceast\u0103 pagin\u0103 ?"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "Rol"
+        },
+        "36c2b914f293a142343cba0f3157d748": {
+            "text": "Ce pot face ei?"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(toti)"
+        },
+        "890e4f4dd63b6c580cbf534f25914565": {
+            "text": "Accesul este mo\u0219tenit de la pagina \"%1$s\"\u0219i definite \u00een \u0219ablonul: %2$s"
+        },
+        "17f8097b4af11ef352554fc7dd416c34": {
+            "text": "\u0218ablonul '%s' nepermis"
+        },
+        "c4101b17a6f3bb8ffbe40eb9edef2347": {
+            "text": "Aceast\u0103 pagin\u0103 nu poate fi \u0219tears\u0103"
+        },
+        "827884bd1b673b7e58def7d09bf59b8b": {
+            "text": "Pagina a fost \u0219tears\u0103: %s"
+        },
+        "a419fb9d9fe259c36eb1e4a99462bd1f": {
+            "text": "Am mutat pagina \u00een co\u0219ul de gunoi: %s"
+        },
+        "6c86eb040dbb20b1c6e1e891774b27ac": {
+            "text": "Nu se poate muta pagina \u00een co\u0219ul de gunoi"
+        },
+        "8f1db4fbdd736bfc472e99f61be9e56f": {
+            "text": "S-a schimbat \u0219ablonul din \"%1$s\" in \"%2$s\""
+        },
+        "11daf8e4f72e87c440ed3e0cac443157": {
+            "text": "Confirma\u021bi modificarea \u0219ablonului"
+        },
+        "48af63aeec834982fcf91e325aaea998": {
+            "text": "Aten\u021bie, schimbarea \u0219ablonului va \u0219terge urm\u0103toarele c\u00e2mpuri:"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Esti sigur?"
+        },
+        "e4c2fcbaac781d00fe1e192a4d94c0e9": {
+            "text": "Confirma\u021bi c\u0103 \u00een\u021belege\u021bi notificarea de mai sus f\u0103c\u00e2nd clic pe caseta de mai jos."
+        },
+        "6b102e11bd33fb8f4be6a6cecf2c491b": {
+            "text": "Nu ave\u021bi permisiunea de a schimba \u0219ablonul de pe aceast\u0103 pagin\u0103."
+        },
+        "854de5f33bda667c67117b0aaee5a9cf": {
+            "text": "Acest \u0219ablon nu este permis"
+        },
+        "d4ad7f8661990f191def1fb3a6accbd9": {
+            "text": "S-a schimbat \u0219ablonul \u00een '%s'"
+        },
+        "7ddc881b8c4b63699dd8487273384a38": {
+            "text": "Child sunt sorta\u021bi dup\u0103"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nimeni"
+        },
+        "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
+            "text": "Tragerea manual\u0103"
+        },
+        "591acadb8502cd6db313b718df45a6f4": {
+            "text": "C\u00e2mpuri predefinite"
+        },
+        "833956a760d996ae61ea8b385e9fb6f0": {
+            "text": "C\u00e2mpuri predefinite"
+        },
+        "d49042595c2674084c92d561b714d522": {
+            "text": "Ordine invers\u0103?"
+        },
+        "265dabf958cffe4bf96d445dcddf8678": {
+            "text": "%d schimbate"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "%d schimbat"
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Modifica Pagina: %s"
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "Adresa URL a paginii a fost schimbat\u0103 \u00een \"%s\" deoarece numele cerut a fost deja luat."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "="
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "publicat pe %s"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Confirma"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "toate"
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Aceast\u0103 pagin\u0103 poate avea unul sau mai multe c\u00e2mpuri incomplete (\u00eencerca\u021bi s\u0103 salva\u021bi sau s\u0103 publica\u021bi pentru mai multe informa\u021bii)"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Iesire"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + Vizualizare"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + Adauga nou"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + Urmatorul"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "Esti sigur? O \u00eenc\u0103rcare este \u00een curs de desf\u0103\u0219urare \u0219i poate fi pierdut\u0103 dac\u0103 continua\u021bi."
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Ce pagini leag\u0103(link) la aceast\u0103 pagin\u0103?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Nu este listabil"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "S-au g\u0103sit %d alte pagini cu linkuri c\u0103tre aceasta \u00een c\u00e2mpurile de pagin\u0103 sau linkuri href."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(\u00een c\u00e2mpul paginii)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d pagini suplimentare nu sunt afi\u0219ate."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Ce alte adrese URL redirec\u021bioneaz\u0103 c\u0103tre aceast\u0103 pagin\u0103?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "Ori de c\u00e2te ori o pagin\u0103 este mutat\u0103 sau numele se schimb\u0103, ne amintim loca\u021bia anterioar\u0103 pentru redirec\u021bion\u0103ri."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "Mai jos este o list\u0103 de adrese URL (c\u0103i) care redirec\u021bioneaz\u0103 automat c\u0103tre aceast\u0103 pagin\u0103 (folosind redirec\u021bionarea permanent\u0103 301)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Pute\u021bi \u0219terge orice c\u0103i\/URL-uri sau pute\u021bi ad\u0103uga manual altele noi."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "F\u0103r\u0103 c\u0103i de redirec\u021bionare"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Nu inca"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Redirec\u021bionare \u0219tears\u0103 pentru adresa URL anterioar\u0103: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Ad\u0103uga\u021bi noi adrese URL de redirec\u021bionare"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Introduce\u021bi c\u0103i\/URL-uri suplimentare (una pe linie) care ar trebui s\u0103 redirec\u021bioneze c\u0103tre aceast\u0103 pagin\u0103."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Introduce\u021bi numai calea URL (adic\u0103 \u201e\/hello\/world\/\u201d), NU include\u021bi schema, domeniul, portul, \u0219irul de interogare sau fragmentele."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "C\u0103ile sunt relativ la r\u0103d\u0103cina site-ului, a\u0219a c\u0103 NU include\u021bi subdirectorul %s la \u00eenceput."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Pentru a specifica o limb\u0103 pentru redirec\u021bionare, introduce\u021bi calea\/URL-ul pe linia prefixat\u0103 cu numele limbii:"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(pentru %s)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Redirec\u021bionare ad\u0103ugat\u0103: %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Nu se poate ad\u0103uga redirec\u021bionarea %s deoarece pare s\u0103 intre \u00een conflict cu o alt\u0103 cale"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Restaurare"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "Scoate\u021bi din co\u0219ul de gunoi \u0219i restabili\u021bi-l \u00een loca\u021bia ini\u021bial\u0103"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Bifa\u021bi caseta pentru a confirma c\u0103 dori\u021bi s\u0103 restaura\u021bi aceast\u0103 pagin\u0103."
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "Pagina va fi restaurat\u0103 la: %s."
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "Numele original va fi ajustat de la %1$s la %2$s pentru a fi unic."
+        },
+        "802d4ac742bc4c352f14d68f10856b2d": {
+            "text": "Accesul este definit cu \u0219ablonul acestei pagini: %s"
+        },
+        "be308063778a2b4976cb94b0e8c7ee84": {
+            "text": "Vizualizabil dup\u0103 adresa URL dac\u0103 pagina avea un fi\u0219ier \u0219ablon (\u00een prezent nu are)."
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "A fost eliminat\u0103 starea semnalat\u0103 deoarece nu au fost raportate erori \u00een timpul salv\u0103rii"
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "Pagina nu poate fi restabilit\u0103 \u00een timp ce exist\u0103 erori"
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Pagina restaurat\u0103: %s"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Eroare la restaurarea paginii"
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Nu exist\u0103 o pagin\u0103 urm\u0103toare care poate fi editat\u0103."
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Valoarea anterioar\u0103 a fost restabilit\u0103"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "Pagina nepublicat\u0103 deoarece c\u00e2mpul \u201e%s\u201d este obligatoriu"
+        },
+        "f5fafb7927ee3b6486882051f8f1c9b4": {
+            "text": "Stare ad\u0103ugat\u0103: %s"
+        },
+        "a8e9b386531e893ec224b5712121f1fe": {
+            "text": "Stare eliminat\u0103: %s"
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(doar \u00een limba implicit\u0103)"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Unic: solicita\u021bi ca numele paginii \u201e%s\u201d s\u0103 fie unic la nivel global"
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "\"Vizualiza\u021bi\" loca\u021bie\/ac\u021biune implicit\u0103"
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "Tipul implicit de ac\u021biune utilizat atunci c\u00e2nd se face clic pe fila \"Vizualizare\" \u00een editorul de pagini."
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Vizualizare pagina"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "Cos"
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "Popup modal"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Fereastr\u0103\/fil\u0103 nou\u0103"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Iesir + Vizualizare"
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "Sterge"
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Cand"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Limba"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Actual"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "Parinte"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(\u00een linkul href)"
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Nu am g\u0103sit alte pagini care s\u0103 trimit\u0103 c\u0103tre aceasta \u00een c\u00e2mpurile paginii sau link-urile href."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectmultiple-module",
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Adauga"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anulare"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selectare"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Deselectare"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mai mult"
+        },
+        "1063e38cb53d94d386f21227fcd84717": {
+            "text": "Elimina"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "Nu se poate prezenta acest c\u00e2mp din cauza absen\u021bei unei pagini p\u0103rinte \u00een set\u0103rile c\u00e2mpului."
+        },
+        "fae5139ea4669e57a1e1d43da734b60d": {
+            "text": "Lista pagini Selecta\u021bi Multiple"
+        },
+        "3677aac44cf40763444008a08a7e33aa": {
+            "text": "Selecta\u021bi mai multe pagini dintr-o list\u0103 de arbore de pagini ProcessWire"
+        }
+    }
+}

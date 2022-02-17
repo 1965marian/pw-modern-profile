@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/InputfieldDatetime.module",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--inputfielddatetime-module",
+    "translations": {
+        "1feebee2f4ca4af215e8b47f37695f99": {
+            "text": "Dac\u0103 este bifat, acest c\u00e2mp va con\u021bine data curent\u0103 dac\u0103 nu este introdus\u0103 nicio valoare."
+        },
+        "a1af5f0718bfae275ce162362d0e43c5": {
+            "text": "Datetime"
+        },
+        "d27357121209bd712604d8af46cd2460": {
+            "text": "Inputfield care accept\u0103 data \u0219i op\u021bional ora"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Tipul de Imput"
+        },
+        "13f25c1325ea96579dff3ca9b5c408de": {
+            "text": "Implicit la data de azi?"
+        }
+    }
+}

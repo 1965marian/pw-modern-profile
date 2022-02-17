@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "Preselec\u021bia configura\u021biei nu este populat\u0103, deoarece valoarea nu este \u00eentotdeauna necesar\u0103. Corecta\u021bi configura\u021bia acestui c\u00e2mp."
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "Op\u021biunile de importare nu sunt \u00eenc\u0103 implementate. Cu toate acestea, ele pot fi importate cu u\u0219urin\u021b\u0103 de la un site la altul direct prin copiere \/ inserare din ecranul de editare a c\u00e2mpului."
+        },
+        "33568d5ff03072672cce95681df20964": {
+            "text": "Alege\u021bi op\u021biunile"
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "C\u00e2mp care con\u021bine op\u021biuni de selec\u021bie unic\u0103 \u0219i multiple"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titlu"
+        },
+        "d88cb87988c18a5b8e9652d49d857d4c": {
+            "text": "Text valoric"
+        }
+    }
+}

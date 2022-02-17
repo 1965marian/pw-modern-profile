@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/ProcessSessionDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--processsessiondb-module",
+    "translations": {
+        "cd86d5313ca52208459b6bc0cfbe9fbb": {
+            "text": "Numar de minute"
+        },
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Timp"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "Utilizator"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Pagina"
+        },
+        "32dc37d4cb3662c77f3415b48673af02": {
+            "text": "Adresa de IP"
+        },
+        "dfb790522fdea3859af206d32916fe77": {
+            "text": "Agent utilizator"
+        },
+        "96e3fa0d1eb9be568924ee1c73b5594d": {
+            "text": "F\u0103r\u0103 sesiuni active"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Re\u00eemprosp\u0103ta"
+        },
+        "a9c4b6c9fbd990849d1f128dfc4ed3e7": {
+            "text": "Sesiune"
+        },
+        "7d48386aa0c37cae93a89ad878847b0a": {
+            "text": "V\u0103 permite s\u0103 r\u0103sfoi\u021bi sesiunile de baze de date active."
+        },
+        "e37d52373bb6cfceb4f1985b2fd76db6": {
+            "text": "Sesiuni active \u00een ultimul minut"
+        },
+        "4ba03014e35e3b0b49352b059fb7309e": {
+            "text": "Sesiuni active \u00een ultimele %d minute"
+        },
+        "14db3637a09c9b2ca9c1338171285965": {
+            "text": "%d sesiune activ\u0103"
+        },
+        "a29ecfb237834699193ba759c9af8efe": {
+            "text": "%d sesiuni active"
+        }
+    }
+}

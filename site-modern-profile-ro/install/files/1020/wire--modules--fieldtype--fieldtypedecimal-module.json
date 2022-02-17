@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDecimal.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedecimal-module",
+    "translations": {
+        "0f26309b1be1b637d35f604c298b57df": {
+            "text": "Schema c\u00e2mpului \"%1$s\" actualizat\u0103: %2$s => %3$s"
+        },
+        "506c2c0c7f5b70af3df68c45c46f45a7": {
+            "text": "De exemplu:"
+        },
+        "a495e52f576ff7677bb1ebe793e5cc9e": {
+            "text": "Num\u0103rul total de cifre acceptate"
+        },
+        "6bc3814dd7bc238bb8c0f906e323d4d7": {
+            "text": "Include cifre at\u00e2t \u00eenainte, c\u00e2t \u0219i dup\u0103 virgul\u0103 zecimal\u0103."
+        },
+        "7a12767f99c7a4fcac27286992c2030f": {
+            "text": "999,99 este un total de 5 cifre, deci ar fi necesar\u0103 o valoare de 5 sau mai mare."
+        },
+        "7d06ba10369f702102235f72dc0f34c8": {
+            "text": "Num\u0103rul de cifre prezente dup\u0103 zecimal\u0103"
+        },
+        "0e2cec5723266f020033868d628d6061": {
+            "text": "Aceast\u0103 valoare va fi mai mic\u0103 dec\u00e2t (sau \u00een unele cazuri egal\u0103 cu) num\u0103rul total de cifre."
+        },
+        "6acc82c74212c97024e366c4c20d7e3c": {
+            "text": "999,99 \u0219i 100,00 au 2 cifre dup\u0103 zecimal\u0103"
+        },
+        "937504f318f04eaf0f1d701df4c4d7f3": {
+            "text": "Zecimal"
+        },
+        "c9abe09f2a14ec066fadf2954ea16aa6": {
+            "text": "C\u00e2mp care stocheaz\u0103 un num\u0103r zecimal"
+        }
+    }
+}

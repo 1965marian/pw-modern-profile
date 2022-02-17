@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldMarkup.module",
+    "textdomain": "wire--modules--inputfield--inputfieldmarkup-module",
+    "translations": {
+        "2ea61fab9633ba2efc3af0e85f8859f9": {
+            "text": "Text de markup"
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Formatatoare de text"
+        },
+        "7b332ecb7817aa0e0d772e9220b5eae9": {
+            "text": "Alege\u021bi formatul textului dvs. de Markup sau formatatoarele pe care dori\u021bi s\u0103 le aplica\u021bi, \u00een ordinea \u00een care dori\u021bi s\u0103 le aplica\u021bi."
+        },
+        "0a803ca330899c7b7eb07d290ebbb5e8": {
+            "text": "Dac\u0103 textul dvs. de Markup este HTML, nu pute\u021bi selecta niciun format de text."
+        },
+        "e51e08a727173e8719e480316459991e": {
+            "text": "Markup"
+        },
+        "29513c0a079504b7b1ba10953d7270ac": {
+            "text": "Con\u021bine orice alt Markup \u0219i, op\u021bional, Inputfield secundare"
+        }
+    }
+}

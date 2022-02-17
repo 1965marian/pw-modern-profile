@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/PagePathHistory.module",
+    "textdomain": "wire--modules--pagepathhistory-module",
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "Varsta minima(secunde)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "\u00cencepe\u021bi s\u0103 \u00eenregistra\u021bi istoricul pentru o pagin\u0103 la at\u00e2tea secunde dup\u0103 ce a fost creat\u0103. Se recomand\u0103 cel pu\u021bin 2 sau mai multe secunde."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "Implicit: %s"
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "Au fost \u0219terse %d c\u0103i istorice de pagin\u0103"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "\u0218terge\u021bi \u00eentreg istoricul c\u0103ilor paginii?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "\u00cen prezent, exist\u0103 %d c\u0103i istorice pentru pagini \u00een baza de date."
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Esti sigur?"
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "Aceste informa\u021bii sunt folosite pentru redirec\u021bion\u0103ri automate \u0219i multe altele. Nu poate fi recuperat odat\u0103 \u0219ters. Bifa\u021bi caseta pentru a confirma c\u0103 dori\u021bi cu adev\u0103rat s\u0103 face\u021bi acest lucru."
+        }
+    }
+}

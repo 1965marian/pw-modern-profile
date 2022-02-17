@@ -1,0 +1,9 @@
+{
+    "file": "wire\/core\/SessionCSRF.php",
+    "textdomain": "wire--core--sessioncsrf-php",
+    "translations": {
+        "f5456cee91779e33a9f38ddca5081710": {
+            "text": "Aceast\u0103 solicitare a fost blocat\u0103 deoarece pare a fi falsificat\u0103."
+        }
+    }
+}

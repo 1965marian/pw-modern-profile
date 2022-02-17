@@ -1,0 +1,171 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "C\u00e2mpul repetitorului \u201e%s\u201d are o setare de dependen\u021b\u0103 \u201enecesar numai dac\u0103\u201d, iar aceasta nu este acceptat\u0103 \u00een Repeatoare."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "V\u0103 rug\u0103m s\u0103 ad\u0103uga\u021bi c\u00e2mpuri la acest repetor din fila \u201edetalii\u201d."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Defini\u021bi c\u00e2mpurile care sunt utilizate de acest repetor. De asemenea, pute\u021bi trage \u0219i plasa c\u00e2mpurile \u00een ordinea dorit\u0103."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Adauga camp"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Etichetele articolelor repetoare"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Introduce\u021bi numele c\u00e2mpului de utilizat pentru etichetele repetoare \u00een editorul de pagini sau l\u0103sa\u021bi necompletat pentru a genera automat."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Pentru a utiliza mai multe c\u00e2mpuri sau pentru a specifica propriul \u0219ir de format, \u00eencadra\u021bi numele c\u00e2mpurilor \u00eentre {paranteze}."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Pentru a include un num\u0103r de index al repetorului cu fiecare etichet\u0103, ad\u0103uga\u021bi \"#n\" undeva \u00een \u0219irul de format."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Exemplu: #n: {titlu}"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Etichet\u0103 pentru ad\u0103ugarea unui articol nou"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Introduce\u021bi eticheta pe care dori\u021bi s\u0103 o utiliza\u021bi pentru textul\/butonul \u201eAd\u0103uga\u021bi un articol nou\u201d sau l\u0103sa\u021bi necompletat pentru valoarea implicit\u0103."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Vizibilitatea elementului repetitor \u00een editor"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Elementele repetoare pot fi deschise sau restr\u00e2nse (necesit\u00e2nd un clic pentru a fi deschise). Modul restr\u00e2ns este mai convenabil pentru sortarea \u0219i vizualizarea tuturor articolelor \u00eempreun\u0103."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Articole noi deschise, elementele existente restr\u00e2nse (recomandat pentru majoritatea cazurilor)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Articole \u00eentotdeauna deschise (dezactiveaz\u0103 \u00eenc\u0103rcarea dinamic\u0103 pentru articolele existente)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Articolele colapsabile \u00eentotdeauna"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "\u00cenc\u0103rcare dinamic\u0103 a repetitorului (AJAX) \u00een editor"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "Ce elemente ar trebui s\u0103 fie \u00eenc\u0103rcate dinamic cu AJAX \u00een editorul de pagini? Dac\u0103 descoperi\u021bi c\u0103 repetorul dvs. utilizeaz\u0103 un c\u00e2mp care nu func\u021bioneaz\u0103 cu \u00eenc\u0103rcarea dinamic\u0103, poate fi necesar s\u0103 dezactiva\u021bi aceast\u0103 func\u021bie."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Articole existente \u0219i noi (recomandat, \u00een special pentru repetoare care ar putea avea MULTE articole)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "Numai articole noi (bun pentru repetitori care vor avea doar c\u00e2teva articole)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Oprit"
+        },
+        "031e3292fe279734b454896226066dfc": {
+            "text": "V\u0103 aminti\u021bi ce articole repetoare sunt deschise?"
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Folosi\u021bi modul acordeon?"
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Numarul maxim de articole"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Dac\u0103 trebuie s\u0103 limita\u021bi num\u0103rul de articole permise, introduce\u021bi limita aici (0=f\u0103r\u0103 limit\u0103)."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Numarul minim de articole"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Aceste multe articole vor fi \u00eentotdeauna deschise \u0219i gata de editare (0=f\u0103r\u0103 minim)."
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Ad\u00e2ncimea articolului"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Pentru a sus\u021bine articole cu ad\u00e2ncime, introduce\u021bi ad\u00e2ncimea maxim\u0103 permis\u0103 sau l\u0103sa\u021bi necompletat pentru a dezactiva."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "C\u00e2nd edita\u021bi un repetor, pute\u021bi modifica ad\u00e2ncimea elementului f\u0103c\u00e2nd clic pe s\u0103ge\u021bile de glisare a elementului repetitor \u0219i tr\u0103g\u00e2nd elementul la dreapta sau la st\u00e2nga."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Ad\u00e2ncimile sunt bazate pe zero, adic\u0103 o ad\u00e2ncime de 3 permite ad\u00e2ncimile 0, 1, 2 \u0219i 3."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "Depth poate fi accesat dintr-un element de pagin\u0103 repet\u0103 prin $item->depth."
+        },
+        "b88543bf2626f096ed455b862390b4e3": {
+            "text": "Folosi\u021bi ad\u00e2ncimea articolului potrivit\u0103 pentru familie?"
+        },
+        "fc26899013e5130bf0f035bcb6645e36": {
+            "text": "Aceasta \u00eenseamn\u0103 c\u0103 mutarea\/sortarea unui articol include \u0219i articole copil."
+        },
+        "239509c1f5621ac1d950faf5de9d9111": {
+            "text": "De asemenea, \u00eempiedic\u0103 tragerea unui element copil pentru a avea o ad\u00e2ncime care dep\u0103\u0219e\u0219te cu mai mult de 1 elementul p\u0103rinte."
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "\u0218terge\u021bi elementele repetitoare vechi\/neutilizate?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Exist\u0103 %d articole repetoare vechi\/neutilizate, bifa\u021bi aceast\u0103 caset\u0103 pentru a le \u0219terge."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Un articol repetitor este considerat vechi dac\u0103 are cel pu\u021bin 3 zile \u0219i nu a fost \u00eenc\u0103 populat sau publicat."
+        },
+        "06f7e37d7cc093483d98d11772f75837": {
+            "text": "Elemente repetoare maxime"
+        },
+        "9175b33ed3085ade32188d58a242e0bc": {
+            "text": "Num\u0103rul maxim de articole repetoare permise."
+        },
+        "8db1e9fd86969c9e9ee4c09365c260a6": {
+            "text": "Dac\u0103 se seteaz\u0103 la 0, nu va exista nicio limit\u0103 maxim\u0103."
+        },
+        "f29a8c723be64c58c0e9f4cbd6c32a88": {
+            "text": "Dac\u0103 este setat la 1, acest c\u00e2mp va ac\u021biona ca un singur articol [Page], mai degrab\u0103 dec\u00e2t mai multe elemente [PageArray]."
+        },
+        "66eb0d45c43394f51bdb0397febc5b4f": {
+            "text": "Re\u021bine\u021bi c\u0103 atunci c\u00e2nd outputFormatting este dezactivat, se va comporta \u00eentotdeauna ca un PageArray, indiferent de setarea de aici."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Tip repetitor"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "C\u00e2nd este \u201eata\u0219at\u201d, repetorul \u00ee\u0219i va gestiona propriul \u0219ablon \u0219i pagina p\u0103rinte f\u0103r\u0103 a fi nevoie s\u0103 vede\u021bi sau s\u0103 v\u0103 g\u00e2ndi\u021bi la el."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "C\u00e2nd este \u201edeta\u0219at\u201d, pute\u021bi muta \u0219i modifica pagina p\u0103rinte a repetitorului \u0219i \u0219ablonul dup\u0103 cum crede\u021bi de cuviin\u021b\u0103."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Re\u021bine\u021bi c\u0103, odat\u0103 deta\u0219at, ProcessWire nu va \u0219terge p\u0103rintele sau \u0219ablonul c\u00e2nd\/dac\u0103 c\u00e2mpul este \u0219ters."
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "C\u00e2mpul \"%1$s\" a fost ad\u0103ugat la \"%2$s\""
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Campul  \"%1$s\"  a fost sters din \"%2$s\""
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "S-au \u0219ters %d articole repetoare vechi\/neutilizate"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "Pagina p\u0103rinte %s este acum deta\u0219at\u0103 \u0219i poate fi mutat\u0103 sau modificat\u0103."
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "C\u00e2mpuri repetitoare"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "V\u0103 aminti\u021bi ce articole repetoare sunt deschise?"
+        },
+        "d608f61f5c7a0e2b84a3ae252a596a48": {
+            "text": "C\u00e2nd este bifat, un singur element repetor va fi deschis la un moment dat."
+        },
+        "9b7bbf35ecde2744bc2b120d7a19e425": {
+            "text": "Aceast\u0103 setare face ca editorul paginii de administrare s\u0103 trateze ad\u00e2ncimea articolului ca pe o rela\u021bie p\u0103rinte\/copil."
+        }
+    }
+}

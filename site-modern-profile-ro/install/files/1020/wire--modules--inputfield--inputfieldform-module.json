@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldForm.module",
+    "textdomain": "wire--modules--inputfield--inputfieldform-module",
+    "translations": {
+        "98c9c3ab74a1b32e2278dd17586938f2": {
+            "text": "Exist\u0103 modific\u0103ri nesalvate:"
+        },
+        "d359c6df99b25183d81f7d728b71de0e": {
+            "text": "Formular(Form)"
+        },
+        "d1e114b786b9fa971fbba24b8e584a43": {
+            "text": "Con\u021bine unul sau mai multe c\u00e2mpuri dintr-un formular"
+        }
+    }
+}
